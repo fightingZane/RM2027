@@ -18,10 +18,13 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "can.h"
 #include "gpio.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+
+#include "can_io.h"
 
 /* USER CODE END Includes */
 
@@ -75,6 +78,8 @@ int main(void)
 
   /* USER CODE BEGIN Init */
 
+  void can_init();
+
   /* USER CODE END Init */
 
   /* Configure the system clock */
@@ -86,6 +91,7 @@ int main(void)
 
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
+  MX_CAN1_Init();
   /* USER CODE BEGIN 2 */
 
   /* USER CODE END 2 */
@@ -94,6 +100,9 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+    can_send(0x1FE,1000,0,0,0);
+    HAL_Delay(2);
+
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
