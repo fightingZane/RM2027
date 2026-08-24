@@ -56,10 +56,10 @@ RM = "D:\01_D_app_download_center\CLion 2026.2.1\bin\cmake\win\x64\bin\cmake.exe
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2
+CMAKE_SOURCE_DIR = D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2\cmake-build-debug
+CMAKE_BINARY_DIR = D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,16 +86,16 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2\cmake-build-debug\CMakeFiles D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main codegen target
 codegen: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2\cmake-build-debug\CMakeFiles D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 codegen
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles 0
 .PHONY : codegen
 
 # The main clean target
@@ -695,6 +695,54 @@ User/CAN/can_io.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.s
 .PHONY : User/CAN/can_io.c.s
 
+User/Motor/Motor.obj: User/Motor/Motor.cpp.obj
+.PHONY : User/Motor/Motor.obj
+
+# target to build an object file
+User/Motor/Motor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+.PHONY : User/Motor/Motor.cpp.obj
+
+User/Motor/Motor.i: User/Motor/Motor.cpp.i
+.PHONY : User/Motor/Motor.i
+
+# target to preprocess a source file
+User/Motor/Motor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.i
+.PHONY : User/Motor/Motor.cpp.i
+
+User/Motor/Motor.s: User/Motor/Motor.cpp.s
+.PHONY : User/Motor/Motor.s
+
+# target to generate assembly for a file
+User/Motor/Motor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.s
+.PHONY : User/Motor/Motor.cpp.s
+
+User/PID/pid.obj: User/PID/pid.cpp.obj
+.PHONY : User/PID/pid.obj
+
+# target to build an object file
+User/PID/pid.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+.PHONY : User/PID/pid.cpp.obj
+
+User/PID/pid.i: User/PID/pid.cpp.i
+.PHONY : User/PID/pid.i
+
+# target to preprocess a source file
+User/PID/pid.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.i
+.PHONY : User/PID/pid.cpp.i
+
+User/PID/pid.s: User/PID/pid.cpp.s
+.PHONY : User/PID/pid.s
+
+# target to generate assembly for a file
+User/PID/pid.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.s
+.PHONY : User/PID/pid.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -775,6 +823,12 @@ help:
 	@echo ... User/CAN/can_io.obj
 	@echo ... User/CAN/can_io.i
 	@echo ... User/CAN/can_io.s
+	@echo ... User/Motor/Motor.obj
+	@echo ... User/Motor/Motor.i
+	@echo ... User/Motor/Motor.s
+	@echo ... User/PID/pid.obj
+	@echo ... User/PID/pid.i
+	@echo ... User/PID/pid.s
 .PHONY : help
 
 

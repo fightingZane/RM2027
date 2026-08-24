@@ -1,5 +1,11 @@
 Archive member included to satisfy reference by file (symbol)
 
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+                              CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj (__aeabi_fmul)
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                              CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj (__aeabi_fsub)
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+                              CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj (__aeabi_fcmplt)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
                               CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj (__aeabi_uldivmod)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
@@ -127,8 +133,8 @@ Discarded input sections
                 0x00000000       0xa8 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .debug_rnglists
                 0x00000000       0x79 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .debug_line    0x00000000      0x430 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .debug_str     0x00000000      0x487 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x00000000      0x43e CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00000000      0x4a3 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .debug_frame   0x00000000      0x190 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .ARM.attributes
@@ -147,8 +153,8 @@ Discarded input sections
                 0x00000000       0x20 CMakeFiles/RM2027.elf.dir/Core/Src/sysmem.c.obj
  .debug_rnglists
                 0x00000000       0x13 CMakeFiles/RM2027.elf.dir/Core/Src/sysmem.c.obj
- .debug_line    0x00000000      0x219 CMakeFiles/RM2027.elf.dir/Core/Src/sysmem.c.obj
- .debug_str     0x00000000      0x2b3 CMakeFiles/RM2027.elf.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x00000000      0x227 CMakeFiles/RM2027.elf.dir/Core/Src/sysmem.c.obj
+ .debug_str     0x00000000      0x2cf CMakeFiles/RM2027.elf.dir/Core/Src/sysmem.c.obj
  .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Core/Src/sysmem.c.obj
  .debug_frame   0x00000000       0x28 CMakeFiles/RM2027.elf.dir/Core/Src/sysmem.c.obj
  .ARM.attributes
@@ -341,8 +347,8 @@ Discarded input sections
                 0x00000000       0x90 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_rnglists
                 0x00000000       0x6c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- .debug_line    0x00000000      0xf37 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- .debug_str     0x00000000      0x804 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_line    0x00000000      0xf61 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_str     0x00000000      0x820 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_frame   0x00000000      0x188 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .ARM.attributes
@@ -366,8 +372,8 @@ Discarded input sections
                 0x00000000       0x38 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_rnglists
                 0x00000000       0x26 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
- .debug_line    0x00000000      0xfee CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
- .debug_str     0x00000000      0x5d7 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_line    0x00000000     0x1018 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_str     0x00000000      0x5f3 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_frame   0x00000000       0x68 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .ARM.attributes
@@ -401,8 +407,8 @@ Discarded input sections
                 0x00000000       0x60 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_rnglists
                 0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
- .debug_line    0x00000000      0x6f4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
- .debug_str     0x00000000      0x46f CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_line    0x00000000      0x71e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_str     0x00000000      0x48b CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_frame   0x00000000       0xe8 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .ARM.attributes
@@ -453,8 +459,8 @@ Discarded input sections
                 0x00000000       0xa0 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_rnglists
                 0x00000000       0x75 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
- .debug_line    0x00000000      0x895 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
- .debug_str     0x00000000      0x5d8 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_line    0x00000000      0x8cd CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_str     0x00000000      0x5f4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_frame   0x00000000      0x164 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .ARM.attributes
@@ -502,8 +508,8 @@ Discarded input sections
                 0x00000000       0x98 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_rnglists
                 0x00000000       0x6f CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
- .debug_line    0x00000000      0x78b CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
- .debug_str     0x00000000      0x628 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_line    0x00000000      0x7b5 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_str     0x00000000      0x644 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_frame   0x00000000      0x164 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .ARM.attributes
@@ -515,8 +521,8 @@ Discarded input sections
  .debug_abbrev  0x00000000       0x26 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .debug_aranges
                 0x00000000       0x18 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
- .debug_line    0x00000000       0xb5 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
- .debug_str     0x00000000      0x248 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_line    0x00000000       0xc3 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_str     0x00000000      0x264 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .ARM.attributes
                 0x00000000       0x2e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
@@ -580,8 +586,8 @@ Discarded input sections
                 0x00000000       0xa0 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_rnglists
                 0x00000000       0x74 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
- .debug_line    0x00000000      0x560 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
- .debug_str     0x00000000      0x5cf CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_line    0x00000000      0x598 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_str     0x00000000      0x5eb CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_frame   0x00000000      0x138 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .ARM.attributes
@@ -609,8 +615,8 @@ Discarded input sections
                 0x00000000       0x48 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_rnglists
                 0x00000000       0x31 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
- .debug_line    0x00000000      0x3f9 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
- .debug_str     0x00000000      0x480 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_line    0x00000000      0x423 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_str     0x00000000      0x49c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_frame   0x00000000       0x90 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .ARM.attributes
@@ -663,8 +669,8 @@ Discarded input sections
                 0x00000000       0x48 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_rnglists
                 0x00000000       0x33 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
- .debug_line    0x00000000      0x74a CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
- .debug_str     0x00000000      0x555 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_line    0x00000000      0x774 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_str     0x00000000      0x571 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_frame   0x00000000       0xa4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .ARM.attributes
@@ -674,6 +680,83 @@ Discarded input sections
  .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
  .text.can_init
                 0x00000000       0x3c CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_info    0x00000000       0x73 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_abbrev  0x00000000       0x26 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_line    0x00000000       0x99 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_str     0x00000000      0x237 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .text          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .text._ZN4PIDc8PID_InitEP5PID_tfff
+                0x00000000       0x14 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .ARM.extab.text._ZN4PIDc8PID_InitEP5PID_tfff
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .ARM.exidx.text._ZN4PIDc8PID_InitEP5PID_tfff
+                0x00000000        0x8 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .text._ZN4PIDc10PID_UpdateEP5PID_tff
+                0x00000000       0x60 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .ARM.extab.text._ZN4PIDc10PID_UpdateEP5PID_tff
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .ARM.exidx.text._ZN4PIDc10PID_UpdateEP5PID_tff
+                0x00000000        0x8 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .text._ZN4PIDc13PID_CalculateEP5PID_t
+                0x00000000       0x9a CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .ARM.extab.text._ZN4PIDc13PID_CalculateEP5PID_t
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .ARM.exidx.text._ZN4PIDc13PID_CalculateEP5PID_t
+                0x00000000        0x8 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .text._ZN4PIDc11Pos_Spd_PIDEP5PID_tS1_fff
+                0x00000000       0x30 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .ARM.extab.text._ZN4PIDc11Pos_Spd_PIDEP5PID_tS1_fff
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .ARM.exidx.text._ZN4PIDc11Pos_Spd_PIDEP5PID_tS1_fff
+                0x00000000        0x8 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .debug_info    0x00000000      0x505 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .debug_abbrev  0x00000000      0x1cf CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .debug_loclists
+                0x00000000      0x113 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .debug_aranges
+                0x00000000       0x38 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .debug_rnglists
+                0x00000000       0x26 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .debug_line    0x00000000      0x259 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .debug_str     0x00000000      0x421 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .debug_frame   0x00000000       0x78 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .text          0x00000000      0x168 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_line_str
+                0x00000000       0xcb C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x00000000       0x24 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .text          0x00000000      0x21c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_line_str
+                0x00000000       0xcb C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00000000       0x4c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .text          0x00000000       0xec C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_line_str
+                0x00000000       0xcb C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_frame   0x00000000       0xc8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
  .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
@@ -973,6 +1056,10 @@ LOAD CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pw
 LOAD CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
 LOAD CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
 LOAD CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+LOAD CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+LOAD CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libstdc++.a
+LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libm.a
 START GROUP
 LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a
 LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a
@@ -1415,8 +1502,9 @@ LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
                 0x20000054                uwTick
  .bss.ID.0      0x20000058        0x2 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
  *fill*         0x2000005a        0x2 
- .bss.Yaw_Data  0x2000005c        0x8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
-                0x2000005c                Yaw_Data
+ .bss.Motor_Data_1
+                0x2000005c        0x8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+                0x2000005c                Motor_Data_1
  .bss.rx_data   0x20000064        0x8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
                 0x20000064                rx_data
  .bss.__lock___atexit_recursive_mutex
@@ -1619,36 +1707,36 @@ LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
  .debug_rnglists
                 0x000003f0       0x25 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
 
-.debug_line     0x00000000     0x5050
- .debug_line    0x00000000      0x453 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
- .debug_line    0x00000453      0x1fd CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
- .debug_line    0x00000650      0x51c CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
- .debug_line    0x00000b6c      0x204 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_line    0x00000d70      0x376 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_line    0x000010e6      0x2cc CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_line    0x000013b2       0x7a CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
- .debug_line    0x0000142c      0x6c1 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_line    0x00001aed     0x12a5 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
- .debug_line    0x00002d92      0x984 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_line    0x00003716      0x7f9 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_line    0x00003f0f      0xcc1 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_line    0x00004bd0      0x480 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+.debug_line     0x00000000     0x528e
+ .debug_line    0x00000000      0x48b CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
+ .debug_line    0x0000048b      0x219 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x000006a4      0x570 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00000c14      0x220 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_line    0x00000e34      0x3a0 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_line    0x000011d4      0x2e8 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_line    0x000014bc       0x7a CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+ .debug_line    0x00001536      0x6f9 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_line    0x00001c2f     0x12dd CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+ .debug_line    0x00002f0c      0x9bc CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_line    0x000038c8      0x823 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_line    0x000040eb      0xceb CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_line    0x00004dd6      0x4b8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
 
-.debug_str      0x00000000     0x241e
- .debug_str     0x00000000     0x241e CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
-                                0xbeb (size before relaxing)
- .debug_str     0x0000241e      0x33d CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
- .debug_str     0x0000241e      0x557 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
- .debug_str     0x0000241e      0x349 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_str     0x0000241e      0x584 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_str     0x0000241e      0x3af CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_str     0x0000241e       0xff CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
- .debug_str     0x0000241e      0xbf2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_str     0x0000241e      0xac3 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
- .debug_str     0x0000241e      0xd03 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_str     0x0000241e      0x56e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_str     0x0000241e      0x794 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_str     0x0000241e      0x77e CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+.debug_str      0x00000000     0x24e6
+ .debug_str     0x00000000     0x24e6 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
+                                0xc07 (size before relaxing)
+ .debug_str     0x000024e6      0x359 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
+ .debug_str     0x000024e6      0x573 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
+ .debug_str     0x000024e6      0x365 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_str     0x000024e6      0x5a0 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_str     0x000024e6      0x3cb CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_str     0x000024e6      0x11b CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+ .debug_str     0x000024e6      0xc0e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_str     0x000024e6      0xadf CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+ .debug_str     0x000024e6      0xd1f CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_str     0x000024e6      0x58a CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_str     0x000024e6      0x7b0 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_str     0x000024e6      0x79e CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
 
 .comment        0x00000000       0x45
  .comment       0x00000000       0x45 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
@@ -1689,11 +1777,11 @@ LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
  .debug_frame   0x00000dac       0x34 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
 
 .debug_line_str
-                0x00000000      0x1b5
+                0x00000000      0x1d1
  .debug_line_str
-                0x00000000      0x1b5 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
-                                 0xe3 (size before relaxing)
+                0x00000000      0x1d1 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+                                 0xff (size before relaxing)
  .debug_line_str
-                0x000001b5       0xc6 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x000001d1       0xc6 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
  .debug_line_str
-                0x000001b5       0xca C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x000001d1       0xca C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)

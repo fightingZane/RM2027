@@ -46,12 +46,16 @@ file(REMOVE_RECURSE
   "CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj.d"
   "CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj"
   "CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj.d"
+  "CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj"
+  "CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj.d"
+  "CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj"
+  "CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj.d"
   "RM2027.elf"
   "RM2027.elf.manifest"
   "RM2027.elf.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang ASM C)
+foreach(lang ASM C CXX)
   include(CMakeFiles/RM2027.elf.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

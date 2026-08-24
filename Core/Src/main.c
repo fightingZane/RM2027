@@ -24,7 +24,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
-#include "can_io.h"
+#include "can_io.hpp"
 
 /* USER CODE END Includes */
 

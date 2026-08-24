@@ -2,13 +2,13 @@
 // Created by ZanePioneer on 2026/8/10.
 //
 
-#include "can_io.h"
+#include "can_io.hpp"
 
 #include "can.h"
 #include "stm32f4xx_hal_can.h"
 
 uint8_t rx_data[8];
-Motor_Data Yaw_Data;
+Motor_Data Motor_Data_1;
 
 void can_init()
 {
@@ -67,10 +67,10 @@ void can_receive()
     switch (ID)
     {
         case Yaw_receive_ID : {
-        Yaw_Data.Angle     = rx_data[0] << 8 | rx_data[1];
-        Yaw_Data.Speed     = rx_data[2] << 8 | rx_data[3];
-        Yaw_Data.Current   = rx_data[4] << 8 | rx_data[5];
-        Yaw_Data.Temperature = rx_data[6];
+        Motor_Data_1.Angle     = rx_data[0] << 8 | rx_data[1];
+        Motor_Data_1.Speed     = rx_data[2] << 8 | rx_data[3];
+        Motor_Data_1.Current   = rx_data[4] << 8 | rx_data[5];
+        Motor_Data_1.Temperature = rx_data[6];
         break;
         }
         default:

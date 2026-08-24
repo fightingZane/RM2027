@@ -50,6 +50,8 @@ endif ()
 
 include_directories(${includes})
 include_directories(User/CAN)
+include_directories(User/Motor)
+include_directories(User/PID)
 
 add_definitions(${defines})
 

@@ -26,7 +26,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "D:/01_D_app_download_center/CLion 2026.2.1/bin/cmake/win/x64/share/cmake-4.3/Modules/Internal/CMakeCXXLinkerInformation.cmake"
   "D:/01_D_app_download_center/CLion 2026.2.1/bin/cmake/win/x64/share/cmake-4.3/Modules/Internal/CMakeCommonLinkerInformation.cmake"
   "D:/01_D_app_download_center/CLion 2026.2.1/bin/cmake/win/x64/share/cmake-4.3/Modules/Platform/Generic.cmake"
-  "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2/CMakeLists.txt"
+  "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/CMakeLists.txt"
   "CMakeFiles/4.3.1/CMakeASMCompiler.cmake"
   "CMakeFiles/4.3.1/CMakeCCompiler.cmake"
   "CMakeFiles/4.3.1/CMakeCXXCompiler.cmake"
