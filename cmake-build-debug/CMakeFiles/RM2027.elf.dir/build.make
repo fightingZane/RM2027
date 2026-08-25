@@ -99,19 +99,19 @@ CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.s"
 	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Src\gpio.c -o CMakeFiles\RM2027.elf.dir\Core\Src\gpio.c.s
 
-CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj: CMakeFiles/RM2027.elf.dir/flags.make
-CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Src/main.c
-CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj: CMakeFiles/RM2027.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj"
-	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj -MF CMakeFiles\RM2027.elf.dir\Core\Src\main.c.obj.d -o CMakeFiles\RM2027.elf.dir\Core\Src\main.c.obj -c D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Src\main.c
+CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj: CMakeFiles/RM2027.elf.dir/flags.make
+CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Src/main.cpp
+CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj: CMakeFiles/RM2027.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj"
+	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj -MF CMakeFiles\RM2027.elf.dir\Core\Src\main.cpp.obj.d -o CMakeFiles\RM2027.elf.dir\Core\Src\main.cpp.obj -c D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Src\main.cpp
 
-CMakeFiles/RM2027.elf.dir/Core/Src/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/RM2027.elf.dir/Core/Src/main.c.i"
-	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Src\main.c > CMakeFiles\RM2027.elf.dir\Core\Src\main.c.i
+CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.i"
+	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Src\main.cpp > CMakeFiles\RM2027.elf.dir\Core\Src\main.cpp.i
 
-CMakeFiles/RM2027.elf.dir/Core/Src/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/RM2027.elf.dir/Core/Src/main.c.s"
-	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Src\main.c -o CMakeFiles\RM2027.elf.dir\Core\Src\main.c.s
+CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.s"
+	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Src\main.cpp -o CMakeFiles\RM2027.elf.dir\Core\Src\main.cpp.s
 
 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj: CMakeFiles/RM2027.elf.dir/flags.make
 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Src/stm32f4xx_hal_msp.c
@@ -392,19 +392,19 @@ CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.s"
 	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c -o CMakeFiles\RM2027.elf.dir\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c.s
 
-CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj: CMakeFiles/RM2027.elf.dir/flags.make
-CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/CAN/can_io.c
-CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj: CMakeFiles/RM2027.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj"
-	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj -MF CMakeFiles\RM2027.elf.dir\User\CAN\can_io.c.obj.d -o CMakeFiles\RM2027.elf.dir\User\CAN\can_io.c.obj -c D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\CAN\can_io.c
+CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj: CMakeFiles/RM2027.elf.dir/flags.make
+CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/CAN/can_io.cpp
+CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj: CMakeFiles/RM2027.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj"
+	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj -MF CMakeFiles\RM2027.elf.dir\User\CAN\can_io.cpp.obj.d -o CMakeFiles\RM2027.elf.dir\User\CAN\can_io.cpp.obj -c D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\CAN\can_io.cpp
 
-CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.i"
-	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\CAN\can_io.c > CMakeFiles\RM2027.elf.dir\User\CAN\can_io.c.i
+CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.i"
+	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\CAN\can_io.cpp > CMakeFiles\RM2027.elf.dir\User\CAN\can_io.cpp.i
 
-CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.s"
-	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\CAN\can_io.c -o CMakeFiles\RM2027.elf.dir\User\CAN\can_io.c.s
+CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.s"
+	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\CAN\can_io.cpp -o CMakeFiles\RM2027.elf.dir\User\CAN\can_io.cpp.s
 
 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj: CMakeFiles/RM2027.elf.dir/flags.make
 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Motor/Motor.cpp
@@ -438,7 +438,7 @@ CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.s: cmake_force
 RM2027_elf_OBJECTS = \
 "CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj" \
 "CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj" \
-"CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj" \
+"CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj" \
 "CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj" \
 "CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj" \
 "CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj" \
@@ -459,7 +459,7 @@ RM2027_elf_OBJECTS = \
 "CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj" \
 "CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj" \
 "CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj" \
-"CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj" \
+"CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj" \
 "CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj" \
 "CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj"
 
@@ -468,7 +468,7 @@ RM2027_elf_EXTERNAL_OBJECTS =
 
 RM2027.elf: CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
-RM2027.elf: CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
+RM2027.elf: CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
@@ -489,7 +489,7 @@ RM2027.elf: CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx
 RM2027.elf: CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
-RM2027.elf: CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+RM2027.elf: CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/build.make

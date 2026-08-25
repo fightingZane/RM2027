@@ -10,7 +10,7 @@
 uint8_t rx_data[8];
 Motor_Data Motor_Data_1;
 
-void can_init()
+void CANc::can_init()
 {
     CAN_FilterTypeDef can_filter_st;
     can_filter_st.FilterBank = 0;         //选择过滤器序号
@@ -32,7 +32,7 @@ void can_init()
 
 }
 
-void can_send(int16_t ID,int16_t Mess_1,int16_t Mess_2,int16_t Mess_3,int16_t Mess_4 )
+void CANc::can_send(int16_t ID,int16_t Mess_1,int16_t Mess_2,int16_t Mess_3,int16_t Mess_4 )
 {
     uint32_t Sent_Mailbox = 0;
     CAN_TxHeaderTypeDef Tx_message;
@@ -57,7 +57,7 @@ void can_send(int16_t ID,int16_t Mess_1,int16_t Mess_2,int16_t Mess_3,int16_t Me
     HAL_CAN_AddTxMessage(&hcan1, &Tx_message, can_send_message, &Sent_Mailbox);
 }
 
-void can_receive()
+void CANc::can_receive()
 {
     CAN_RxHeaderTypeDef rx_header;
     static int16_t ID ;
@@ -82,5 +82,6 @@ void can_receive()
 
 void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef *hcan)
 {
-    can_receive();
+    CANc can;
+    can.can_receive();
 }

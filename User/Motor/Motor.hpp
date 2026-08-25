@@ -9,15 +9,15 @@
 #include "stm32f4xx_hal.h"
 #include "pid.hpp"
 
-class Motor
+class MOTORc
 {
 private:
     PIDc PID;
 
 
 public:
-    void PID_Init(void);
-    void PID_loop();
+    void motor_Init();
+    void motor_loop(float target_angle);
 
 };
 

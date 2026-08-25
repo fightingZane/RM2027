@@ -77,7 +77,7 @@ CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj: D:/03_RoboMaster_center/Hot_Pot_R
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 
-CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Src/main.c \
+CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Src/main.cpp \
   C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdint.h \
@@ -115,7 +115,9 @@ CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj: D:/03_RoboMaster_center/Hot_Pot_R
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
-  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/CAN/can_io.hpp
+  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/CAN/can_io.hpp \
+  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Motor/Motor.hpp \
+  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/PID/pid.hpp
 
 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Src/stm32f4xx_hal_msp.c \
   C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
@@ -800,7 +802,7 @@ CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
 
-CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/CAN/can_io.c \
+CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/CAN/can_io.cpp \
   C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
   C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_default_types.h \
   C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdint.h \
@@ -837,7 +839,7 @@ CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj: D:/03_RoboMaster_center/Hot_Pot
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
-  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/CAN/can_io.h
+  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/CAN/can_io.hpp
 
 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Motor/Motor.cpp \
   C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
@@ -892,6 +894,8 @@ D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learn
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Src/can.c:
 
+D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Motor/Motor.hpp:
+
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h:
 
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdint.h:
@@ -908,11 +912,11 @@ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/i
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Inc/can.h:
 
-D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stdint.h:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/PID/pid.hpp:
 
-C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/13.3.1/include/stdint.h:
+D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
 
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/errno.h:
 
@@ -927,8 +931,6 @@ D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learn
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdio.h:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h:
-
-D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Src/main.c:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
 
@@ -946,11 +948,11 @@ D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learn
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/CMSIS/Include/cmsis_version.h:
 
+D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Src/main.cpp:
+
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/CMSIS/Include/core_cm4.h:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
-
-D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/CAN/can_io.c:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
 
@@ -959,8 +961,6 @@ D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learn
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/time.h:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h:
-
-C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_timespec.h:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h:
 
@@ -1008,8 +1008,6 @@ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/alloca.h
 
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_time.h:
 
-C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_sigset.h:
-
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/stdlib.h:
 
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/ieeefp.h:
@@ -1021,6 +1019,10 @@ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/newlib.h:
 
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_locale.h:
+
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_sigset.h:
+
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_timespec.h:
 
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_timeval.h:
 
@@ -1082,10 +1084,8 @@ D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learn
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:
 
-D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/CAN/can_io.h:
+D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/CAN/can_io.cpp:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Motor/Motor.cpp:
-
-D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Motor/Motor.hpp:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/PID/pid.cpp:

@@ -183,29 +183,29 @@ Core/Src/gpio.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.s
 .PHONY : Core/Src/gpio.c.s
 
-Core/Src/main.obj: Core/Src/main.c.obj
+Core/Src/main.obj: Core/Src/main.cpp.obj
 .PHONY : Core/Src/main.obj
 
 # target to build an object file
-Core/Src/main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
-.PHONY : Core/Src/main.c.obj
+Core/Src/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+.PHONY : Core/Src/main.cpp.obj
 
-Core/Src/main.i: Core/Src/main.c.i
+Core/Src/main.i: Core/Src/main.cpp.i
 .PHONY : Core/Src/main.i
 
 # target to preprocess a source file
-Core/Src/main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/main.c.i
-.PHONY : Core/Src/main.c.i
+Core/Src/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.i
+.PHONY : Core/Src/main.cpp.i
 
-Core/Src/main.s: Core/Src/main.c.s
+Core/Src/main.s: Core/Src/main.cpp.s
 .PHONY : Core/Src/main.s
 
 # target to generate assembly for a file
-Core/Src/main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/main.c.s
-.PHONY : Core/Src/main.c.s
+Core/Src/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.s
+.PHONY : Core/Src/main.cpp.s
 
 Core/Src/stm32f4xx_hal_msp.obj: Core/Src/stm32f4xx_hal_msp.c.obj
 .PHONY : Core/Src/stm32f4xx_hal_msp.obj
@@ -671,29 +671,29 @@ Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.s
 .PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.s
 
-User/CAN/can_io.obj: User/CAN/can_io.c.obj
+User/CAN/can_io.obj: User/CAN/can_io.cpp.obj
 .PHONY : User/CAN/can_io.obj
 
 # target to build an object file
-User/CAN/can_io.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
-.PHONY : User/CAN/can_io.c.obj
+User/CAN/can_io.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+.PHONY : User/CAN/can_io.cpp.obj
 
-User/CAN/can_io.i: User/CAN/can_io.c.i
+User/CAN/can_io.i: User/CAN/can_io.cpp.i
 .PHONY : User/CAN/can_io.i
 
 # target to preprocess a source file
-User/CAN/can_io.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.i
-.PHONY : User/CAN/can_io.c.i
+User/CAN/can_io.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.i
+.PHONY : User/CAN/can_io.cpp.i
 
-User/CAN/can_io.s: User/CAN/can_io.c.s
+User/CAN/can_io.s: User/CAN/can_io.cpp.s
 .PHONY : User/CAN/can_io.s
 
 # target to generate assembly for a file
-User/CAN/can_io.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.s
-.PHONY : User/CAN/can_io.c.s
+User/CAN/can_io.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.s
+.PHONY : User/CAN/can_io.cpp.s
 
 User/Motor/Motor.obj: User/Motor/Motor.cpp.obj
 .PHONY : User/Motor/Motor.obj

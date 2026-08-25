@@ -25,6 +25,8 @@
 /* USER CODE BEGIN Includes */
 
 #include "can_io.hpp"
+#include "Motor.hpp"
+#include "pid.hpp"
 
 /* USER CODE END Includes */
 
@@ -77,8 +79,10 @@ int main(void)
   HAL_Init();
 
   /* USER CODE BEGIN Init */
+  CANc can ;
+  MOTORc motor;
 
-  void can_init();
+  motor.motor_Init();
 
   /* USER CODE END Init */
 
@@ -100,8 +104,9 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-    can_send(0x1FE,1000,0,0,0);
-    HAL_Delay(2);
+    can.can_receive();
+    motor.motor_loop(1000);
+    HAL_Delay(5);
 
     /* USER CODE END WHILE */
 

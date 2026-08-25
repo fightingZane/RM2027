@@ -88,11 +88,13 @@ float PIDc::PID_Calculate(PID_t *WhichPID){
 * @retval 返回计算结果PID_Out
 */
 //Pos = Position，位置；Spd = Speed，速度；param = parameter，参数/状态结构体
-
-float PIDc::Pos_Spd_PID(PID_t *Spdparam,PID_t *Posparam, float Pos_Target, float Pos_Input, const float Spd_Input){
-    PID_Update(Posparam,Pos_Input,Pos_Target);
+//详细讲解：
+//首先更新当下的新位置（算出误差等信息），用位置环pid计算出下一步速度的期望值（就是位置环的输出，即posparam->output）
+//然后再用位置环的输出作为速度环的期望输入，更新速度环的信息，计算出下一步电机应该如何转动（pwm）
+float PIDc::Pos_Spd_PID(PID_t *Spdparam,PID_t *Posparam, float Pos_Target, float Pos_feedback, const float Spd_Input){
+    PID_Update(Posparam,Pos_feedback,Pos_Target);
     PID_Calculate(Posparam);//先进行位置环PID运算（外环）
-    PID_Update(Spdparam,Spd_Input,Posparam->PID_Out);  //Target如此赋值是为让位置环的Error_Now和input相等，Error_Now=Target - NowInput
+    PID_Update(Spdparam,Spd_Input,Posparam->PID_Out);
     PID_Calculate(Spdparam);//后进行速度环PID运算（内环）
     return Spdparam->PID_Out;
 }

@@ -6,12 +6,22 @@ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/1
                               CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj (__aeabi_fsub)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
                               CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj (__aeabi_fcmplt)
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+                              CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj (__aeabi_f2iz)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
                               CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj (__aeabi_uldivmod)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                              CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj (__aeabi_unwind_cpp_pr0)
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(libunwind.o)
+                              C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o) (restore_core_regs)
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+                              C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-abort.o)
+                              C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o) (abort)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o (exit)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
@@ -22,16 +32,20 @@ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/1
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o) (__sread)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o (memset)
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+                              C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-abort.o) (raise)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o) (_close_r)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o) (errno)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
-                              C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o) (_impure_ptr)
+                              C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o) (_impure_ptr)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o) (_lseek_r)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o) (_read_r)
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signalr.o)
+                              C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o) (_kill_r)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-stdio.o) (_write_r)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-errno.o)
@@ -40,6 +54,8 @@ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/1
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memcpy.o)
+                              C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o) (memcpy)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
                               C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o) (__call_exitprocs)
 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
@@ -92,9 +108,15 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
  .data          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
  .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
- .text          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
- .data          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
- .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+ .ARM.extab.text.Error_Handler
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+ .ARM.extab.text._Z18SystemClock_Configv
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+ .ARM.extab.text.main
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
  .text          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
  .data          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
  .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
@@ -106,9 +128,6 @@ Discarded input sections
  .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .text.initialise_monitor_handles
                 0x00000000        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .text._getpid  0x00000000        0x4 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .text._kill    0x00000000       0x10 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .text._exit    0x00000000        0xc CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .text._read    0x00000000       0x20 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .text._write   0x00000000       0x1c CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .text._close   0x00000000        0x6 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
@@ -125,20 +144,6 @@ Discarded input sections
  .text._execve  0x00000000       0x10 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .data.environ  0x00000000        0x4 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .bss.__env     0x00000000        0x4 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .debug_info    0x00000000      0x789 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .debug_abbrev  0x00000000      0x1c1 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .debug_loclists
-                0x00000000      0x2cd CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .debug_aranges
-                0x00000000       0xa8 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .debug_rnglists
-                0x00000000       0x79 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .debug_line    0x00000000      0x43e CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .debug_str     0x00000000      0x4a3 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .debug_frame   0x00000000      0x190 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
- .ARM.attributes
-                0x00000000       0x2e CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .text          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/sysmem.c.obj
  .data          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/sysmem.c.obj
  .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/sysmem.c.obj
@@ -223,10 +228,6 @@ Discarded input sections
                 0x00000000        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .text.HAL_CAN_MspDeInit
                 0x00000000        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
- .text.HAL_CAN_ConfigFilter
-                0x00000000      0x13c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
- .text.HAL_CAN_Start
-                0x00000000       0x5c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .text.HAL_CAN_Stop
                 0x00000000       0x62 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .text.HAL_CAN_DeInit
@@ -247,8 +248,6 @@ Discarded input sections
                 0x00000000       0x2c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .text.HAL_CAN_GetRxFifoFillLevel
                 0x00000000       0x26 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
- .text.HAL_CAN_ActivateNotification
-                0x00000000       0x24 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .text.HAL_CAN_DeactivateNotification
                 0x00000000       0x26 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .text.HAL_CAN_RxFifo0MsgPendingCallback
@@ -675,88 +674,43 @@ Discarded input sections
  .debug_frame   0x00000000       0xa4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .ARM.attributes
                 0x00000000       0x2e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
- .text          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
- .data          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
- .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
- .text.can_init
-                0x00000000       0x3c CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+ .text          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .ARM.extab.text._ZN4CANc8can_initEv
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .ARM.extab.text._ZN4CANc8can_sendEsssss
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .ARM.extab.text._ZN4CANc11can_receiveEv
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .ARM.extab.text.HAL_CAN_RxFifo0MsgPendingCallback
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
  .text          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
  .data          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
  .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
- .debug_info    0x00000000       0x73 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
- .debug_abbrev  0x00000000       0x26 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
- .debug_aranges
-                0x00000000       0x18 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
- .debug_line    0x00000000       0x99 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
- .debug_str     0x00000000      0x237 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
- .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
- .ARM.attributes
-                0x00000000       0x2e CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .ARM.extab.text._ZN6MOTORc10motor_InitEv
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .ARM.extab.text._ZN6MOTORc10motor_loopEf
+                0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
  .text          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
  .data          0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
  .bss           0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .text._ZN4PIDc8PID_InitEP5PID_tfff
-                0x00000000       0x14 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
  .ARM.extab.text._ZN4PIDc8PID_InitEP5PID_tfff
                 0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .ARM.exidx.text._ZN4PIDc8PID_InitEP5PID_tfff
-                0x00000000        0x8 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .text._ZN4PIDc10PID_UpdateEP5PID_tff
-                0x00000000       0x60 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
  .ARM.extab.text._ZN4PIDc10PID_UpdateEP5PID_tff
                 0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .ARM.exidx.text._ZN4PIDc10PID_UpdateEP5PID_tff
-                0x00000000        0x8 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .text._ZN4PIDc13PID_CalculateEP5PID_t
-                0x00000000       0x9a CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
  .ARM.extab.text._ZN4PIDc13PID_CalculateEP5PID_t
                 0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .ARM.exidx.text._ZN4PIDc13PID_CalculateEP5PID_t
-                0x00000000        0x8 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .text._ZN4PIDc11Pos_Spd_PIDEP5PID_tS1_fff
-                0x00000000       0x30 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
  .ARM.extab.text._ZN4PIDc11Pos_Spd_PIDEP5PID_tS1_fff
                 0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .ARM.exidx.text._ZN4PIDc11Pos_Spd_PIDEP5PID_tS1_fff
-                0x00000000        0x8 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .debug_info    0x00000000      0x505 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .debug_abbrev  0x00000000      0x1cf CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .debug_loclists
-                0x00000000      0x113 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .debug_aranges
-                0x00000000       0x38 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .debug_rnglists
-                0x00000000       0x26 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .debug_line    0x00000000      0x259 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .debug_str     0x00000000      0x421 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .comment       0x00000000       0x46 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .debug_frame   0x00000000       0x78 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .ARM.attributes
-                0x00000000       0x2e CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
- .text          0x00000000      0x168 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
- .debug_line_str
-                0x00000000       0xcb C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
- .debug_frame   0x00000000       0x24 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
- .ARM.attributes
-                0x00000000       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
- .text          0x00000000      0x21c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
- .debug_line_str
-                0x00000000       0xcb C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
- .debug_frame   0x00000000       0x4c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
- .ARM.attributes
-                0x00000000       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
- .text          0x00000000       0xec C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
- .debug_line_str
-                0x00000000       0xcb C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
- .debug_frame   0x00000000       0xc8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
- .ARM.attributes
-                0x00000000       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
  .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
@@ -764,8 +718,135 @@ Discarded input sections
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
  .ARM.extab.text.__udivmoddi4
                 0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.selfrel_offset31
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.search_EIT_table
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_get_pr_addr
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.get_eit_entry
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.restore_non_core_regs
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__gnu_unwind_24bit.isra.0
+                0x00000000        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_24bit.isra.0
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_unwind_24bit.isra.0
+                0x00000000        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_DebugHook
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.unwind_phase2
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.unwind_phase2_forced
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_GetCFA
+                0x00000000        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_GetCFA
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_GetCFA
+                0x00000000        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_RaiseException
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_ForcedUnwind
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Resume
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Resume_or_Rethrow
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_Complete
+                0x00000000        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_Complete
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_Complete
+                0x00000000        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_DeleteException
+                0x00000000        0xc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_DeleteException
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_DeleteException
+                0x00000000        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Get
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_GetGR
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Set
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_SetGR
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_Unwind_Backtrace
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__gnu_unwind_pr_common
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr0
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr1
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text.__aeabi_unwind_cpp_pr2
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.extab.text._Unwind_VRS_Pop
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(libunwind.o)
+ .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(libunwind.o)
+ .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text.next_unwind_byte
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text._Unwind_GetGR.constprop.0
+                0x00000000       0x1c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetGR.constprop.0
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetGR.constprop.0
+                0x00000000        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text.unwind_UCB_from_context
+                0x00000000        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text.unwind_UCB_from_context
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.unwind_UCB_from_context
+                0x00000000        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text.__gnu_unwind_execute
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text.__gnu_unwind_frame
+                0x00000000       0x2c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text.__gnu_unwind_frame
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.__gnu_unwind_frame
+                0x00000000        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text._Unwind_GetRegionStart
+                0x00000000        0xc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetRegionStart
+                0x00000000        0xc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetRegionStart
+                0x00000000        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text._Unwind_GetLanguageSpecificData
+                0x00000000       0x14 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text._Unwind_GetLanguageSpecificData
+                0x00000000        0xc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text._Unwind_GetLanguageSpecificData
+                0x00000000        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text.unlikely._Unwind_GetDataRelBase
+                0x00000000        0x6 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely._Unwind_GetDataRelBase
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely._Unwind_GetDataRelBase
+                0x00000000        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text.unlikely._Unwind_GetTextRelBase
+                0x00000000        0x6 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely._Unwind_GetTextRelBase
+                0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely._Unwind_GetTextRelBase
+                0x00000000        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-abort.o)
+ .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-abort.o)
+ .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-abort.o)
  .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-exit.o)
@@ -797,12 +878,8 @@ Discarded input sections
  .text.__fp_unlock_all
                 0x00000000       0x24 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
  .data.__sglue  0x00000000        0xc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
- .bss.__sf      0x00000000      0x138 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
  .bss.__stdio_exit_handler
                 0x00000000        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
- .debug_frame   0x00000000      0x13c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
- .ARM.attributes
-                0x00000000       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
  .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fwalk.o)
@@ -828,6 +905,22 @@ Discarded input sections
  .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+ .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+ .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+ .text._init_signal_r
+                0x00000000       0x30 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+ .text._signal_r
+                0x00000000       0x50 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+ .text._raise_r
+                0x00000000       0x54 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+ .text.__sigtramp_r
+                0x00000000       0x64 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+ .text.signal   0x00000000       0x50 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+ .text._init_signal
+                0x00000000       0x38 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+ .text.__sigtramp
+                0x00000000       0x68 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
  .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-closer.o)
@@ -841,19 +934,9 @@ Discarded input sections
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
  .text._reclaim_reent
                 0x00000000       0x6c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
- .bss.errno     0x00000000        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
- .debug_frame   0x00000000       0x3c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
- .ARM.attributes
-                0x00000000       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
  .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
- .data._impure_ptr
-                0x00000000        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
- .data._impure_data
-                0x00000000      0x140 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
- .ARM.attributes
-                0x00000000       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
  .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lseekr.o)
@@ -869,6 +952,9 @@ Discarded input sections
  .debug_frame   0x00000000       0x2c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
  .ARM.attributes
                 0x00000000       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-readr.o)
+ .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signalr.o)
+ .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signalr.o)
+ .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signalr.o)
  .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-writer.o)
@@ -880,10 +966,6 @@ Discarded input sections
  .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-errno.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-errno.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-errno.o)
- .text.__errno  0x00000000        0xc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-errno.o)
- .debug_frame   0x00000000       0x20 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-errno.o)
- .ARM.attributes
-                0x00000000       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-errno.o)
  .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
@@ -920,6 +1002,10 @@ Discarded input sections
                 0x00000000        0x1 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
  .bss.__lock___sfp_recursive_mutex
                 0x00000000        0x1 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memcpy.o)
+ .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memcpy.o)
+ .ARM.extab     0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memcpy.o)
+ .eh_frame      0x00000000       0x2c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memcpy.o)
  .text          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
  .data          0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
  .bss           0x00000000        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
@@ -1034,7 +1120,7 @@ LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
 LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crt0.o
 LOAD CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
 LOAD CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
-LOAD CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
+LOAD CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
 LOAD CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
 LOAD CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
 LOAD CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
@@ -1055,7 +1141,7 @@ LOAD CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pw
 LOAD CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
 LOAD CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
 LOAD CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
-LOAD CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+LOAD CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
 LOAD CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
 LOAD CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
 LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libstdc++.a
@@ -1078,373 +1164,639 @@ LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
                 0x08000000                g_pfnVectors
                 0x08000188                        . = ALIGN (0x4)
 
-.text           0x08000188     0x187c
+.text           0x08000188     0x3250
                 0x08000188                        . = ALIGN (0x4)
  *(.text)
- .text          0x08000188       0x30 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
-                0x08000188                __aeabi_uldivmod
- .text          0x080001b8        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
-                0x080001b8                __aeabi_idiv0
-                0x080001b8                __aeabi_ldiv0
+ .text          0x08000188      0x168 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+                0x08000188                __aeabi_fmul
+                0x08000188                __mulsf3
+ .text          0x080002f0      0x21c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                0x080002f0                __aeabi_frsub
+                0x080002f8                __subsf3
+                0x080002f8                __aeabi_fsub
+                0x080002fc                __aeabi_fadd
+                0x080002fc                __addsf3
+                0x0800045c                __aeabi_ui2f
+                0x0800045c                __floatunsisf
+                0x08000464                __aeabi_i2f
+                0x08000464                __floatsisf
+                0x08000480                __aeabi_ul2f
+                0x08000480                __floatundisf
+                0x08000490                __aeabi_l2f
+                0x08000490                __floatdisf
+ .text          0x0800050c       0xec C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+                0x0800050c                __gesf2
+                0x0800050c                __gtsf2
+                0x08000514                __lesf2
+                0x08000514                __ltsf2
+                0x0800051c                __nesf2
+                0x0800051c                __eqsf2
+                0x0800051c                __cmpsf2
+                0x0800057c                __aeabi_cfrcmple
+                0x08000584                __aeabi_cfcmpeq
+                0x08000584                __aeabi_cfcmple
+                0x08000594                __aeabi_fcmpeq
+                0x080005a8                __aeabi_fcmplt
+                0x080005bc                __aeabi_fcmple
+                0x080005d0                __aeabi_fcmpge
+                0x080005e4                __aeabi_fcmpgt
+ .text          0x080005f8       0x4c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+                0x080005f8                __aeabi_f2iz
+                0x080005f8                __fixsfsi
+ .text          0x08000644       0x30 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x08000644                __aeabi_uldivmod
+ .text          0x08000674      0x1ac C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(libunwind.o)
+                0x08000674                __restore_core_regs
+                0x08000674                restore_core_regs
+                0x0800068c                __gnu_Unwind_Restore_VFP
+                0x08000694                __gnu_Unwind_Save_VFP
+                0x0800069c                __gnu_Unwind_Restore_VFP_D
+                0x080006a4                __gnu_Unwind_Save_VFP_D
+                0x080006ac                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x080006b4                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x080006bc                __gnu_Unwind_Restore_WMMXD
+                0x08000700                __gnu_Unwind_Save_WMMXD
+                0x08000744                __gnu_Unwind_Restore_WMMXC
+                0x08000758                __gnu_Unwind_Save_WMMXC
+                0x0800076c                ___Unwind_RaiseException
+                0x0800076c                _Unwind_RaiseException
+                0x08000790                _Unwind_Resume
+                0x08000790                ___Unwind_Resume
+                0x080007b4                _Unwind_Resume_or_Rethrow
+                0x080007b4                ___Unwind_Resume_or_Rethrow
+                0x080007d8                _Unwind_ForcedUnwind
+                0x080007d8                ___Unwind_ForcedUnwind
+                0x080007fc                ___Unwind_Backtrace
+                0x080007fc                _Unwind_Backtrace
+ .text          0x08000820        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x08000820                __aeabi_idiv0
+                0x08000820                __aeabi_ldiv0
+ .text          0x08000824      0x134 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memcpy.o)
+                0x08000824                memcpy
  *(.text*)
  .text.deregister_tm_clones
-                0x080001bc       0x1c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08000958       0x1c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
  .text.register_tm_clones
-                0x080001d8       0x24 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08000974       0x24 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
  .text.__do_global_dtors_aux
-                0x080001fc       0x28 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08000998       0x28 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
  .text.frame_dummy
-                0x08000224       0x24 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x080009c0       0x24 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
  .text.MX_CAN1_Init
-                0x08000248       0x40 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
-                0x08000248                MX_CAN1_Init
+                0x080009e4       0x40 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
+                0x080009e4                MX_CAN1_Init
  .text.HAL_CAN_MspInit
-                0x08000288       0x80 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
-                0x08000288                HAL_CAN_MspInit
+                0x08000a24       0x80 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
+                0x08000a24                HAL_CAN_MspInit
  .text.MX_GPIO_Init
-                0x08000308       0x4c CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
-                0x08000308                MX_GPIO_Init
+                0x08000aa4       0x4c CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
+                0x08000aa4                MX_GPIO_Init
  .text.Error_Handler
-                0x08000354        0x4 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
-                0x08000354                Error_Handler
- .text.SystemClock_Config
-                0x08000358       0xa8 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
-                0x08000358                SystemClock_Config
- .text.main     0x08000400       0x2e CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
-                0x08000400                main
- *fill*         0x0800042e        0x2 
+                0x08000af0        0x4 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+                0x08000af0                Error_Handler
+ .text._Z18SystemClock_Configv
+                0x08000af4       0xa8 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+                0x08000af4                SystemClock_Config()
+ .text.main     0x08000b9c       0x40 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+                0x08000b9c                main
  .text.HAL_MspInit
-                0x08000430       0x38 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
-                0x08000430                HAL_MspInit
+                0x08000bdc       0x38 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                0x08000bdc                HAL_MspInit
  .text.NMI_Handler
-                0x08000468        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x08000468                NMI_Handler
+                0x08000c14        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000c14                NMI_Handler
  .text.HardFault_Handler
-                0x0800046a        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x0800046a                HardFault_Handler
+                0x08000c16        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000c16                HardFault_Handler
  .text.MemManage_Handler
-                0x0800046c        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x0800046c                MemManage_Handler
+                0x08000c18        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000c18                MemManage_Handler
  .text.BusFault_Handler
-                0x0800046e        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x0800046e                BusFault_Handler
+                0x08000c1a        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000c1a                BusFault_Handler
  .text.UsageFault_Handler
-                0x08000470        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x08000470                UsageFault_Handler
+                0x08000c1c        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000c1c                UsageFault_Handler
  .text.SVC_Handler
-                0x08000472        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x08000472                SVC_Handler
+                0x08000c1e        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000c1e                SVC_Handler
  .text.DebugMon_Handler
-                0x08000474        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x08000474                DebugMon_Handler
+                0x08000c20        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000c20                DebugMon_Handler
  .text.PendSV_Handler
-                0x08000476        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x08000476                PendSV_Handler
+                0x08000c22        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000c22                PendSV_Handler
  .text.SysTick_Handler
-                0x08000478        0x8 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x08000478                SysTick_Handler
+                0x08000c24        0x8 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000c24                SysTick_Handler
  .text.CAN1_RX0_IRQHandler
-                0x08000480       0x10 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
-                0x08000480                CAN1_RX0_IRQHandler
+                0x08000c2c       0x10 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+                0x08000c2c                CAN1_RX0_IRQHandler
+ .text._getpid  0x08000c3c        0x4 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
+                0x08000c3c                _getpid
+ .text._kill    0x08000c40       0x10 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
+                0x08000c40                _kill
+ .text._exit    0x08000c50        0xc CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
+                0x08000c50                _exit
  .text.SystemInit
-                0x08000490        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
-                0x08000490                SystemInit
- *fill*         0x08000492        0x2 
+                0x08000c5c        0x2 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x08000c5c                SystemInit
+ *fill*         0x08000c5e        0x2 
  .text.Reset_Handler
-                0x08000494       0x50 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
-                0x08000494                Reset_Handler
+                0x08000c60       0x50 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+                0x08000c60                Reset_Handler
  .text.Default_Handler
-                0x080004e4        0x2 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
-                0x080004e4                RTC_Alarm_IRQHandler
-                0x080004e4                HASH_RNG_IRQHandler
-                0x080004e4                EXTI2_IRQHandler
-                0x080004e4                TIM8_CC_IRQHandler
-                0x080004e4                TIM1_CC_IRQHandler
-                0x080004e4                DMA2_Stream5_IRQHandler
-                0x080004e4                DMA1_Stream5_IRQHandler
-                0x080004e4                PVD_IRQHandler
-                0x080004e4                SDIO_IRQHandler
-                0x080004e4                TAMP_STAMP_IRQHandler
-                0x080004e4                CAN2_RX1_IRQHandler
-                0x080004e4                EXTI3_IRQHandler
-                0x080004e4                TIM8_TRG_COM_TIM14_IRQHandler
-                0x080004e4                TIM1_UP_TIM10_IRQHandler
-                0x080004e4                TIM8_UP_TIM13_IRQHandler
-                0x080004e4                I2C3_ER_IRQHandler
-                0x080004e4                EXTI0_IRQHandler
-                0x080004e4                I2C2_EV_IRQHandler
-                0x080004e4                DMA1_Stream2_IRQHandler
-                0x080004e4                FPU_IRQHandler
-                0x080004e4                OTG_HS_WKUP_IRQHandler
-                0x080004e4                CAN2_SCE_IRQHandler
-                0x080004e4                DMA2_Stream2_IRQHandler
-                0x080004e4                SPI1_IRQHandler
-                0x080004e4                TIM6_DAC_IRQHandler
-                0x080004e4                TIM1_BRK_TIM9_IRQHandler
-                0x080004e4                DCMI_IRQHandler
-                0x080004e4                CAN2_RX0_IRQHandler
-                0x080004e4                DMA2_Stream3_IRQHandler
-                0x080004e4                USART6_IRQHandler
-                0x080004e4                USART3_IRQHandler
-                0x080004e4                CAN1_RX1_IRQHandler
-                0x080004e4                UART5_IRQHandler
-                0x080004e4                DMA2_Stream0_IRQHandler
-                0x080004e4                TIM4_IRQHandler
-                0x080004e4                I2C1_EV_IRQHandler
-                0x080004e4                DMA1_Stream6_IRQHandler
-                0x080004e4                DMA1_Stream1_IRQHandler
-                0x080004e4                UART4_IRQHandler
-                0x080004e4                TIM3_IRQHandler
-                0x080004e4                RCC_IRQHandler
-                0x080004e4                TIM8_BRK_TIM12_IRQHandler
-                0x080004e4                Default_Handler
-                0x080004e4                EXTI15_10_IRQHandler
-                0x080004e4                ADC_IRQHandler
-                0x080004e4                DMA1_Stream7_IRQHandler
-                0x080004e4                TIM7_IRQHandler
-                0x080004e4                CAN2_TX_IRQHandler
-                0x080004e4                TIM5_IRQHandler
-                0x080004e4                DMA2_Stream7_IRQHandler
-                0x080004e4                I2C3_EV_IRQHandler
-                0x080004e4                EXTI9_5_IRQHandler
-                0x080004e4                RTC_WKUP_IRQHandler
-                0x080004e4                ETH_WKUP_IRQHandler
-                0x080004e4                SPI2_IRQHandler
-                0x080004e4                OTG_HS_EP1_IN_IRQHandler
-                0x080004e4                DMA1_Stream0_IRQHandler
-                0x080004e4                CAN1_TX_IRQHandler
-                0x080004e4                EXTI4_IRQHandler
-                0x080004e4                FSMC_IRQHandler
-                0x080004e4                ETH_IRQHandler
-                0x080004e4                OTG_HS_EP1_OUT_IRQHandler
-                0x080004e4                WWDG_IRQHandler
-                0x080004e4                TIM2_IRQHandler
-                0x080004e4                OTG_FS_WKUP_IRQHandler
-                0x080004e4                TIM1_TRG_COM_TIM11_IRQHandler
-                0x080004e4                OTG_HS_IRQHandler
-                0x080004e4                EXTI1_IRQHandler
-                0x080004e4                USART2_IRQHandler
-                0x080004e4                I2C2_ER_IRQHandler
-                0x080004e4                DMA2_Stream1_IRQHandler
-                0x080004e4                CAN1_SCE_IRQHandler
-                0x080004e4                FLASH_IRQHandler
-                0x080004e4                DMA2_Stream4_IRQHandler
-                0x080004e4                USART1_IRQHandler
-                0x080004e4                OTG_FS_IRQHandler
-                0x080004e4                SPI3_IRQHandler
-                0x080004e4                DMA1_Stream4_IRQHandler
-                0x080004e4                I2C1_ER_IRQHandler
-                0x080004e4                DMA2_Stream6_IRQHandler
-                0x080004e4                DMA1_Stream3_IRQHandler
- *fill*         0x080004e6        0x2 
+                0x08000cb0        0x2 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+                0x08000cb0                RTC_Alarm_IRQHandler
+                0x08000cb0                HASH_RNG_IRQHandler
+                0x08000cb0                EXTI2_IRQHandler
+                0x08000cb0                TIM8_CC_IRQHandler
+                0x08000cb0                TIM1_CC_IRQHandler
+                0x08000cb0                DMA2_Stream5_IRQHandler
+                0x08000cb0                DMA1_Stream5_IRQHandler
+                0x08000cb0                PVD_IRQHandler
+                0x08000cb0                SDIO_IRQHandler
+                0x08000cb0                TAMP_STAMP_IRQHandler
+                0x08000cb0                CAN2_RX1_IRQHandler
+                0x08000cb0                EXTI3_IRQHandler
+                0x08000cb0                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08000cb0                TIM1_UP_TIM10_IRQHandler
+                0x08000cb0                TIM8_UP_TIM13_IRQHandler
+                0x08000cb0                I2C3_ER_IRQHandler
+                0x08000cb0                EXTI0_IRQHandler
+                0x08000cb0                I2C2_EV_IRQHandler
+                0x08000cb0                DMA1_Stream2_IRQHandler
+                0x08000cb0                FPU_IRQHandler
+                0x08000cb0                OTG_HS_WKUP_IRQHandler
+                0x08000cb0                CAN2_SCE_IRQHandler
+                0x08000cb0                DMA2_Stream2_IRQHandler
+                0x08000cb0                SPI1_IRQHandler
+                0x08000cb0                TIM6_DAC_IRQHandler
+                0x08000cb0                TIM1_BRK_TIM9_IRQHandler
+                0x08000cb0                DCMI_IRQHandler
+                0x08000cb0                CAN2_RX0_IRQHandler
+                0x08000cb0                DMA2_Stream3_IRQHandler
+                0x08000cb0                USART6_IRQHandler
+                0x08000cb0                USART3_IRQHandler
+                0x08000cb0                CAN1_RX1_IRQHandler
+                0x08000cb0                UART5_IRQHandler
+                0x08000cb0                DMA2_Stream0_IRQHandler
+                0x08000cb0                TIM4_IRQHandler
+                0x08000cb0                I2C1_EV_IRQHandler
+                0x08000cb0                DMA1_Stream6_IRQHandler
+                0x08000cb0                DMA1_Stream1_IRQHandler
+                0x08000cb0                UART4_IRQHandler
+                0x08000cb0                TIM3_IRQHandler
+                0x08000cb0                RCC_IRQHandler
+                0x08000cb0                TIM8_BRK_TIM12_IRQHandler
+                0x08000cb0                Default_Handler
+                0x08000cb0                EXTI15_10_IRQHandler
+                0x08000cb0                ADC_IRQHandler
+                0x08000cb0                DMA1_Stream7_IRQHandler
+                0x08000cb0                TIM7_IRQHandler
+                0x08000cb0                CAN2_TX_IRQHandler
+                0x08000cb0                TIM5_IRQHandler
+                0x08000cb0                DMA2_Stream7_IRQHandler
+                0x08000cb0                I2C3_EV_IRQHandler
+                0x08000cb0                EXTI9_5_IRQHandler
+                0x08000cb0                RTC_WKUP_IRQHandler
+                0x08000cb0                ETH_WKUP_IRQHandler
+                0x08000cb0                SPI2_IRQHandler
+                0x08000cb0                OTG_HS_EP1_IN_IRQHandler
+                0x08000cb0                DMA1_Stream0_IRQHandler
+                0x08000cb0                CAN1_TX_IRQHandler
+                0x08000cb0                EXTI4_IRQHandler
+                0x08000cb0                FSMC_IRQHandler
+                0x08000cb0                ETH_IRQHandler
+                0x08000cb0                OTG_HS_EP1_OUT_IRQHandler
+                0x08000cb0                WWDG_IRQHandler
+                0x08000cb0                TIM2_IRQHandler
+                0x08000cb0                OTG_FS_WKUP_IRQHandler
+                0x08000cb0                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08000cb0                OTG_HS_IRQHandler
+                0x08000cb0                EXTI1_IRQHandler
+                0x08000cb0                USART2_IRQHandler
+                0x08000cb0                I2C2_ER_IRQHandler
+                0x08000cb0                DMA2_Stream1_IRQHandler
+                0x08000cb0                CAN1_SCE_IRQHandler
+                0x08000cb0                FLASH_IRQHandler
+                0x08000cb0                DMA2_Stream4_IRQHandler
+                0x08000cb0                USART1_IRQHandler
+                0x08000cb0                OTG_FS_IRQHandler
+                0x08000cb0                SPI3_IRQHandler
+                0x08000cb0                DMA1_Stream4_IRQHandler
+                0x08000cb0                I2C1_ER_IRQHandler
+                0x08000cb0                DMA2_Stream6_IRQHandler
+                0x08000cb0                DMA1_Stream3_IRQHandler
+ *fill*         0x08000cb2        0x2 
  .text.HAL_InitTick
-                0x080004e8       0x4c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                0x080004e8                HAL_InitTick
+                0x08000cb4       0x4c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000cb4                HAL_InitTick
  .text.HAL_Init
-                0x08000534       0x34 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                0x08000534                HAL_Init
+                0x08000d00       0x34 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000d00                HAL_Init
  .text.HAL_IncTick
-                0x08000568       0x18 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                0x08000568                HAL_IncTick
+                0x08000d34       0x18 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000d34                HAL_IncTick
  .text.HAL_GetTick
-                0x08000580        0xc CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                0x08000580                HAL_GetTick
+                0x08000d4c        0xc CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000d4c                HAL_GetTick
  .text.HAL_Delay
-                0x0800058c       0x28 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                0x0800058c                HAL_Delay
+                0x08000d58       0x28 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x08000d58                HAL_Delay
  .text.HAL_CAN_Init
-                0x080005b4      0x14c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x080005b4                HAL_CAN_Init
+                0x08000d80      0x14c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x08000d80                HAL_CAN_Init
+ .text.HAL_CAN_ConfigFilter
+                0x08000ecc      0x13c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x08000ecc                HAL_CAN_ConfigFilter
+ .text.HAL_CAN_Start
+                0x08001008       0x5c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x08001008                HAL_CAN_Start
  .text.HAL_CAN_AddTxMessage
-                0x08000700       0xea CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x08000700                HAL_CAN_AddTxMessage
+                0x08001064       0xea CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x08001064                HAL_CAN_AddTxMessage
  .text.HAL_CAN_GetRxMessage
-                0x080007ea      0x16a CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x080007ea                HAL_CAN_GetRxMessage
+                0x0800114e      0x16a CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x0800114e                HAL_CAN_GetRxMessage
+ .text.HAL_CAN_ActivateNotification
+                0x080012b8       0x24 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012b8                HAL_CAN_ActivateNotification
  .text.HAL_CAN_TxMailbox0CompleteCallback
-                0x08000954        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x08000954                HAL_CAN_TxMailbox0CompleteCallback
+                0x080012dc        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012dc                HAL_CAN_TxMailbox0CompleteCallback
  .text.HAL_CAN_TxMailbox1CompleteCallback
-                0x08000956        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x08000956                HAL_CAN_TxMailbox1CompleteCallback
+                0x080012de        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012de                HAL_CAN_TxMailbox1CompleteCallback
  .text.HAL_CAN_TxMailbox2CompleteCallback
-                0x08000958        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x08000958                HAL_CAN_TxMailbox2CompleteCallback
+                0x080012e0        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012e0                HAL_CAN_TxMailbox2CompleteCallback
  .text.HAL_CAN_TxMailbox0AbortCallback
-                0x0800095a        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x0800095a                HAL_CAN_TxMailbox0AbortCallback
+                0x080012e2        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012e2                HAL_CAN_TxMailbox0AbortCallback
  .text.HAL_CAN_TxMailbox1AbortCallback
-                0x0800095c        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x0800095c                HAL_CAN_TxMailbox1AbortCallback
+                0x080012e4        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012e4                HAL_CAN_TxMailbox1AbortCallback
  .text.HAL_CAN_TxMailbox2AbortCallback
-                0x0800095e        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x0800095e                HAL_CAN_TxMailbox2AbortCallback
+                0x080012e6        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012e6                HAL_CAN_TxMailbox2AbortCallback
  .text.HAL_CAN_RxFifo0FullCallback
-                0x08000960        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x08000960                HAL_CAN_RxFifo0FullCallback
+                0x080012e8        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012e8                HAL_CAN_RxFifo0FullCallback
  .text.HAL_CAN_RxFifo1MsgPendingCallback
-                0x08000962        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x08000962                HAL_CAN_RxFifo1MsgPendingCallback
+                0x080012ea        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012ea                HAL_CAN_RxFifo1MsgPendingCallback
  .text.HAL_CAN_RxFifo1FullCallback
-                0x08000964        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x08000964                HAL_CAN_RxFifo1FullCallback
+                0x080012ec        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012ec                HAL_CAN_RxFifo1FullCallback
  .text.HAL_CAN_SleepCallback
-                0x08000966        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x08000966                HAL_CAN_SleepCallback
+                0x080012ee        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012ee                HAL_CAN_SleepCallback
  .text.HAL_CAN_WakeUpFromRxMsgCallback
-                0x08000968        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x08000968                HAL_CAN_WakeUpFromRxMsgCallback
+                0x080012f0        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012f0                HAL_CAN_WakeUpFromRxMsgCallback
  .text.HAL_CAN_ErrorCallback
-                0x0800096a        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x0800096a                HAL_CAN_ErrorCallback
+                0x080012f2        0x2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012f2                HAL_CAN_ErrorCallback
  .text.HAL_CAN_IRQHandler
-                0x0800096c      0x250 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
-                0x0800096c                HAL_CAN_IRQHandler
+                0x080012f4      0x250 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x080012f4                HAL_CAN_IRQHandler
  .text.__NVIC_EnableIRQ
-                0x08000bbc       0x1c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08001544       0x1c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .text.__NVIC_SetPriority
-                0x08000bd8       0x28 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08001560       0x28 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .text.NVIC_EncodePriority
-                0x08000c00       0x3e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- *fill*         0x08000c3e        0x2 
+                0x08001588       0x3e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ *fill*         0x080015c6        0x2 
  .text.HAL_NVIC_SetPriorityGrouping
-                0x08000c40       0x24 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
-                0x08000c40                HAL_NVIC_SetPriorityGrouping
+                0x080015c8       0x24 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x080015c8                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x08000c64       0x20 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
-                0x08000c64                HAL_NVIC_SetPriority
+                0x080015ec       0x20 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x080015ec                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x08000c84        0x8 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
-                0x08000c84                HAL_NVIC_EnableIRQ
+                0x0800160c        0x8 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x0800160c                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x08000c8c       0x28 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
-                0x08000c8c                HAL_SYSTICK_Config
+                0x08001614       0x28 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x08001614                HAL_SYSTICK_Config
  .text.HAL_GPIO_Init
-                0x08000cb4      0x1f4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
-                0x08000cb4                HAL_GPIO_Init
+                0x0800163c      0x1f4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x0800163c                HAL_GPIO_Init
  .text.HAL_RCC_OscConfig
-                0x08000ea8      0x3f8 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
-                0x08000ea8                HAL_RCC_OscConfig
+                0x08001830      0x3f8 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08001830                HAL_RCC_OscConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x080012a0       0xa8 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
-                0x080012a0                HAL_RCC_GetSysClockFreq
+                0x08001c28       0xa8 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08001c28                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_ClockConfig
-                0x08001348      0x160 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
-                0x08001348                HAL_RCC_ClockConfig
- .text.can_send
-                0x080014a8       0x5c CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
-                0x080014a8                can_send
- .text.can_receive
-                0x08001504       0x60 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
-                0x08001504                can_receive
+                0x08001cd0      0x160 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x08001cd0                HAL_RCC_ClockConfig
+ .text._ZN4CANc8can_initEv
+                0x08001e30       0x3c CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+                0x08001e30                CANc::can_init()
+ .text._ZN4CANc8can_sendEsssss
+                0x08001e6c       0x60 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+                0x08001e6c                CANc::can_send(short, short, short, short, short)
+ .text._ZN4CANc11can_receiveEv
+                0x08001ecc       0x60 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+                0x08001ecc                CANc::can_receive()
  .text.HAL_CAN_RxFifo0MsgPendingCallback
-                0x08001564        0x8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
-                0x08001564                HAL_CAN_RxFifo0MsgPendingCallback
+                0x08001f2c       0x10 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+                0x08001f2c                HAL_CAN_RxFifo0MsgPendingCallback
+ .text._ZN6MOTORc10motor_InitEv
+                0x08001f3c       0x40 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+                0x08001f3c                MOTORc::motor_Init()
+ .text._ZN6MOTORc10motor_loopEf
+                0x08001f7c       0x58 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+                0x08001f7c                MOTORc::motor_loop(float)
+ .text._ZN4PIDc8PID_InitEP5PID_tfff
+                0x08001fd4       0x14 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+                0x08001fd4                PIDc::PID_Init(PID_t*, float, float, float)
+ .text._ZN4PIDc10PID_UpdateEP5PID_tff
+                0x08001fe8       0x60 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+                0x08001fe8                PIDc::PID_Update(PID_t*, float, float)
+ .text._ZN4PIDc13PID_CalculateEP5PID_t
+                0x08002048       0x9a CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+                0x08002048                PIDc::PID_Calculate(PID_t*)
+ .text._ZN4PIDc11Pos_Spd_PIDEP5PID_tS1_fff
+                0x080020e2       0x30 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+                0x080020e2                PIDc::Pos_Spd_PID(PID_t*, PID_t*, float, float, float)
+ *fill*         0x08002112        0x2 
  .text.__udivmoddi4
-                0x0800156c      0x2bc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
-                0x0800156c                __udivmoddi4
- .text.memset   0x08001828       0xa4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
-                0x08001828                memset
+                0x08002114      0x2bc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x08002114                __udivmoddi4
+ .text.selfrel_offset31
+                0x080023d0       0x14 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.search_EIT_table
+                0x080023e4       0x68 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__gnu_unwind_get_pr_addr
+                0x0800244c       0x28 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.get_eit_entry
+                0x08002474       0x98 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.restore_non_core_regs
+                0x0800250c       0x58 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x08002564        0xc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_DebugHook
+                0x08002570        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.unwind_phase2
+                0x08002574       0x3c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.unwind_phase2_forced
+                0x080025b0       0xd8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_RaiseException
+                0x08002688       0x68 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                0x08002688                __gnu_Unwind_RaiseException
+ .text.__gnu_Unwind_ForcedUnwind
+                0x080026f0       0x10 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                0x080026f0                __gnu_Unwind_ForcedUnwind
+ .text.__gnu_Unwind_Resume
+                0x08002700       0x44 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                0x08002700                __gnu_Unwind_Resume
+ .text.__gnu_Unwind_Resume_or_Rethrow
+                0x08002744       0x14 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                0x08002744                __gnu_Unwind_Resume_or_Rethrow
+ .text._Unwind_VRS_Get
+                0x08002758       0x34 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                0x08002758                _Unwind_VRS_Get
+ .text._Unwind_GetGR
+                0x0800278c       0x1c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text._Unwind_VRS_Set
+                0x080027a8       0x34 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                0x080027a8                _Unwind_VRS_Set
+ .text._Unwind_SetGR
+                0x080027dc       0x18 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__gnu_Unwind_Backtrace
+                0x080027f4       0x84 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                0x080027f4                __gnu_Unwind_Backtrace
+ .text.__gnu_unwind_pr_common
+                0x08002878      0x2a4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .text.__aeabi_unwind_cpp_pr0
+                0x08002b1c        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                0x08002b1c                __aeabi_unwind_cpp_pr0
+ .text.__aeabi_unwind_cpp_pr1
+                0x08002b24        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                0x08002b24                __aeabi_unwind_cpp_pr1
+ .text.__aeabi_unwind_cpp_pr2
+                0x08002b2c        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                0x08002b2c                __aeabi_unwind_cpp_pr2
+ .text._Unwind_VRS_Pop
+                0x08002b34      0x2f0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                0x08002b34                _Unwind_VRS_Pop
+ .text.next_unwind_byte
+                0x08002e24       0x38 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .text.__gnu_unwind_execute
+                0x08002e5c      0x2fc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+                0x08002e5c                __gnu_unwind_execute
+ .text.abort    0x08003158       0x10 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-abort.o)
+                0x08003158                abort
+ .text.memset   0x08003168       0xa4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+                0x08003168                memset
+ .text.raise    0x0800320c       0x58 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+                0x0800320c                raise
+ .text._kill_r  0x08003264       0x2c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signalr.o)
+                0x08003264                _kill_r
+ .text._getpid_r
+                0x08003290        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signalr.o)
+                0x08003290                _getpid_r
+ .text.__errno  0x08003294        0xc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-errno.o)
+                0x08003294                __errno
  .text.__libc_init_array
-                0x080018cc       0x50 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
-                0x080018cc                __libc_init_array
+                0x080032a0       0x50 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+                0x080032a0                __libc_init_array
  .text.__retarget_lock_acquire_recursive
-                0x0800191c        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
-                0x0800191c                __retarget_lock_acquire_recursive
+                0x080032f0        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                0x080032f0                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x08001920        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
-                0x08001920                __retarget_lock_release_recursive
+                0x080032f4        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                0x080032f4                __retarget_lock_release_recursive
  .text.startup.register_fini
-                0x08001924       0x14 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
- .text.atexit   0x08001938        0xc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
-                0x08001938                atexit
+                0x080032f8       0x14 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .text.atexit   0x0800330c        0xc C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+                0x0800330c                atexit
  .text.__libc_fini_array
-                0x08001944       0x28 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
-                0x08001944                __libc_fini_array
+                0x08003318       0x28 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+                0x08003318                __libc_fini_array
  .text.__register_exitproc
-                0x0800196c       0x80 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
-                0x0800196c                __register_exitproc
+                0x08003340       0x80 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+                0x08003340                __register_exitproc
  *(.glue_7)
- .glue_7        0x080019ec        0x0 linker stubs
+ .glue_7        0x080033c0        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x080019ec        0x0 linker stubs
+ .glue_7t       0x080033c0        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x080019ec        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x080033c0        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
  *(.init)
- .init          0x080019ec        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
-                0x080019ec                _init
- .init          0x080019f0        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+ .init          0x080033c0        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
+                0x080033c0                _init
+ .init          0x080033c4        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
  *(.fini)
- .fini          0x080019f8        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
-                0x080019f8                _fini
- .fini          0x080019fc        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
-                0x08001a04                        . = ALIGN (0x4)
-                0x08001a04                        _etext = .
+ .fini          0x080033cc        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crti.o
+                0x080033cc                _fini
+ .fini          0x080033d0        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+                0x080033d8                        . = ALIGN (0x4)
+                0x080033d8                        _etext = .
 
-.vfp11_veneer   0x08001a04        0x0
- .vfp11_veneer  0x08001a04        0x0 linker stubs
+.vfp11_veneer   0x080033d8        0x0
+ .vfp11_veneer  0x080033d8        0x0 linker stubs
 
-.v4_bx          0x08001a04        0x0
- .v4_bx         0x08001a04        0x0 linker stubs
+.v4_bx          0x080033d8        0x0
+ .v4_bx         0x080033d8        0x0 linker stubs
 
-.iplt           0x08001a04        0x0
- .iplt          0x08001a04        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+.iplt           0x080033d8        0x0
+ .iplt          0x080033d8        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
 
-.rodata         0x08001a04       0x10
-                0x08001a04                        . = ALIGN (0x4)
+.rodata         0x080033d8       0x10
+                0x080033d8                        . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
  .rodata.AHBPrescTable
-                0x08001a04       0x10 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
-                0x08001a04                AHBPrescTable
-                0x08001a14                        . = ALIGN (0x4)
+                0x080033d8       0x10 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x080033d8                AHBPrescTable
+                0x080033e8                        . = ALIGN (0x4)
 
-.ARM.extab      0x08001a14        0x0
-                0x08001a14                        . = ALIGN (0x4)
+.ARM.extab      0x080033e8        0x0
+                0x080033e8                        . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x08001a14                        . = ALIGN (0x4)
+                0x080033e8                        . = ALIGN (0x4)
 
-.ARM            0x08001a14        0x8
-                0x08001a14                        . = ALIGN (0x4)
-                0x08001a14                        __exidx_start = .
+.ARM            0x080033e8       0xc8
+                0x080033e8                        . = ALIGN (0x4)
+                0x080033e8                        __exidx_start = .
  *(.ARM.exidx*)
+ .ARM.exidx     0x080033e8        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memcpy.o)
+ .ARM.exidx.text.Error_Handler
+                0x080033f0        0x0 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z18SystemClock_Configv
+                0x080033f0        0x8 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+ .ARM.exidx.text.main
+                0x080033f8       0x10 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN4CANc8can_initEv
+                0x08003408        0x8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .ARM.exidx.text._ZN4CANc8can_sendEsssss
+                0x08003410        0x0 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN4CANc11can_receiveEv
+                0x08003410        0x8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .ARM.exidx.text.HAL_CAN_RxFifo0MsgPendingCallback
+                0x08003418        0x8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .ARM.exidx.text._ZN6MOTORc10motor_InitEv
+                0x08003420        0x8 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .ARM.exidx.text._ZN6MOTORc10motor_loopEf
+                0x08003428        0x0 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN4PIDc8PID_InitEP5PID_tfff
+                0x08003428        0x8 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .ARM.exidx.text._ZN4PIDc10PID_UpdateEP5PID_tff
+                0x08003430        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN4PIDc13PID_CalculateEP5PID_t
+                0x08003430        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZN4PIDc11Pos_Spd_PIDEP5PID_tS1_fff
+                0x08003430        0x0 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+                                  0x8 (size before relaxing)
  .ARM.exidx.text.__udivmoddi4
-                0x08001a14        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
-                0x08001a1c                        __exidx_end = .
-                0x08001a1c                        . = ALIGN (0x4)
+                0x08003430        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.selfrel_offset31
+                0x08003430        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.search_EIT_table
+                0x08003430        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__gnu_unwind_get_pr_addr
+                0x08003430        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.get_eit_entry
+                0x08003430        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.restore_non_core_regs
+                0x08003438        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_decode_typeinfo_ptr.constprop.0
+                0x08003440        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_DebugHook
+                0x08003448        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.unwind_phase2
+                0x08003448        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.unwind_phase2_forced
+                0x08003450        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_RaiseException
+                0x08003458        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_ForcedUnwind
+                0x08003460        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Resume
+                0x08003468        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_Unwind_Resume_or_Rethrow
+                0x08003470        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text._Unwind_VRS_Get
+                0x08003478        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_GetGR
+                0x08003478        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_VRS_Set
+                0x08003478        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_SetGR
+                0x08003478        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__gnu_Unwind_Backtrace
+                0x08003478        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__gnu_unwind_pr_common
+                0x08003480        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr0
+                0x08003488        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr1
+                0x08003490        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text.__aeabi_unwind_cpp_pr2
+                0x08003490        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Unwind_VRS_Pop
+                0x08003490        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .ARM.exidx.text.next_unwind_byte
+                0x08003498        0x8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.exidx.text.__gnu_unwind_execute
+                0x080034a0       0x10 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+                                  0x8 (size before relaxing)
+                0x080034b0                        __exidx_end = .
+                0x080034b0                        . = ALIGN (0x4)
 
-.preinit_array  0x08001a1c        0x0
-                0x08001a1c                        . = ALIGN (0x4)
-                0x08001a1c                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x080034b0        0x0
+                0x080034b0                        . = ALIGN (0x4)
+                0x080034b0                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08001a1c                        PROVIDE (__preinit_array_end = .)
-                0x08001a1c                        . = ALIGN (0x4)
+                0x080034b0                        PROVIDE (__preinit_array_end = .)
+                0x080034b0                        . = ALIGN (0x4)
 
-.init_array     0x08001a1c        0x8
-                0x08001a1c                        . = ALIGN (0x4)
-                0x08001a1c                        PROVIDE (__init_array_start = .)
+.init_array     0x080034b0        0x8
+                0x080034b0                        . = ALIGN (0x4)
+                0x080034b0                        PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  .init_array.00000
-                0x08001a1c        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+                0x080034b0        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x08001a20        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
-                0x08001a24                        PROVIDE (__init_array_end = .)
-                0x08001a24                        . = ALIGN (0x4)
+ .init_array    0x080034b4        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x080034b8                        PROVIDE (__init_array_end = .)
+                0x080034b8                        . = ALIGN (0x4)
 
-.fini_array     0x08001a24        0x4
-                0x08001a24                        . = ALIGN (0x4)
-                0x08001a24                        PROVIDE (__fini_array_start = .)
+.fini_array     0x080034b8        0x4
+                0x080034b8                        . = ALIGN (0x4)
+                0x080034b8                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08001a24        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
-                0x08001a28                        PROVIDE (__fini_array_end = .)
-                0x08001a28                        . = ALIGN (0x4)
-                0x08001a28                        _sidata = LOADADDR (.data)
+ .fini_array    0x080034b8        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x080034bc                        PROVIDE (__fini_array_end = .)
+                0x080034bc                        . = ALIGN (0x4)
+                0x080034bc                        _sidata = LOADADDR (.data)
 
-.rel.dyn        0x08001a28        0x0
- .rel.iplt      0x08001a28        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+.rel.dyn        0x080034bc        0x0
+ .rel.iplt      0x080034bc        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
 
-.data           0x20000000       0x10 load address 0x08001a28
+.data           0x20000000      0x154 load address 0x080034bc
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        _sdata = .
  *(.data)
@@ -1459,26 +1811,32 @@ LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
  .data.uwTickPrio
                 0x20000008        0x4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
                 0x20000008                uwTickPrio
+ .data._impure_ptr
+                0x2000000c        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+                0x2000000c                _impure_ptr
+ .data._impure_data
+                0x20000010      0x140 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+                0x20000010                _impure_data
  .data.__atexit_recursive_mutex
-                0x2000000c        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
-                0x2000000c                __atexit_recursive_mutex
+                0x20000150        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+                0x20000150                __atexit_recursive_mutex
  *(.RamFunc)
  *(.RamFunc*)
-                0x20000010                        . = ALIGN (0x4)
-                0x20000010                        _edata = .
-                0x08001a38                        _siccmram = LOADADDR (.ccmram)
+                0x20000154                        . = ALIGN (0x4)
+                0x20000154                        _edata = .
+                0x08003610                        _siccmram = LOADADDR (.ccmram)
 
 .tm_clone_table
-                0x20000010        0x0 load address 0x08001a38
+                0x20000154        0x0 load address 0x08003610
  .tm_clone_table
-                0x20000010        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20000154        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
  .tm_clone_table
-                0x20000010        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+                0x20000154        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
 
-.igot.plt       0x20000010        0x0 load address 0x08001a38
- .igot.plt      0x20000010        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+.igot.plt       0x20000154        0x0 load address 0x08003610
+ .igot.plt      0x20000154        0x0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
 
-.ccmram         0x10000000        0x0 load address 0x08001a38
+.ccmram         0x10000000        0x0 load address 0x08003610
                 0x10000000                        . = ALIGN (0x4)
                 0x10000000                        _sccmram = .
  *(.ccmram)
@@ -1487,51 +1845,64 @@ LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
                 0x10000000                        _eccmram = .
                 0x10000000                        . = ALIGN (0x4)
 
-.bss            0x20000010      0x1f4
-                0x20000010                        _sbss = .
-                0x20000010                        __bss_start__ = _sbss
+.bss            0x20000154      0x414
+                0x20000154                        _sbss = .
+                0x20000154                        __bss_start__ = _sbss
  *(.bss)
  *(.bss*)
  .bss.completed.1
-                0x20000010        0x1 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
- *fill*         0x20000011        0x3 
- .bss.object.0  0x20000014       0x18 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
- .bss.hcan1     0x2000002c       0x28 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
-                0x2000002c                hcan1
- .bss.uwTick    0x20000054        0x4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                0x20000054                uwTick
- .bss.ID.0      0x20000058        0x2 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
- *fill*         0x2000005a        0x2 
+                0x20000154        0x1 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ *fill*         0x20000155        0x3 
+ .bss.object.0  0x20000158       0x18 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss.hcan1     0x20000170       0x28 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
+                0x20000170                hcan1
+ .bss.uwTick    0x20000198        0x4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x20000198                uwTick
+ .bss._ZZN4CANc11can_receiveEvE2ID
+                0x2000019c        0x2 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ *fill*         0x2000019e        0x2 
  .bss.Motor_Data_1
-                0x2000005c        0x8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
-                0x2000005c                Motor_Data_1
- .bss.rx_data   0x20000064        0x8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
-                0x20000064                rx_data
+                0x200001a0        0x8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+                0x200001a0                Motor_Data_1
+ .bss.rx_data   0x200001a8        0x8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+                0x200001a8                rx_data
+ .bss.pid       0x200001b0       0x70 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+                0x200001b0                pid
+ .bss.can       0x20000220        0x1 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+                0x20000220                can
+ *fill*         0x20000221        0x3 
+ .bss.Spdparam  0x20000224       0x38 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+                0x20000224                Spdparam
+ .bss.Posparam  0x2000025c       0x38 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+                0x2000025c                Posparam
+ .bss.__sf      0x20000294      0x138 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+                0x20000294                __sf
+ .bss.errno     0x200003cc        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+                0x200003cc                errno
  .bss.__lock___atexit_recursive_mutex
-                0x2000006c        0x1 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
-                0x2000006c                __lock___atexit_recursive_mutex
- *fill*         0x2000006d        0x3 
- .bss.__atexit  0x20000070        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
-                0x20000070                __atexit
+                0x200003d0        0x1 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                0x200003d0                __lock___atexit_recursive_mutex
+ *fill*         0x200003d1        0x3 
+ .bss.__atexit  0x200003d4        0x4 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+                0x200003d4                __atexit
  .bss.__atexit0
-                0x20000074      0x190 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
-                0x20000074                __atexit0
+                0x200003d8      0x190 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+                0x200003d8                __atexit0
  *(COMMON)
-                0x20000204                        . = ALIGN (0x4)
-                0x20000204                        _ebss = .
-                0x20000204                        __bss_end__ = _ebss
+                0x20000568                        . = ALIGN (0x4)
+                0x20000568                        _ebss = .
+                0x20000568                        __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000204      0x604
-                0x20000208                        . = ALIGN (0x8)
- *fill*         0x20000204        0x4 
+                0x20000568      0x600
+                0x20000568                        . = ALIGN (0x8)
                 [!provide]                        PROVIDE (end = .)
-                0x20000208                        PROVIDE (_end = .)
-                0x20000408                        . = (. + _Min_Heap_Size)
- *fill*         0x20000208      0x200 
-                0x20000808                        . = (. + _Min_Stack_Size)
- *fill*         0x20000408      0x400 
-                0x20000808                        . = ALIGN (0x8)
+                0x20000568                        PROVIDE (_end = .)
+                0x20000768                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000568      0x200 
+                0x20000b68                        . = (. + _Min_Stack_Size)
+ *fill*         0x20000768      0x400 
+                0x20000b68                        . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -1550,238 +1921,334 @@ LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-e
  .ARM.attributes
                 0x0000007a       0x2e CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
  .ARM.attributes
-                0x000000a8       0x2e CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
+                0x000000a8       0x2e CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
  .ARM.attributes
                 0x000000d6       0x2e CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
  .ARM.attributes
                 0x00000104       0x2e CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
  .ARM.attributes
-                0x00000132       0x2e CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x00000132       0x2e CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .ARM.attributes
-                0x00000160       0x21 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+                0x00000160       0x2e CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
  .ARM.attributes
-                0x00000181       0x2e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x0000018e       0x21 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
  .ARM.attributes
-                0x000001af       0x2e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x000001af       0x2e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
  .ARM.attributes
-                0x000001dd       0x2e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x000001dd       0x2e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .ARM.attributes
-                0x0000020b       0x2e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x0000020b       0x2e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .ARM.attributes
-                0x00000239       0x2e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x00000239       0x2e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
  .ARM.attributes
-                0x00000267       0x2e CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+                0x00000267       0x2e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
  .ARM.attributes
-                0x00000295       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x00000295       0x2e CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
  .ARM.attributes
-                0x000002b3       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x000002c3       0x2e CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
  .ARM.attributes
-                0x000002e1       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x000002f1       0x2e CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
  .ARM.attributes
-                0x000002ff       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+                0x0000031f       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
  .ARM.attributes
-                0x0000032d       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+                0x0000033d       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
  .ARM.attributes
-                0x0000035b       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+                0x0000035b       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
  .ARM.attributes
-                0x00000389       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+                0x00000379       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
  .ARM.attributes
-                0x000003b7       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+                0x00000397       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
  .ARM.attributes
-                0x000003e5       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+                0x000003b5       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
  .ARM.attributes
-                0x00000413       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+                0x000003e3       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
  .ARM.attributes
-                0x00000441       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+                0x00000411       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(libunwind.o)
  .ARM.attributes
-                0x0000046f       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
+                0x0000042f       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x0000045d       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000047b       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-abort.o)
+ .ARM.attributes
+                0x000004a9       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x000004d7       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .ARM.attributes
+                0x00000505       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+ .ARM.attributes
+                0x00000533       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000561       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-impure.o)
+ .ARM.attributes
+                0x0000058f       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signalr.o)
+ .ARM.attributes
+                0x000005bd       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-errno.o)
+ .ARM.attributes
+                0x000005eb       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .ARM.attributes
+                0x00000619       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000647       0x1c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memcpy.o)
+ .ARM.attributes
+                0x00000663       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000691       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .ARM.attributes
+                0x000006bf       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .ARM.attributes
+                0x000006ed       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+ .ARM.attributes
+                0x0000071b       0x2e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000749       0x1e C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp/crtn.o
 OUTPUT(RM2027.elf elf32-littlearm)
 LOAD linker stubs
 LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libc.a
 LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libm.a
 LOAD C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a
 
-.debug_info     0x00000000     0x650c
+.debug_info     0x00000000     0x7c36
  .debug_info    0x00000000      0xb5e CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
  .debug_info    0x00000b5e      0x280 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
- .debug_info    0x00000dde      0x5e7 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
- .debug_info    0x000013c5      0x265 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_info    0x0000162a      0x520 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_info    0x00001b4a      0x334 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_info    0x00001e7e       0x30 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
- .debug_info    0x00001eae      0x9e2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_info    0x00002890     0x11f4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
- .debug_info    0x00003a84      0xff5 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_info    0x00004a79      0x704 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_info    0x0000517d      0xa81 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_info    0x00005bfe      0x90e CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+ .debug_info    0x00000dde      0x8ea CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+ .debug_info    0x000016c8      0x265 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_info    0x0000192d      0x520 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_info    0x00001e4d      0x789 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x000025d6      0x334 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_info    0x0000290a       0x30 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+ .debug_info    0x0000293a      0x9e2 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_info    0x0000331c     0x11f4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+ .debug_info    0x00004510      0xff5 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_info    0x00005505      0x704 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_info    0x00005c09      0xa81 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_info    0x0000668a      0xa91 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .debug_info    0x0000711b      0x616 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_info    0x00007731      0x505 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
 
-.debug_abbrev   0x00000000     0x1830
+.debug_abbrev   0x00000000     0x1ee8
  .debug_abbrev  0x00000000      0x23d CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
  .debug_abbrev  0x0000023d       0xd6 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
- .debug_abbrev  0x00000313      0x226 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
- .debug_abbrev  0x00000539       0xd6 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_abbrev  0x0000060f      0x197 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_abbrev  0x000007a6      0x120 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_abbrev  0x000008c6       0x24 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
- .debug_abbrev  0x000008ea      0x240 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_abbrev  0x00000b2a      0x28c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
- .debug_abbrev  0x00000db6      0x391 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_abbrev  0x00001147      0x202 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_abbrev  0x00001349      0x2c7 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_abbrev  0x00001610      0x220 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+ .debug_abbrev  0x00000313      0x2dd CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+ .debug_abbrev  0x000005f0       0xd6 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_abbrev  0x000006c6      0x197 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_abbrev  0x0000085d      0x1c1 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x00000a1e      0x120 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_abbrev  0x00000b3e       0x24 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+ .debug_abbrev  0x00000b62      0x240 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_abbrev  0x00000da2      0x28c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+ .debug_abbrev  0x0000102e      0x391 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_abbrev  0x000013bf      0x202 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_abbrev  0x000015c1      0x2c7 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_abbrev  0x00001888      0x280 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .debug_abbrev  0x00001b08      0x211 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_abbrev  0x00001d19      0x1cf CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
 
 .debug_loclists
-                0x00000000     0x196f
+                0x00000000     0x1e05
  .debug_loclists
                 0x00000000       0x75 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
  .debug_loclists
-                0x00000075       0x79 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x00000075      0x2cd CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .debug_loclists
-                0x000000ee       0xe1 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x00000342       0x79 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
  .debug_loclists
-                0x000001cf      0xa25 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x000003bb       0xe1 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
  .debug_loclists
-                0x00000bf4      0x54d CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x0000049c      0xa25 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .debug_loclists
-                0x00001141      0x386 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x00000ec1      0x54d CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .debug_loclists
-                0x000014c7      0x3e5 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x0000140e      0x386 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
  .debug_loclists
-                0x000018ac       0xc3 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+                0x00001794      0x3e5 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_loclists
+                0x00001b79      0x113 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .debug_loclists
+                0x00001c8c       0x66 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_loclists
+                0x00001cf2      0x113 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
 
-.debug_aranges  0x00000000      0x590
+.debug_aranges  0x00000000      0x698
  .debug_aranges
                 0x00000000       0x30 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
  .debug_aranges
                 0x00000030       0x20 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
  .debug_aranges
-                0x00000050       0x30 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
+                0x00000050       0x30 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
  .debug_aranges
                 0x00000080       0x20 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
  .debug_aranges
                 0x000000a0       0x68 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
  .debug_aranges
-                0x00000108       0x28 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x00000108       0xa8 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .debug_aranges
-                0x00000130       0x28 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+                0x000001b0       0x28 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
  .debug_aranges
-                0x00000158       0xf0 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x000001d8       0x28 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
  .debug_aranges
-                0x00000248      0x138 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x00000200       0xf0 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
  .debug_aranges
-                0x00000380       0xf8 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x000002f0      0x138 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .debug_aranges
-                0x00000478       0x58 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x00000428       0xf8 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .debug_aranges
-                0x000004d0       0x88 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x00000520       0x58 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
  .debug_aranges
-                0x00000558       0x38 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+                0x00000578       0x88 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000600       0x38 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .debug_aranges
+                0x00000638       0x28 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_aranges
+                0x00000660       0x38 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
 
 .debug_rnglists
-                0x00000000      0x415
+                0x00000000      0x4cd
  .debug_rnglists
                 0x00000000       0x20 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
  .debug_rnglists
                 0x00000020       0x13 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
  .debug_rnglists
-                0x00000033       0x20 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
+                0x00000033       0x20 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
  .debug_rnglists
                 0x00000053       0x13 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
  .debug_rnglists
                 0x00000066       0x49 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
  .debug_rnglists
-                0x000000af       0x1a CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+                0x000000af       0x79 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .debug_rnglists
-                0x000000c9       0x19 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+                0x00000128       0x1a CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
  .debug_rnglists
-                0x000000e2       0xaf CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x00000142       0x19 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
  .debug_rnglists
-                0x00000191       0xf6 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+                0x0000015b       0xaf CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
  .debug_rnglists
-                0x00000287       0xb5 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x0000020a       0xf6 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .debug_rnglists
-                0x0000033c       0x3f CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x00000300       0xb5 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .debug_rnglists
-                0x0000037b       0x75 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x000003b5       0x3f CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
  .debug_rnglists
-                0x000003f0       0x25 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+                0x000003f4       0x75 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_rnglists
+                0x00000469       0x25 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .debug_rnglists
+                0x0000048e       0x19 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_rnglists
+                0x000004a7       0x26 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
 
-.debug_line     0x00000000     0x528e
+.debug_line     0x00000000     0x5e7b
  .debug_line    0x00000000      0x48b CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
  .debug_line    0x0000048b      0x219 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
- .debug_line    0x000006a4      0x570 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
- .debug_line    0x00000c14      0x220 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_line    0x00000e34      0x3a0 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_line    0x000011d4      0x2e8 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_line    0x000014bc       0x7a CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
- .debug_line    0x00001536      0x6f9 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_line    0x00001c2f     0x12dd CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
- .debug_line    0x00002f0c      0x9bc CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_line    0x000038c8      0x823 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_line    0x000040eb      0xceb CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_line    0x00004dd6      0x4b8 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+ .debug_line    0x000006a4      0x698 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+ .debug_line    0x00000d3c      0x220 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_line    0x00000f5c      0x3a0 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_line    0x000012fc      0x43e CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x0000173a      0x2e8 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_line    0x00001a22       0x7a CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+ .debug_line    0x00001a9c      0x6f9 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_line    0x00002195     0x12dd CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+ .debug_line    0x00003472      0x9bc CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_line    0x00003e2e      0x823 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_line    0x00004651      0xceb CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_line    0x0000533c      0x503 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .debug_line    0x0000583f      0x3e1 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_line    0x00005c20      0x25b CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
 
-.debug_str      0x00000000     0x24e6
- .debug_str     0x00000000     0x24e6 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
+.debug_str      0x00000000     0x2c6b
+ .debug_str     0x00000000     0x2c6b CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
                                 0xc07 (size before relaxing)
- .debug_str     0x000024e6      0x359 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
- .debug_str     0x000024e6      0x573 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
- .debug_str     0x000024e6      0x365 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_str     0x000024e6      0x5a0 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_str     0x000024e6      0x3cb CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_str     0x000024e6      0x11b CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
- .debug_str     0x000024e6      0xc0e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_str     0x000024e6      0xadf CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
- .debug_str     0x000024e6      0xd1f CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_str     0x000024e6      0x58a CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_str     0x000024e6      0x7b0 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_str     0x000024e6      0x79e CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+ .debug_str     0x00002c6b      0x359 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
+ .debug_str     0x00002c6b      0x84b CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+ .debug_str     0x00002c6b      0x365 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_str     0x00002c6b      0x5a0 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_str     0x00002c6b      0x4a3 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
+ .debug_str     0x00002c6b      0x3cb CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_str     0x00002c6b      0x11b CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+ .debug_str     0x00002c6b      0xc0e CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_str     0x00002c6b      0xadf CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+ .debug_str     0x00002c6b      0xd1f CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_str     0x00002c6b      0x58a CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_str     0x00002c6b      0x7b0 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_str     0x00002c6b      0x9b2 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .debug_str     0x00002c6b      0x63b CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_str     0x00002c6b      0x424 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
 
 .comment        0x00000000       0x45
  .comment       0x00000000       0x45 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
                                  0x46 (size before relaxing)
  .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
- .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
  .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
  .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
  .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
  .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
  .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
  .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
  .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
  .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
+ .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .comment       0x00000045       0x46 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
 
-.debug_frame    0x00000000      0xde0
+.debug_frame    0x00000000     0x187c
  .debug_frame   0x00000000       0x60 CMakeFiles/RM2027.elf.dir/Core/Src/can.c.obj
  .debug_frame   0x00000060       0x28 CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.obj
- .debug_frame   0x00000088       0x58 CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
- .debug_frame   0x000000e0       0x28 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_frame   0x00000108       0xc0 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_frame   0x000001c8       0x30 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_frame   0x000001f8      0x1ec CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_frame   0x000003e4      0x2d4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
- .debug_frame   0x000006b8      0x214 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_frame   0x000008cc       0xd4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_frame   0x000009a0      0x16c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_frame   0x00000b0c       0x88 CMakeFiles/RM2027.elf.dir/User/CAN/can_io.c.obj
- .debug_frame   0x00000b94       0x2c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
- .debug_frame   0x00000bc0       0x34 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
- .debug_frame   0x00000bf4       0x2c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
- .debug_frame   0x00000c20       0x2c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
- .debug_frame   0x00000c4c       0xb0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
- .debug_frame   0x00000cfc       0x5c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
- .debug_frame   0x00000d58       0x20 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
- .debug_frame   0x00000d78       0x34 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
- .debug_frame   0x00000dac       0x34 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
+ .debug_frame   0x00000088       0x5c CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj
+ .debug_frame   0x000000e4       0x28 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_frame   0x0000010c       0xc0 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_frame   0x000001cc      0x190 CMakeFiles/RM2027.elf.dir/Core/Src/syscalls.c.obj
+ .debug_frame   0x0000035c       0x30 CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_frame   0x0000038c      0x1ec CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_frame   0x00000578      0x2d4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c.obj
+ .debug_frame   0x0000084c      0x214 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_frame   0x00000a60       0xd4 CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_frame   0x00000b34      0x16c CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_frame   0x00000ca0       0x8c CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
+ .debug_frame   0x00000d2c       0x50 CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
+ .debug_frame   0x00000d7c       0x78 CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
+ .debug_frame   0x00000df4       0x24 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x00000e18       0x4c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00000e64       0xc8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_frame   0x00000f2c       0x24 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .debug_frame   0x00000f50       0x2c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000f7c       0x34 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000fb0      0x2c8 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(unwind-arm.o)
+ .debug_frame   0x00001278      0x104 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(pr-support.o)
+ .debug_frame   0x0000137c       0x28 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-abort.o)
+ .debug_frame   0x000013a4      0x13c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-findfp.o)
+ .debug_frame   0x000014e0       0x2c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memset.o)
+ .debug_frame   0x0000150c      0x118 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signal.o)
+ .debug_frame   0x00001624       0x3c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-reent.o)
+ .debug_frame   0x00001660       0x3c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-signalr.o)
+ .debug_frame   0x0000169c       0x20 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-errno.o)
+ .debug_frame   0x000016bc       0x2c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-init.o)
+ .debug_frame   0x000016e8       0xb0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-lock.o)
+ .debug_frame   0x00001798       0x5c C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__call_atexit.o)
+ .debug_frame   0x000017f4       0x20 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-atexit.o)
+ .debug_frame   0x00001814       0x34 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-fini.o)
+ .debug_frame   0x00001848       0x34 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-__atexit.o)
 
 .debug_line_str
-                0x00000000      0x1d1
+                0x00000000      0x2ca
  .debug_line_str
-                0x00000000      0x1d1 CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
+                0x00000000      0x2ca CMakeFiles/RM2027.elf.dir/Core/Startup/startup_stm32f407ighx.s.obj
                                  0xff (size before relaxing)
  .debug_line_str
-                0x000001d1       0xc6 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x000002ca       0xcb C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
  .debug_line_str
-                0x000001d1       0xca C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x000002ca       0xcb C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_line_str
+                0x000002ca       0xcb C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_line_str
+                0x000002ca       0xcb C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .debug_line_str
+                0x000002ca       0xc6 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line_str
+                0x000002ca       0xca C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(libunwind.o)
+ .debug_line_str
+                0x000002ca       0xca C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .debug_line_str
+                0x000002ca       0xe0 C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/thumb/v7e-m/nofp\libg.a(libc_a-memcpy.o)

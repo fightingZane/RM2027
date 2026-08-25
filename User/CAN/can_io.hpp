@@ -17,11 +17,12 @@ typedef struct
     int16_t Temperature;
 }Motor_Data;
 
-class CANc {
+
+class CANc
+{
 private:
 
 public:
-
     void can_init();
     void can_send(int16_t ID,int16_t Mess_1,int16_t Mess_2,int16_t Mess_3,int16_t Mess_4 );
     void can_receive();
