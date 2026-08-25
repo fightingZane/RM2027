@@ -59,7 +59,8 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 
 /* USER CODE BEGIN Private defines */
-
+void Rtos_Init();
+void main_init();
 /* USER CODE END Private defines */
 
 #ifdef __cplusplus
