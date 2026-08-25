@@ -23,9 +23,10 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "cmsis_os.h"  //????
 #include "can_io.hpp"
 #include "Motor.hpp"
+#include "usart.h"
 #include "pid.hpp"
 
 /* USER CODE END Includes */
@@ -53,6 +54,7 @@
 
 /* Private function prototypes -----------------------------------------------*/
 void SystemClock_Config(void);
+void MX_FREERTOS_Init(void);
 /* USER CODE BEGIN PFP */
 
 /* USER CODE END PFP */
@@ -79,10 +81,6 @@ int main(void)
   HAL_Init();
 
   /* USER CODE BEGIN Init */
-  CANc can ;
-  MOTORc motor;
-
-  motor.motor_Init();
 
   /* USER CODE END Init */
 
@@ -98,16 +96,18 @@ int main(void)
   MX_CAN1_Init();
   /* USER CODE BEGIN 2 */
 
+  MX_USART1_UART_Init();
+  motor.motor_Init();
+
+  MX_FREERTOS_Init();      // 创建 defaultTask/gimbal_task/print_task
+  osKernelStart();         // 启动调度器，之后不会再返回
+
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-    can.can_receive();
-    motor.motor_loop(1000);
-    HAL_Delay(5);
-
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

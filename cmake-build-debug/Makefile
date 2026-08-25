@@ -159,6 +159,30 @@ Core/Src/can.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/can.c.s
 .PHONY : Core/Src/can.c.s
 
+Core/Src/freertos.obj: Core/Src/freertos.c.obj
+.PHONY : Core/Src/freertos.obj
+
+# target to build an object file
+Core/Src/freertos.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/freertos.c.obj
+.PHONY : Core/Src/freertos.c.obj
+
+Core/Src/freertos.i: Core/Src/freertos.c.i
+.PHONY : Core/Src/freertos.i
+
+# target to preprocess a source file
+Core/Src/freertos.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/freertos.c.i
+.PHONY : Core/Src/freertos.c.i
+
+Core/Src/freertos.s: Core/Src/freertos.c.s
+.PHONY : Core/Src/freertos.s
+
+# target to generate assembly for a file
+Core/Src/freertos.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/freertos.c.s
+.PHONY : Core/Src/freertos.c.s
+
 Core/Src/gpio.obj: Core/Src/gpio.c.obj
 .PHONY : Core/Src/gpio.obj
 
@@ -182,6 +206,30 @@ Core/Src/gpio.s: Core/Src/gpio.c.s
 Core/Src/gpio.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/gpio.c.s
 .PHONY : Core/Src/gpio.c.s
+
+Core/Src/main.obj: Core/Src/main.c.obj
+.PHONY : Core/Src/main.obj
+
+# target to build an object file
+Core/Src/main.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj
+.PHONY : Core/Src/main.c.obj
+
+Core/Src/main.i: Core/Src/main.c.i
+.PHONY : Core/Src/main.i
+
+# target to preprocess a source file
+Core/Src/main.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/main.c.i
+.PHONY : Core/Src/main.c.i
+
+Core/Src/main.s: Core/Src/main.c.s
+.PHONY : Core/Src/main.s
+
+# target to generate assembly for a file
+Core/Src/main.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/main.c.s
+.PHONY : Core/Src/main.c.s
 
 Core/Src/main.obj: Core/Src/main.cpp.obj
 .PHONY : Core/Src/main.obj
@@ -230,6 +278,30 @@ Core/Src/stm32f4xx_hal_msp.s: Core/Src/stm32f4xx_hal_msp.c.s
 Core/Src/stm32f4xx_hal_msp.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.s
 .PHONY : Core/Src/stm32f4xx_hal_msp.c.s
+
+Core/Src/stm32f4xx_hal_timebase_tim.obj: Core/Src/stm32f4xx_hal_timebase_tim.c.obj
+.PHONY : Core/Src/stm32f4xx_hal_timebase_tim.obj
+
+# target to build an object file
+Core/Src/stm32f4xx_hal_timebase_tim.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.obj
+.PHONY : Core/Src/stm32f4xx_hal_timebase_tim.c.obj
+
+Core/Src/stm32f4xx_hal_timebase_tim.i: Core/Src/stm32f4xx_hal_timebase_tim.c.i
+.PHONY : Core/Src/stm32f4xx_hal_timebase_tim.i
+
+# target to preprocess a source file
+Core/Src/stm32f4xx_hal_timebase_tim.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.i
+.PHONY : Core/Src/stm32f4xx_hal_timebase_tim.c.i
+
+Core/Src/stm32f4xx_hal_timebase_tim.s: Core/Src/stm32f4xx_hal_timebase_tim.c.s
+.PHONY : Core/Src/stm32f4xx_hal_timebase_tim.s
+
+# target to generate assembly for a file
+Core/Src/stm32f4xx_hal_timebase_tim.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_timebase_tim.c.s
+.PHONY : Core/Src/stm32f4xx_hal_timebase_tim.c.s
 
 Core/Src/stm32f4xx_it.obj: Core/Src/stm32f4xx_it.c.obj
 .PHONY : Core/Src/stm32f4xx_it.obj
@@ -326,6 +398,30 @@ Core/Src/system_stm32f4xx.s: Core/Src/system_stm32f4xx.c.s
 Core/Src/system_stm32f4xx.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/system_stm32f4xx.c.s
 .PHONY : Core/Src/system_stm32f4xx.c.s
+
+Core/Src/usart.obj: Core/Src/usart.c.obj
+.PHONY : Core/Src/usart.obj
+
+# target to build an object file
+Core/Src/usart.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/usart.c.obj
+.PHONY : Core/Src/usart.c.obj
+
+Core/Src/usart.i: Core/Src/usart.c.i
+.PHONY : Core/Src/usart.i
+
+# target to preprocess a source file
+Core/Src/usart.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/usart.c.i
+.PHONY : Core/Src/usart.c.i
+
+Core/Src/usart.s: Core/Src/usart.c.s
+.PHONY : Core/Src/usart.s
+
+# target to generate assembly for a file
+Core/Src/usart.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Core/Src/usart.c.s
+.PHONY : Core/Src/usart.c.s
 
 Core/Startup/startup_stm32f407ighx.obj: Core/Startup/startup_stm32f407ighx.s.obj
 .PHONY : Core/Startup/startup_stm32f407ighx.obj
@@ -671,77 +767,437 @@ Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.s
 .PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.s
 
-User/CAN/can_io.obj: User/CAN/can_io.cpp.obj
-.PHONY : User/CAN/can_io.obj
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.obj: Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.obj
 
 # target to build an object file
-User/CAN/can_io.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.obj
-.PHONY : User/CAN/can_io.cpp.obj
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
 
-User/CAN/can_io.i: User/CAN/can_io.cpp.i
-.PHONY : User/CAN/can_io.i
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.i: Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.i
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.i
 
 # target to preprocess a source file
-User/CAN/can_io.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.i
-.PHONY : User/CAN/can_io.cpp.i
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.i
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.i
 
-User/CAN/can_io.s: User/CAN/can_io.cpp.s
-.PHONY : User/CAN/can_io.s
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.s: Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.s
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.s
 
 # target to generate assembly for a file
-User/CAN/can_io.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/CAN/can_io.cpp.s
-.PHONY : User/CAN/can_io.cpp.s
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.s
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.s
 
-User/Motor/Motor.obj: User/Motor/Motor.cpp.obj
-.PHONY : User/Motor/Motor.obj
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.obj: Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.obj
 
 # target to build an object file
-User/Motor/Motor.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.obj
-.PHONY : User/Motor/Motor.cpp.obj
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
 
-User/Motor/Motor.i: User/Motor/Motor.cpp.i
-.PHONY : User/Motor/Motor.i
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.i: Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.i
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.i
 
 # target to preprocess a source file
-User/Motor/Motor.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.i
-.PHONY : User/Motor/Motor.cpp.i
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.i
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.i
 
-User/Motor/Motor.s: User/Motor/Motor.cpp.s
-.PHONY : User/Motor/Motor.s
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.s: Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.s
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.s
 
 # target to generate assembly for a file
-User/Motor/Motor.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Motor/Motor.cpp.s
-.PHONY : User/Motor/Motor.cpp.s
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.s
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.s
 
-User/PID/pid.obj: User/PID/pid.cpp.obj
-.PHONY : User/PID/pid.obj
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.obj: Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.obj
 
 # target to build an object file
-User/PID/pid.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.obj
-.PHONY : User/PID/pid.cpp.obj
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj
 
-User/PID/pid.i: User/PID/pid.cpp.i
-.PHONY : User/PID/pid.i
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.i: Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.i
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.i
 
 # target to preprocess a source file
-User/PID/pid.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.i
-.PHONY : User/PID/pid.cpp.i
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.i
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.i
 
-User/PID/pid.s: User/PID/pid.cpp.s
-.PHONY : User/PID/pid.s
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.s: Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.s
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.s
 
 # target to generate assembly for a file
-User/PID/pid.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/PID/pid.cpp.s
-.PHONY : User/PID/pid.cpp.s
+Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.s
+.PHONY : Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.s
+
+Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.obj: Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.obj
+
+# target to build an object file
+Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.obj
+
+Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.i: Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.i
+
+# target to preprocess a source file
+Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.i
+
+Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.s: Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.s
+
+# target to generate assembly for a file
+Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.c.s
+
+Middlewares/Third_Party/FreeRTOS/Source/croutine.obj: Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/croutine.obj
+
+# target to build an object file
+Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/croutine.c.obj
+
+Middlewares/Third_Party/FreeRTOS/Source/croutine.i: Middlewares/Third_Party/FreeRTOS/Source/croutine.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/croutine.i
+
+# target to preprocess a source file
+Middlewares/Third_Party/FreeRTOS/Source/croutine.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/croutine.c.i
+
+Middlewares/Third_Party/FreeRTOS/Source/croutine.s: Middlewares/Third_Party/FreeRTOS/Source/croutine.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/croutine.s
+
+# target to generate assembly for a file
+Middlewares/Third_Party/FreeRTOS/Source/croutine.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/croutine.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/croutine.c.s
+
+Middlewares/Third_Party/FreeRTOS/Source/event_groups.obj: Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/event_groups.obj
+
+# target to build an object file
+Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.obj
+
+Middlewares/Third_Party/FreeRTOS/Source/event_groups.i: Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/event_groups.i
+
+# target to preprocess a source file
+Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.i
+
+Middlewares/Third_Party/FreeRTOS/Source/event_groups.s: Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/event_groups.s
+
+# target to generate assembly for a file
+Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/event_groups.c.s
+
+Middlewares/Third_Party/FreeRTOS/Source/list.obj: Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/list.obj
+
+# target to build an object file
+Middlewares/Third_Party/FreeRTOS/Source/list.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
+
+Middlewares/Third_Party/FreeRTOS/Source/list.i: Middlewares/Third_Party/FreeRTOS/Source/list.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/list.i
+
+# target to preprocess a source file
+Middlewares/Third_Party/FreeRTOS/Source/list.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/list.c.i
+
+Middlewares/Third_Party/FreeRTOS/Source/list.s: Middlewares/Third_Party/FreeRTOS/Source/list.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/list.s
+
+# target to generate assembly for a file
+Middlewares/Third_Party/FreeRTOS/Source/list.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/list.c.s
+
+Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.obj: Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.obj
+
+# target to build an object file
+Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
+
+Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.i: Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.i
+
+# target to preprocess a source file
+Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.i
+
+Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.s: Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.s
+
+# target to generate assembly for a file
+Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.s
+
+Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.obj: Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.obj
+
+# target to build an object file
+Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+
+Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.i: Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.i
+
+# target to preprocess a source file
+Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.i
+
+Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.s: Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.s
+
+# target to generate assembly for a file
+Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.s
+
+Middlewares/Third_Party/FreeRTOS/Source/queue.obj: Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/queue.obj
+
+# target to build an object file
+Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+
+Middlewares/Third_Party/FreeRTOS/Source/queue.i: Middlewares/Third_Party/FreeRTOS/Source/queue.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/queue.i
+
+# target to preprocess a source file
+Middlewares/Third_Party/FreeRTOS/Source/queue.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/queue.c.i
+
+Middlewares/Third_Party/FreeRTOS/Source/queue.s: Middlewares/Third_Party/FreeRTOS/Source/queue.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/queue.s
+
+# target to generate assembly for a file
+Middlewares/Third_Party/FreeRTOS/Source/queue.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/queue.c.s
+
+Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.obj: Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.obj
+
+# target to build an object file
+Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj
+
+Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.i: Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.i
+
+# target to preprocess a source file
+Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.i
+
+Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.s: Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.s
+
+# target to generate assembly for a file
+Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.s
+
+Middlewares/Third_Party/FreeRTOS/Source/tasks.obj: Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/tasks.obj
+
+# target to build an object file
+Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
+
+Middlewares/Third_Party/FreeRTOS/Source/tasks.i: Middlewares/Third_Party/FreeRTOS/Source/tasks.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/tasks.i
+
+# target to preprocess a source file
+Middlewares/Third_Party/FreeRTOS/Source/tasks.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/tasks.c.i
+
+Middlewares/Third_Party/FreeRTOS/Source/tasks.s: Middlewares/Third_Party/FreeRTOS/Source/tasks.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/tasks.s
+
+# target to generate assembly for a file
+Middlewares/Third_Party/FreeRTOS/Source/tasks.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/tasks.c.s
+
+Middlewares/Third_Party/FreeRTOS/Source/timers.obj: Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/timers.obj
+
+# target to build an object file
+Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
+
+Middlewares/Third_Party/FreeRTOS/Source/timers.i: Middlewares/Third_Party/FreeRTOS/Source/timers.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/timers.i
+
+# target to preprocess a source file
+Middlewares/Third_Party/FreeRTOS/Source/timers.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.i
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/timers.c.i
+
+Middlewares/Third_Party/FreeRTOS/Source/timers.s: Middlewares/Third_Party/FreeRTOS/Source/timers.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/timers.s
+
+# target to generate assembly for a file
+Middlewares/Third_Party/FreeRTOS/Source/timers.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.s
+.PHONY : Middlewares/Third_Party/FreeRTOS/Source/timers.c.s
+
+User/Framework/CAN/can_io.obj: User/Framework/CAN/can_io.cpp.obj
+.PHONY : User/Framework/CAN/can_io.obj
+
+# target to build an object file
+User/Framework/CAN/can_io.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/CAN/can_io.cpp.obj
+.PHONY : User/Framework/CAN/can_io.cpp.obj
+
+User/Framework/CAN/can_io.i: User/Framework/CAN/can_io.cpp.i
+.PHONY : User/Framework/CAN/can_io.i
+
+# target to preprocess a source file
+User/Framework/CAN/can_io.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/CAN/can_io.cpp.i
+.PHONY : User/Framework/CAN/can_io.cpp.i
+
+User/Framework/CAN/can_io.s: User/Framework/CAN/can_io.cpp.s
+.PHONY : User/Framework/CAN/can_io.s
+
+# target to generate assembly for a file
+User/Framework/CAN/can_io.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/CAN/can_io.cpp.s
+.PHONY : User/Framework/CAN/can_io.cpp.s
+
+User/Framework/Motor/Motor.obj: User/Framework/Motor/Motor.cpp.obj
+.PHONY : User/Framework/Motor/Motor.obj
+
+# target to build an object file
+User/Framework/Motor/Motor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.obj
+.PHONY : User/Framework/Motor/Motor.cpp.obj
+
+User/Framework/Motor/Motor.i: User/Framework/Motor/Motor.cpp.i
+.PHONY : User/Framework/Motor/Motor.i
+
+# target to preprocess a source file
+User/Framework/Motor/Motor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.i
+.PHONY : User/Framework/Motor/Motor.cpp.i
+
+User/Framework/Motor/Motor.s: User/Framework/Motor/Motor.cpp.s
+.PHONY : User/Framework/Motor/Motor.s
+
+# target to generate assembly for a file
+User/Framework/Motor/Motor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.s
+.PHONY : User/Framework/Motor/Motor.cpp.s
+
+User/Framework/PID/pid.obj: User/Framework/PID/pid.cpp.obj
+.PHONY : User/Framework/PID/pid.obj
+
+# target to build an object file
+User/Framework/PID/pid.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.obj
+.PHONY : User/Framework/PID/pid.cpp.obj
+
+User/Framework/PID/pid.i: User/Framework/PID/pid.cpp.i
+.PHONY : User/Framework/PID/pid.i
+
+# target to preprocess a source file
+User/Framework/PID/pid.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.i
+.PHONY : User/Framework/PID/pid.cpp.i
+
+User/Framework/PID/pid.s: User/Framework/PID/pid.cpp.s
+.PHONY : User/Framework/PID/pid.s
+
+# target to generate assembly for a file
+User/Framework/PID/pid.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.s
+.PHONY : User/Framework/PID/pid.cpp.s
+
+User/Task/Gimbal_task.obj: User/Task/Gimbal_task.cpp.obj
+.PHONY : User/Task/Gimbal_task.obj
+
+# target to build an object file
+User/Task/Gimbal_task.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj
+.PHONY : User/Task/Gimbal_task.cpp.obj
+
+User/Task/Gimbal_task.i: User/Task/Gimbal_task.cpp.i
+.PHONY : User/Task/Gimbal_task.i
+
+# target to preprocess a source file
+User/Task/Gimbal_task.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.i
+.PHONY : User/Task/Gimbal_task.cpp.i
+
+User/Task/Gimbal_task.s: User/Task/Gimbal_task.cpp.s
+.PHONY : User/Task/Gimbal_task.s
+
+# target to generate assembly for a file
+User/Task/Gimbal_task.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.s
+.PHONY : User/Task/Gimbal_task.cpp.s
+
+User/Task/Print_task.obj: User/Task/Print_task.cpp.obj
+.PHONY : User/Task/Print_task.obj
+
+# target to build an object file
+User/Task/Print_task.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.obj
+.PHONY : User/Task/Print_task.cpp.obj
+
+User/Task/Print_task.i: User/Task/Print_task.cpp.i
+.PHONY : User/Task/Print_task.i
+
+# target to preprocess a source file
+User/Task/Print_task.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.i
+.PHONY : User/Task/Print_task.cpp.i
+
+User/Task/Print_task.s: User/Task/Print_task.cpp.s
+.PHONY : User/Task/Print_task.s
+
+# target to generate assembly for a file
+User/Task/Print_task.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.s
+.PHONY : User/Task/Print_task.cpp.s
 
 # Help Target
 help:
@@ -756,15 +1212,24 @@ help:
 	@echo ... Core/Src/can.obj
 	@echo ... Core/Src/can.i
 	@echo ... Core/Src/can.s
+	@echo ... Core/Src/freertos.obj
+	@echo ... Core/Src/freertos.i
+	@echo ... Core/Src/freertos.s
 	@echo ... Core/Src/gpio.obj
 	@echo ... Core/Src/gpio.i
 	@echo ... Core/Src/gpio.s
 	@echo ... Core/Src/main.obj
 	@echo ... Core/Src/main.i
 	@echo ... Core/Src/main.s
+	@echo ... Core/Src/main.obj
+	@echo ... Core/Src/main.i
+	@echo ... Core/Src/main.s
 	@echo ... Core/Src/stm32f4xx_hal_msp.obj
 	@echo ... Core/Src/stm32f4xx_hal_msp.i
 	@echo ... Core/Src/stm32f4xx_hal_msp.s
+	@echo ... Core/Src/stm32f4xx_hal_timebase_tim.obj
+	@echo ... Core/Src/stm32f4xx_hal_timebase_tim.i
+	@echo ... Core/Src/stm32f4xx_hal_timebase_tim.s
 	@echo ... Core/Src/stm32f4xx_it.obj
 	@echo ... Core/Src/stm32f4xx_it.i
 	@echo ... Core/Src/stm32f4xx_it.s
@@ -777,6 +1242,9 @@ help:
 	@echo ... Core/Src/system_stm32f4xx.obj
 	@echo ... Core/Src/system_stm32f4xx.i
 	@echo ... Core/Src/system_stm32f4xx.s
+	@echo ... Core/Src/usart.obj
+	@echo ... Core/Src/usart.i
+	@echo ... Core/Src/usart.s
 	@echo ... Core/Startup/startup_stm32f407ighx.obj
 	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.obj
 	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.i
@@ -820,15 +1288,60 @@ help:
 	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.obj
 	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.i
 	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.s
-	@echo ... User/CAN/can_io.obj
-	@echo ... User/CAN/can_io.i
-	@echo ... User/CAN/can_io.s
-	@echo ... User/Motor/Motor.obj
-	@echo ... User/Motor/Motor.i
-	@echo ... User/Motor/Motor.s
-	@echo ... User/PID/pid.obj
-	@echo ... User/PID/pid.i
-	@echo ... User/PID/pid.s
+	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.obj
+	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.i
+	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.s
+	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.obj
+	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.i
+	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.s
+	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.obj
+	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.i
+	@echo ... Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.s
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.obj
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.i
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.s
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/croutine.obj
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/croutine.i
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/croutine.s
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/event_groups.obj
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/event_groups.i
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/event_groups.s
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/list.obj
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/list.i
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/list.s
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.obj
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.i
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.s
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.obj
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.i
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.s
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/queue.obj
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/queue.i
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/queue.s
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.obj
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.i
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.s
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/tasks.obj
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/tasks.i
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/tasks.s
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/timers.obj
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/timers.i
+	@echo ... Middlewares/Third_Party/FreeRTOS/Source/timers.s
+	@echo ... User/Framework/CAN/can_io.obj
+	@echo ... User/Framework/CAN/can_io.i
+	@echo ... User/Framework/CAN/can_io.s
+	@echo ... User/Framework/Motor/Motor.obj
+	@echo ... User/Framework/Motor/Motor.i
+	@echo ... User/Framework/Motor/Motor.s
+	@echo ... User/Framework/PID/pid.obj
+	@echo ... User/Framework/PID/pid.i
+	@echo ... User/Framework/PID/pid.s
+	@echo ... User/Task/Gimbal_task.obj
+	@echo ... User/Task/Gimbal_task.i
+	@echo ... User/Task/Gimbal_task.s
+	@echo ... User/Task/Print_task.obj
+	@echo ... User/Task/Print_task.i
+	@echo ... User/Task/Print_task.s
 .PHONY : help
 
 

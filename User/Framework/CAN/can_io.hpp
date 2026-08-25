@@ -28,5 +28,5 @@ public:
     void can_receive();
 };
 
-
+extern CANc can;
 #endif //RM2027_CAN_IO_H

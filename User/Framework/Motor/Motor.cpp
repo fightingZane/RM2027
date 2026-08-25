@@ -11,6 +11,7 @@ extern Motor_Data Motor_Data_1;
 
 PID_t Posparam,Spdparam;
 
+MOTORc motor;
 CANc can;
 PIDc pid;
 
@@ -24,7 +25,7 @@ void MOTORc::motor_Init()
 //前提是已经调用了can_recevice来获取上一次数据 motor_data(其中包含电机的 当前转速speed,当前位置angle)
 void MOTORc::motor_loop(float target_angle)
 {
-    can.can_send(0x1FE,0,
+    can.can_send(0x1FF,0,
     (int16_t)pid.Pos_Spd_PID(&Spdparam,&Posparam,target_angle,Motor_Data_1.Angle, Motor_Data_1.Speed),
     0,0);
 }
