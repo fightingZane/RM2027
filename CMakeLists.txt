@@ -53,6 +53,7 @@ include_directories(Core/Inc Drivers/STM32F4xx_HAL_Driver/Inc Drivers/STM32F4xx_
 include_directories(User/Framework/CAN)
 include_directories(User/Framework/Motor)
 include_directories(User/Framework/PID)
+include_directories(User/Framework/Vofa)
 
 add_definitions(-DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx)
 

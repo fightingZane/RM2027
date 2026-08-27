@@ -16,7 +16,7 @@ extern "C" void Gimbal_task(void const * argument)
 
     for (;;)
     {
-        motor.motor_loop(target_angle);            // 角度串级 PID + CAN 发送
+        motor.motor_S_loop();            // 角度串级 PID + CAN 发送
         vTaskDelayUntil(&current_tick, cycle_tick);  // 严格 500Hz
     }
 }

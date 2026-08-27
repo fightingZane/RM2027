@@ -99,3 +99,17 @@ float PIDc::Pos_Spd_PID(PID_t *Spdparam,PID_t *Posparam, float Pos_Target, float
     return Spdparam->PID_Out;
 }
 
+float PIDc::SingleLoop_PID(PID_t *WhichPID, float Input, float Target)
+{
+    PID_Update(WhichPID, Input, Target);
+    return PID_Calculate(WhichPID);
+}
+
+void PIDc::PID_Clear(PID_t *WhichPID)
+{
+    WhichPID->PID_Err_now  = 0.0f;
+    WhichPID->PID_Err_last = 0.0f;
+    WhichPID->PID_Err_all  = 0.0f;
+    WhichPID->PID_Out      = 0.0f;
+    WhichPID->PID_last_Out = 0.0f;
+}

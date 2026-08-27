@@ -1151,6 +1151,30 @@ User/Framework/PID/pid.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.s
 .PHONY : User/Framework/PID/pid.cpp.s
 
+User/Framework/Vofa/vofa.obj: User/Framework/Vofa/vofa.cpp.obj
+.PHONY : User/Framework/Vofa/vofa.obj
+
+# target to build an object file
+User/Framework/Vofa/vofa.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj
+.PHONY : User/Framework/Vofa/vofa.cpp.obj
+
+User/Framework/Vofa/vofa.i: User/Framework/Vofa/vofa.cpp.i
+.PHONY : User/Framework/Vofa/vofa.i
+
+# target to preprocess a source file
+User/Framework/Vofa/vofa.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.i
+.PHONY : User/Framework/Vofa/vofa.cpp.i
+
+User/Framework/Vofa/vofa.s: User/Framework/Vofa/vofa.cpp.s
+.PHONY : User/Framework/Vofa/vofa.s
+
+# target to generate assembly for a file
+User/Framework/Vofa/vofa.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.s
+.PHONY : User/Framework/Vofa/vofa.cpp.s
+
 User/Task/Gimbal_task.obj: User/Task/Gimbal_task.cpp.obj
 .PHONY : User/Task/Gimbal_task.obj
 
@@ -1336,6 +1360,9 @@ help:
 	@echo ... User/Framework/PID/pid.obj
 	@echo ... User/Framework/PID/pid.i
 	@echo ... User/Framework/PID/pid.s
+	@echo ... User/Framework/Vofa/vofa.obj
+	@echo ... User/Framework/Vofa/vofa.i
+	@echo ... User/Framework/Vofa/vofa.s
 	@echo ... User/Task/Gimbal_task.obj
 	@echo ... User/Task/Gimbal_task.i
 	@echo ... User/Task/Gimbal_task.s
