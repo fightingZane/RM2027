@@ -35,6 +35,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/CAN"
   "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Motor"
   "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/PID"
+  "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Vofa"
   )
 
 # The set of dependency files which are needed:
@@ -81,6 +82,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/CAN/can_io.cpp" "CMakeFiles/RM2027.elf.dir/User/Framework/CAN/can_io.cpp.obj" "gcc" "CMakeFiles/RM2027.elf.dir/User/Framework/CAN/can_io.cpp.obj.d"
   "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Motor/Motor.cpp" "CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.obj" "gcc" "CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.obj.d"
   "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/PID/pid.cpp" "CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.obj" "gcc" "CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.obj.d"
+  "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Vofa/vofa.cpp" "CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj" "gcc" "CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj.d"
   "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Task/Gimbal_task.cpp" "CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj" "gcc" "CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj.d"
   "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Task/Print_task.cpp" "CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.obj" "gcc" "CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.obj.d"
   )

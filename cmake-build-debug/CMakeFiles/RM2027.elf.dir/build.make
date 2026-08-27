@@ -672,10 +672,24 @@ CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.s"
 	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\PID\pid.cpp -o CMakeFiles\RM2027.elf.dir\User\Framework\PID\pid.cpp.s
 
+CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj: CMakeFiles/RM2027.elf.dir/flags.make
+CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Vofa/vofa.cpp
+CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj: CMakeFiles/RM2027.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj"
+	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj -MF CMakeFiles\RM2027.elf.dir\User\Framework\Vofa\vofa.cpp.obj.d -o CMakeFiles\RM2027.elf.dir\User\Framework\Vofa\vofa.cpp.obj -c D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\Vofa\vofa.cpp
+
+CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.i"
+	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\Vofa\vofa.cpp > CMakeFiles\RM2027.elf.dir\User\Framework\Vofa\vofa.cpp.i
+
+CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.s"
+	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\Vofa\vofa.cpp -o CMakeFiles\RM2027.elf.dir\User\Framework\Vofa\vofa.cpp.s
+
 CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj: CMakeFiles/RM2027.elf.dir/flags.make
 CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Task/Gimbal_task.cpp
 CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj: CMakeFiles/RM2027.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj"
 	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj -MF CMakeFiles\RM2027.elf.dir\User\Task\Gimbal_task.cpp.obj.d -o CMakeFiles\RM2027.elf.dir\User\Task\Gimbal_task.cpp.obj -c D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Task\Gimbal_task.cpp
 
 CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.i: cmake_force
@@ -689,7 +703,7 @@ CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.s: cmake_force
 CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.obj: CMakeFiles/RM2027.elf.dir/flags.make
 CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Task/Print_task.cpp
 CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.obj: CMakeFiles/RM2027.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.obj"
 	C:\CLionToolchains\gcc-arm-none-eabi-10.3-2021.10\bin\arm-none-eabi-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.obj -MF CMakeFiles\RM2027.elf.dir\User\Task\Print_task.cpp.obj.d -o CMakeFiles\RM2027.elf.dir\User\Task\Print_task.cpp.obj -c D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Task\Print_task.cpp
 
 CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.i: cmake_force
@@ -745,6 +759,7 @@ RM2027_elf_OBJECTS = \
 "CMakeFiles/RM2027.elf.dir/User/Framework/CAN/can_io.cpp.obj" \
 "CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.obj" \
 "CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.obj" \
+"CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj" \
 "CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj" \
 "CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.obj"
 
@@ -794,11 +809,12 @@ RM2027.elf: CMakeFiles/RM2027.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/ti
 RM2027.elf: CMakeFiles/RM2027.elf.dir/User/Framework/CAN/can_io.cpp.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.obj
+RM2027.elf: CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/User/Task/Print_task.cpp.obj
 RM2027.elf: CMakeFiles/RM2027.elf.dir/build.make
 RM2027.elf: CMakeFiles/RM2027.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Linking CXX executable RM2027.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Linking CXX executable RM2027.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\RM2027.elf.dir\link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/RM2027.hex"
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/RM2027.bin"
