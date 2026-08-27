@@ -19,8 +19,8 @@ PIDc pid;
 float   target_speed = 0.0f;
 uint8_t motor_mode   = MODE_PROTECT;
 
-#define SPEED_KP  0.0f
-#define SPEED_KI  0.0f
+#define SPEED_KP  30.0f
+#define SPEED_KI  1.0f
 #define SPEED_KD  0.0f
 
 void MOTORc::motor_S_P_PID_Init()

@@ -6,6 +6,8 @@
 #include "can_io.hpp"     // Motor_Data
 #include <string.h>
 
+void Vofa_ParseCommand(void);
+
 extern float   target_speed;
 extern Motor_Data Motor_Data_1;
 
@@ -32,6 +34,7 @@ extern "C" void Print_task(void const * argument)
 
     for (;;)
     {
+        Vofa_ParseCommand();
         vofa_send_2float(target_speed, (float)Motor_Data_1.Speed);
         vTaskDelayUntil(&current_tick, xPeriod);
     }
