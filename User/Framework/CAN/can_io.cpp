@@ -34,6 +34,8 @@ void CANc::can_init()
 
 void CANc::can_send(int16_t ID,int16_t Mess_1,int16_t Mess_2,int16_t Mess_3,int16_t Mess_4 )
 {
+
+
     uint32_t Sent_Mailbox = 0;
     CAN_TxHeaderTypeDef Tx_message;
     uint8_t can_send_message[8];
@@ -82,6 +84,5 @@ void CANc::can_receive()
 
 void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef *hcan)
 {
-    CANc can;
     can.can_receive();
 }

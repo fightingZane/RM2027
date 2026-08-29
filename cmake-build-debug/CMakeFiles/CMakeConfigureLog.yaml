@@ -40,11 +40,11 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -52,9 +52,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
       - "/REGISTRY-NOTFOUND/bin/"
       - "c:/MinGW/bin/"
@@ -77,11 +77,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -89,9 +89,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -125,11 +125,11 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -137,9 +137,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/mingw64/bin/arm-none-eabi-gcc.com"
@@ -178,9 +178,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc"
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.com"
     found: "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe"
     search_context:
@@ -197,11 +194,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -209,9 +206,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -252,11 +249,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -264,9 +261,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "message-v1"
@@ -337,11 +334,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -349,9 +346,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "message-v1"
@@ -409,10 +406,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -420,9 +417,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ranlib.com"
@@ -441,11 +438,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -453,9 +450,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -491,10 +488,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -502,9 +499,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-strip.com"
@@ -523,11 +520,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -535,9 +532,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -573,10 +570,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -584,9 +581,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-ld.com"
@@ -605,11 +602,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -617,9 +614,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -655,10 +652,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -666,9 +663,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-nm.com"
@@ -687,11 +684,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -699,9 +696,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -737,10 +734,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -748,9 +745,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-readelf.com"
@@ -769,11 +766,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -781,9 +778,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -819,10 +816,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -830,9 +827,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-dlltool.com"
@@ -874,9 +871,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-dlltool.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-dlltool.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-dlltool"
-      - "C:/Program Files/nodejs/arm-none-eabi-dlltool.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-dlltool.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-dlltool"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-dlltool.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-dlltool.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-dlltool"
@@ -886,6 +880,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-dlltool.com"
       - "D:/Git/cmd/arm-none-eabi-dlltool.exe"
       - "D:/Git/cmd/arm-none-eabi-dlltool"
+      - "D:/01_D_app_download_center/arm-none-eabi-dlltool.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-dlltool.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-dlltool"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-dlltool.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-dlltool.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-dlltool"
@@ -907,15 +904,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-dlltool.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-dlltool.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-dlltool"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-dlltool.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-dlltool.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-dlltool"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-dlltool.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-dlltool.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-dlltool"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-dlltool.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-dlltool.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-dlltool"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-dlltool.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-dlltool.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-dlltool"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-dlltool.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-dlltool.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-dlltool"
@@ -938,11 +935,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -950,9 +947,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -988,10 +985,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -999,9 +996,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-addr2line.com"
@@ -1020,11 +1017,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -1032,9 +1029,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -1070,10 +1067,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -1081,9 +1078,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-tapi.com"
@@ -1125,9 +1122,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-tapi.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-tapi.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-tapi"
-      - "C:/Program Files/nodejs/arm-none-eabi-tapi.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-tapi.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-tapi"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-tapi.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-tapi.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-tapi"
@@ -1137,6 +1131,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-tapi.com"
       - "D:/Git/cmd/arm-none-eabi-tapi.exe"
       - "D:/Git/cmd/arm-none-eabi-tapi"
+      - "D:/01_D_app_download_center/arm-none-eabi-tapi.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-tapi.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-tapi"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-tapi.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-tapi.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-tapi"
@@ -1158,15 +1155,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-tapi.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-tapi.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-tapi"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-tapi.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-tapi.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-tapi"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-tapi.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-tapi.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-tapi"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-tapi.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-tapi.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-tapi"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-tapi.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-tapi.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-tapi"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-tapi.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-tapi.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-tapi"
@@ -1209,9 +1206,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/tapi.com"
       - "C:/Users/ZanePioneer/.local/bin/tapi.exe"
       - "C:/Users/ZanePioneer/.local/bin/tapi"
-      - "C:/Program Files/nodejs/tapi.com"
-      - "C:/Program Files/nodejs/tapi.exe"
-      - "C:/Program Files/nodejs/tapi"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/tapi.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/tapi.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/tapi"
@@ -1221,6 +1215,9 @@ events:
       - "D:/Git/cmd/tapi.com"
       - "D:/Git/cmd/tapi.exe"
       - "D:/Git/cmd/tapi"
+      - "D:/01_D_app_download_center/tapi.com"
+      - "D:/01_D_app_download_center/tapi.exe"
+      - "D:/01_D_app_download_center/tapi"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/tapi.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/tapi.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/tapi"
@@ -1242,15 +1239,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/tapi.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/tapi.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/tapi"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/tapi.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/tapi.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/tapi"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/tapi.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/tapi.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/tapi"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/tapi.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/tapi.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/tapi"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/tapi.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/tapi.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/tapi"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/tapi.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/tapi.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/tapi"
@@ -1269,11 +1266,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -1281,9 +1278,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -1321,10 +1318,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -1332,9 +1329,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc-ar-13.3.com"
@@ -1376,9 +1373,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-13.3.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-13.3.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-13.3"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-13.3.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-13.3.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-13.3"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-13.3.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-13.3.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-13.3"
@@ -1388,6 +1382,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-13.3.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-13.3.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-13.3"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-13.3.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-13.3.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-13.3"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-13.3.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-13.3.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-13.3"
@@ -1409,15 +1406,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-13.3.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-13.3.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-13.3"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.3.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.3.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.3"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-13.3.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-13.3.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-13.3"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-13.3.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-13.3.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-13.3"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.3.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.3.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.3"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-13.3.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-13.3.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-13.3"
@@ -1460,9 +1457,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-13.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-13.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-13"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-13.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-13.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-13"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-13.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-13.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-13"
@@ -1472,6 +1466,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-13.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-13.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-13"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-13.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-13.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-13"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-13"
@@ -1493,15 +1490,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-13"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-13"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-13.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-13.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-13"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-13"
@@ -1544,9 +1541,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar13.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar13.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar13"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar13.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar13.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar13"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar13.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar13.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar13"
@@ -1556,6 +1550,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ar13.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar13.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar13"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar13.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar13.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar13"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar13"
@@ -1577,15 +1574,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar13"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar13.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar13.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar13"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar13.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar13.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar13"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar13.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar13.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar13"
@@ -1605,11 +1602,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -1617,9 +1614,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -1657,10 +1654,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -1668,9 +1665,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc-ranlib-13.3.com"
@@ -1712,9 +1709,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-13.3.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-13.3"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-13.3.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-13.3.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-13.3"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-13.3.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-13.3"
@@ -1724,6 +1718,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-13.3.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-13.3"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-13.3.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-13.3.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-13.3"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-13.3.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-13.3"
@@ -1745,15 +1742,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-13.3.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-13.3"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.3.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.3.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.3"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-13.3.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-13.3"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-13.3.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-13.3"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.3.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.3.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.3"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-13.3.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-13.3"
@@ -1796,9 +1793,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-13.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-13.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-13"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-13.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-13.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-13"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-13.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-13.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-13"
@@ -1808,6 +1802,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-13.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-13.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-13"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-13.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-13.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-13"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-13"
@@ -1829,15 +1826,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-13"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-13"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-13.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-13.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-13"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-13"
@@ -1880,9 +1877,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib13.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib13.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib13"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib13.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib13.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib13"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib13.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib13.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib13"
@@ -1892,6 +1886,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib13.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib13.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib13"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib13.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib13.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib13"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib13"
@@ -1913,15 +1910,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib13"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib13.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib13.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib13"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib13.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib13.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib13"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib13.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib13.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib13"
@@ -1941,11 +1938,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -1953,9 +1950,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -1989,11 +1986,11 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -2001,9 +1998,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/mingw64/bin/arm-none-eabi-g++.com"
@@ -2042,9 +2039,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-g++.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-g++.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-g++"
-      - "C:/Program Files/nodejs/arm-none-eabi-g++.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-g++.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-g++"
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.com"
     found: "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-g++.exe"
     search_context:
@@ -2061,11 +2055,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -2073,9 +2067,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -2116,11 +2110,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -2128,9 +2122,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "message-v1"
@@ -2201,11 +2195,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -2213,9 +2207,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "message-v1"
@@ -2275,10 +2269,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -2286,9 +2280,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc-ar-13.3.com"
@@ -2330,9 +2324,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-13.3.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-13.3.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-13.3"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-13.3.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-13.3.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-13.3"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-13.3.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-13.3.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-13.3"
@@ -2342,6 +2333,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-13.3.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-13.3.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-13.3"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-13.3.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-13.3.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-13.3"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-13.3.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-13.3.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-13.3"
@@ -2363,15 +2357,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-13.3.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-13.3.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-13.3"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.3.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.3.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.3"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-13.3.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-13.3.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-13.3"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-13.3.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-13.3.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-13.3"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.3.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.3.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.3"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-13.3.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-13.3.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-13.3"
@@ -2414,9 +2408,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-13.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-13.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-13"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-13.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-13.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-13"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-13.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-13.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-13"
@@ -2426,6 +2417,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-13.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-13.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-13"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-13.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-13.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-13"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-13"
@@ -2447,15 +2441,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-13"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-13"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-13.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-13.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-13"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-13"
@@ -2498,9 +2492,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar13.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar13.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar13"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar13.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar13.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar13"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar13.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar13.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar13"
@@ -2510,6 +2501,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ar13.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar13.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar13"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar13.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar13.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar13"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar13"
@@ -2531,15 +2525,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar13"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar13.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar13.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar13"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar13.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar13.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar13"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar13.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar13.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar13"
@@ -2559,11 +2553,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -2571,9 +2565,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -2611,10 +2605,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -2622,9 +2616,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc-ranlib-13.3.com"
@@ -2666,9 +2660,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-13.3.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-13.3"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-13.3.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-13.3.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-13.3"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-13.3.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-13.3"
@@ -2678,6 +2669,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-13.3.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-13.3"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-13.3.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-13.3.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-13.3"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-13.3.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-13.3"
@@ -2699,15 +2693,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-13.3.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-13.3"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.3.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.3.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.3"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-13.3.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-13.3"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-13.3.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-13.3"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.3.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.3.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.3"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-13.3.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-13.3.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-13.3"
@@ -2750,9 +2744,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-13.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-13.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-13"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-13.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-13.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-13"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-13.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-13.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-13"
@@ -2762,6 +2753,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-13.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-13.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-13"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-13.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-13.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-13"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-13"
@@ -2783,15 +2777,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-13"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-13"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-13.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-13.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-13"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-13"
@@ -2834,9 +2828,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib13.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib13.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib13"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib13.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib13.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib13"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib13.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib13.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib13"
@@ -2846,6 +2837,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib13.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib13.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib13"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib13.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib13.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib13"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib13"
@@ -2867,15 +2861,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib13.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib13.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib13"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib13.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib13.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib13"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib13.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib13.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib13"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib13.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib13.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib13"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib13.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib13.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib13"
@@ -2895,11 +2889,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -2907,9 +2901,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -2943,11 +2937,11 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -2955,9 +2949,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/mingw64/bin/arm-none-eabi-gcc.com"
@@ -2996,9 +2990,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc"
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.com"
     found: "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc.exe"
     search_context:
@@ -3015,11 +3006,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -3027,9 +3018,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "message-v1"
@@ -3080,10 +3071,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -3091,9 +3082,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc-ar-.com"
@@ -3135,9 +3126,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-"
@@ -3147,6 +3135,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-"
@@ -3168,15 +3159,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-"
@@ -3219,9 +3210,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ar-"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ar-"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ar-"
@@ -3231,6 +3219,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ar-"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ar-"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ar-"
@@ -3252,15 +3243,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ar-"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ar-"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ar-"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ar-"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ar-"
@@ -3280,11 +3271,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -3292,9 +3283,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "find-v1"
@@ -3332,10 +3323,10 @@ events:
       - "C:/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit/"
       - "C:/Program Files (x86)/serialplot/bin/"
       - "C:/Users/ZanePioneer/.local/bin/"
-      - "C:/Program Files/nodejs/"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/"
       - "D:/02_file_storage_center/vscode_file/vscode_environmental_cfg/bin/"
       - "D:/Git/cmd/"
+      - "D:/01_D_app_download_center/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/"
       - "C:/Users/ZanePioneer/AppData/Local/Programs/Python/Python313/Scripts/"
@@ -3343,9 +3334,9 @@ events:
       - "C:/Users/ZanePioneer/AppData/Local/Microsoft/WindowsApps/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/Microsoft VS Code/bin/"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/"
     searched_directories:
       - "C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/arm-none-eabi-gcc-ranlib-.com"
@@ -3387,9 +3378,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-"
@@ -3399,6 +3387,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-"
@@ -3420,15 +3411,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-"
@@ -3471,9 +3462,6 @@ events:
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-.com"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/Users/ZanePioneer/.local/bin/arm-none-eabi-gcc-ranlib-"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-.com"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-.exe"
-      - "C:/Program Files/nodejs/arm-none-eabi-gcc-ranlib-"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-.com"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "C:/CLionToolchains/OpenOCD-20231002-0.12.0/bin/arm-none-eabi-gcc-ranlib-"
@@ -3483,6 +3471,9 @@ events:
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-.com"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/Git/cmd/arm-none-eabi-gcc-ranlib-"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-.com"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-.exe"
+      - "D:/01_D_app_download_center/arm-none-eabi-gcc-ranlib-"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/\u684c\u9762/Scripts/arm-none-eabi-gcc-ranlib-"
@@ -3504,15 +3495,15 @@ events:
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-.com"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3/pycharm\u7684\u4f4d\u7f6e/PyCharm 2024.3.6/bin/arm-none-eabi-gcc-ranlib-"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-.com"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-.exe"
-      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/arm-none-eabi-gcc-ranlib-"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-.com"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/01_D_app_download_center/cursor/resources/app/bin/arm-none-eabi-gcc-ranlib-"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-.com"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-.exe"
+      - "C:/Users/ZanePioneer/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-.com"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-.exe"
       - "D:/01_D_app_download_center/CLion 2026.2.1/bin/ninja/win/x64/arm-none-eabi-gcc-ranlib-"
@@ -3532,11 +3523,11 @@ events:
         - "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\"
         - "C:\\Program Files (x86)\\serialplot\\bin"
         - "C:\\Users\\ZanePioneer\\.local\\bin"
-        - "C:\\Program Files\\nodejs\\"
         - "C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin"
         - "C:\\CLionToolchains\\OpenOCD-20231002-0.12.0\\bin"
         - "D:\\02_file_storage_center\\vscode_file\\vscode_environmental_cfg\\bin"
         - "D:\\Git\\cmd"
+        - "D:\\01_D_app_download_center\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\Scripts\\"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\\u684c\u9762\\"
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\"
@@ -3544,9 +3535,9 @@ events:
         - "C:\\Users\\ZanePioneer\\AppData\\Local\\Microsoft\\WindowsApps"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\Microsoft VS Code\\bin"
         - "D:\\D\u76d8\u4e0b\u8f7d\u4e2d\u5fc3\\pycharm\u7684\u4f4d\u7f6e\\PyCharm 2024.3.6\\bin"
-        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin"
         - "D:\\01_D_app_download_center\\cursor\\resources\\app\\bin"
+        - "C:\\Users\\ZanePioneer\\AppData\\Roaming\\npm"
         - "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\ninja\\win\\x64"
   -
     kind: "try_compile-v1"
@@ -3557,8 +3548,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y1f3z7"
-      binary: "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y1f3z7"
+      source: "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qy4vbf"
+      binary: "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qy4vbf"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: ""
@@ -3568,13 +3559,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y1f3z7'
+        Change Dir: 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qy4vbf'
         
-        Run Build Command(s): "D:/01_D_app_download_center/CLion 2026.2.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/CLionToolchains/mingw64/bin/mingw32-make.exe -f Makefile cmTC_4a73c/fast
-        C:/CLionToolchains/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_4a73c.dir\\build.make CMakeFiles/cmTC_4a73c.dir/build
-        mingw32-make.exe[1]: Entering directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y1f3z7'
-        Building C object CMakeFiles/cmTC_4a73c.dir/CMakeCCompilerABI.c.obj
-        C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_4a73c.dir\\CMakeCCompilerABI.c.obj -c "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"
+        Run Build Command(s): "D:/01_D_app_download_center/CLion 2026.2.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/CLionToolchains/mingw64/bin/mingw32-make.exe -f Makefile cmTC_70440/fast
+        C:/CLionToolchains/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_70440.dir\\build.make CMakeFiles/cmTC_70440.dir/build
+        mingw32-make.exe[1]: Entering directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qy4vbf'
+        Building C object CMakeFiles/cmTC_70440.dir/CMakeCCompilerABI.c.obj
+        C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_70440.dir\\CMakeCCompilerABI.c.obj -c "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"
         Using built-in specs.
         COLLECT_GCC=C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe
         Target: arm-none-eabi
@@ -3582,8 +3573,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 13.3.1 20240614 (Arm GNU Toolchain 13.3.Rel1 (Build arm-13.24)) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_4a73c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_4a73c.dir\\'
-         C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/arm-none-eabi/13.3.1/cc1.exe -quiet -v -iprefix C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/ -isysroot C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi -D__USES_INITFINI__ D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_4a73c.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\cce11BJ1.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_70440.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_70440.dir\\'
+         C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/arm-none-eabi/13.3.1/cc1.exe -quiet -v -iprefix C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/ -isysroot C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi -D__USES_INITFINI__ D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_70440.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\cctuj94b.s
         GNU C17 (Arm GNU Toolchain 13.3.Rel1 (Build arm-13.24)) version 13.3.1 20240614 (arm-none-eabi)
         	compiled by GNU C version 9.3-win32 20200320, GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
         
@@ -3600,18 +3591,18 @@ events:
          C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: d51ba7f24bad5b83998bb941572c85c4
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_4a73c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_4a73c.dir\\'
-         C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_4a73c.dir\\CMakeCCompilerABI.c.obj C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\cce11BJ1.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_70440.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_70440.dir\\'
+         C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_70440.dir\\CMakeCCompilerABI.c.obj C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\cctuj94b.s
         GNU assembler version 2.42.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 13.3.Rel1 (Build arm-13.24)) 2.42.0.20240614
         COMPILER_PATH=C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/arm-none-eabi/13.3.1/;C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/;C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/;C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/;C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/;C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_4a73c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_4a73c.dir\\CMakeCCompilerABI.c.'
-        Linking C static library libcmTC_4a73c.a
-        "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -P CMakeFiles\\cmTC_4a73c.dir\\cmake_clean_target.cmake
-        "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_4a73c.dir\\link.txt --verbose=1
-        arm-none-eabi-ar qc libcmTC_4a73c.a CMakeFiles/cmTC_4a73c.dir/CMakeCCompilerABI.c.obj
-        C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_4a73c.a
-        mingw32-make.exe[1]: Leaving directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y1f3z7'
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_70440.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_70440.dir\\CMakeCCompilerABI.c.'
+        Linking C static library libcmTC_70440.a
+        "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -P CMakeFiles\\cmTC_70440.dir\\cmake_clean_target.cmake
+        "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_70440.dir\\link.txt --verbose=1
+        arm-none-eabi-ar qc libcmTC_70440.a CMakeFiles/cmTC_70440.dir/CMakeCCompilerABI.c.obj
+        C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_70440.a
+        mingw32-make.exe[1]: Leaving directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qy4vbf'
         
       exitCode: 0
   -
@@ -3644,13 +3635,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y1f3z7']
+        ignore line: [Change Dir: 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qy4vbf']
         ignore line: []
-        ignore line: [Run Build Command(s): "D:/01_D_app_download_center/CLion 2026.2.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/CLionToolchains/mingw64/bin/mingw32-make.exe -f Makefile cmTC_4a73c/fast]
-        ignore line: [C:/CLionToolchains/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_4a73c.dir\\build.make CMakeFiles/cmTC_4a73c.dir/build]
-        ignore line: [mingw32-make.exe[1]: Entering directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y1f3z7']
-        ignore line: [Building C object CMakeFiles/cmTC_4a73c.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_4a73c.dir\\CMakeCCompilerABI.c.obj -c "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"]
+        ignore line: [Run Build Command(s): "D:/01_D_app_download_center/CLion 2026.2.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/CLionToolchains/mingw64/bin/mingw32-make.exe -f Makefile cmTC_70440/fast]
+        ignore line: [C:/CLionToolchains/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_70440.dir\\build.make CMakeFiles/cmTC_70440.dir/build]
+        ignore line: [mingw32-make.exe[1]: Entering directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qy4vbf']
+        ignore line: [Building C object CMakeFiles/cmTC_70440.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_70440.dir\\CMakeCCompilerABI.c.obj -c "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe]
         ignore line: [Target: arm-none-eabi]
@@ -3658,8 +3649,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.3.1 20240614 (Arm GNU Toolchain 13.3.Rel1 (Build arm-13.24)) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_4a73c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_4a73c.dir\\']
-        ignore line: [ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/arm-none-eabi/13.3.1/cc1.exe -quiet -v -iprefix C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/ -isysroot C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi -D__USES_INITFINI__ D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_4a73c.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\cce11BJ1.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_70440.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_70440.dir\\']
+        ignore line: [ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/arm-none-eabi/13.3.1/cc1.exe -quiet -v -iprefix C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/ -isysroot C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi -D__USES_INITFINI__ D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_70440.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\cctuj94b.s]
         ignore line: [GNU C17 (Arm GNU Toolchain 13.3.Rel1 (Build arm-13.24)) version 13.3.1 20240614 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 9.3-win32 20200320  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
         ignore line: []
@@ -3676,8 +3667,8 @@ events:
         ignore line: [ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: d51ba7f24bad5b83998bb941572c85c4]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_4a73c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_4a73c.dir\\']
-        ignore line: [ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_4a73c.dir\\CMakeCCompilerABI.c.obj C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\cce11BJ1.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_70440.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_70440.dir\\']
+        ignore line: [ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_70440.dir\\CMakeCCompilerABI.c.obj C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\cctuj94b.s]
         ignore line: [GNU assembler version 2.42.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 13.3.Rel1 (Build arm-13.24)) 2.42.0.20240614]
         ignore line: [COMPILER_PATH=C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/arm-none-eabi/13.3.1/]
         ignore line: [C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/]
@@ -3686,13 +3677,13 @@ events:
         ignore line: [C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/]
         ignore line: [C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_4a73c.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_4a73c.dir\\CMakeCCompilerABI.c.']
-        ignore line: [Linking C static library libcmTC_4a73c.a]
-        ignore line: ["D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -P CMakeFiles\\cmTC_4a73c.dir\\cmake_clean_target.cmake]
-        ignore line: ["D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_4a73c.dir\\link.txt --verbose=1]
-        ignore line: [arm-none-eabi-ar qc libcmTC_4a73c.a CMakeFiles/cmTC_4a73c.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_4a73c.a]
-        ignore line: [mingw32-make.exe[1]: Leaving directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-y1f3z7']
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_70440.dir\\CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_70440.dir\\CMakeCCompilerABI.c.']
+        ignore line: [Linking C static library libcmTC_70440.a]
+        ignore line: ["D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -P CMakeFiles\\cmTC_70440.dir\\cmake_clean_target.cmake]
+        ignore line: ["D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_70440.dir\\link.txt --verbose=1]
+        ignore line: [arm-none-eabi-ar qc libcmTC_70440.a CMakeFiles/cmTC_70440.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_70440.a]
+        ignore line: [mingw32-make.exe[1]: Leaving directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qy4vbf']
         ignore line: []
         ignore line: []
         implicit libs: []
@@ -3710,8 +3701,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-bkku7e"
-      binary: "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-bkku7e"
+      source: "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3d93pj"
+      binary: "D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3d93pj"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -3722,13 +3713,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-bkku7e'
+        Change Dir: 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3d93pj'
         
-        Run Build Command(s): "D:/01_D_app_download_center/CLion 2026.2.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/CLionToolchains/mingw64/bin/mingw32-make.exe -f Makefile cmTC_07564/fast
-        C:/CLionToolchains/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_07564.dir\\build.make CMakeFiles/cmTC_07564.dir/build
-        mingw32-make.exe[1]: Entering directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-bkku7e'
-        Building CXX object CMakeFiles/cmTC_07564.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_07564.dir\\CMakeCXXCompilerABI.cpp.obj -c "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): "D:/01_D_app_download_center/CLion 2026.2.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/CLionToolchains/mingw64/bin/mingw32-make.exe -f Makefile cmTC_980f8/fast
+        C:/CLionToolchains/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_980f8.dir\\build.make CMakeFiles/cmTC_980f8.dir/build
+        mingw32-make.exe[1]: Entering directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3d93pj'
+        Building CXX object CMakeFiles/cmTC_980f8.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_980f8.dir\\CMakeCXXCompilerABI.cpp.obj -c "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe
         Target: arm-none-eabi
@@ -3736,8 +3727,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 13.3.1 20240614 (Arm GNU Toolchain 13.3.Rel1 (Build arm-13.24)) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_07564.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_07564.dir\\'
-         C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/arm-none-eabi/13.3.1/cc1plus.exe -quiet -v -iprefix C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/ -isysroot C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi -D__USES_INITFINI__ D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_07564.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\ccTPvy0l.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_980f8.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_980f8.dir\\'
+         C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/arm-none-eabi/13.3.1/cc1plus.exe -quiet -v -iprefix C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/ -isysroot C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi -D__USES_INITFINI__ D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_980f8.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\cca6F6wA.s
         GNU C++17 (Arm GNU Toolchain 13.3.Rel1 (Build arm-13.24)) version 13.3.1 20240614 (arm-none-eabi)
         	compiled by GNU C version 9.3-win32 20200320, GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
         
@@ -3760,18 +3751,18 @@ events:
          C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: 056642460f9d295d75af1469d5c76882
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_07564.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_07564.dir\\'
-         C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_07564.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\ccTPvy0l.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_980f8.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_980f8.dir\\'
+         C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_980f8.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\cca6F6wA.s
         GNU assembler version 2.42.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 13.3.Rel1 (Build arm-13.24)) 2.42.0.20240614
         COMPILER_PATH=C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/arm-none-eabi/13.3.1/;C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/;C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/;C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/;C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/;C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_07564.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_07564.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX static library libcmTC_07564.a
-        "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -P CMakeFiles\\cmTC_07564.dir\\cmake_clean_target.cmake
-        "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_07564.dir\\link.txt --verbose=1
-        arm-none-eabi-ar qc libcmTC_07564.a CMakeFiles/cmTC_07564.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_07564.a
-        mingw32-make.exe[1]: Leaving directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-bkku7e'
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_980f8.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_980f8.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX static library libcmTC_980f8.a
+        "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -P CMakeFiles\\cmTC_980f8.dir\\cmake_clean_target.cmake
+        "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_980f8.dir\\link.txt --verbose=1
+        arm-none-eabi-ar qc libcmTC_980f8.a CMakeFiles/cmTC_980f8.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_980f8.a
+        mingw32-make.exe[1]: Leaving directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3d93pj'
         
       exitCode: 0
   -
@@ -3810,13 +3801,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-bkku7e']
+        ignore line: [Change Dir: 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3d93pj']
         ignore line: []
-        ignore line: [Run Build Command(s): "D:/01_D_app_download_center/CLion 2026.2.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/CLionToolchains/mingw64/bin/mingw32-make.exe -f Makefile cmTC_07564/fast]
-        ignore line: [C:/CLionToolchains/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_07564.dir\\build.make CMakeFiles/cmTC_07564.dir/build]
-        ignore line: [mingw32-make.exe[1]: Entering directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-bkku7e']
-        ignore line: [Building CXX object CMakeFiles/cmTC_07564.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_07564.dir\\CMakeCXXCompilerABI.cpp.obj -c "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): "D:/01_D_app_download_center/CLion 2026.2.1/bin/cmake/win/x64/bin/cmake.exe" -E env VERBOSE=1 C:/CLionToolchains/mingw64/bin/mingw32-make.exe -f Makefile cmTC_980f8/fast]
+        ignore line: [C:/CLionToolchains/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_980f8.dir\\build.make CMakeFiles/cmTC_980f8.dir/build]
+        ignore line: [mingw32-make.exe[1]: Entering directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3d93pj']
+        ignore line: [Building CXX object CMakeFiles/cmTC_980f8.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe   -fdiagnostics-color=always   -v -o CMakeFiles\\cmTC_980f8.dir\\CMakeCXXCompilerABI.cpp.obj -c "D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-g++.exe]
         ignore line: [Target: arm-none-eabi]
@@ -3824,8 +3815,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 13.3.1 20240614 (Arm GNU Toolchain 13.3.Rel1 (Build arm-13.24)) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_07564.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_07564.dir\\']
-        ignore line: [ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/arm-none-eabi/13.3.1/cc1plus.exe -quiet -v -iprefix C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/ -isysroot C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi -D__USES_INITFINI__ D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_07564.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\ccTPvy0l.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_980f8.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_980f8.dir\\']
+        ignore line: [ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/arm-none-eabi/13.3.1/cc1plus.exe -quiet -v -iprefix C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/ -isysroot C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi -D__USES_INITFINI__ D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_980f8.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -o C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\cca6F6wA.s]
         ignore line: [GNU C++17 (Arm GNU Toolchain 13.3.Rel1 (Build arm-13.24)) version 13.3.1 20240614 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 9.3-win32 20200320  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
         ignore line: []
@@ -3848,8 +3839,8 @@ events:
         ignore line: [ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 056642460f9d295d75af1469d5c76882]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_07564.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_07564.dir\\']
-        ignore line: [ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_07564.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\ccTPvy0l.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_980f8.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_980f8.dir\\']
+        ignore line: [ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles\\cmTC_980f8.dir\\CMakeCXXCompilerABI.cpp.obj C:\\Users\\ZANEPI~1\\AppData\\Local\\Temp\\cca6F6wA.s]
         ignore line: [GNU assembler version 2.42.0 (arm-none-eabi) using BFD version (Arm GNU Toolchain 13.3.Rel1 (Build arm-13.24)) 2.42.0.20240614]
         ignore line: [COMPILER_PATH=C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/arm-none-eabi/13.3.1/]
         ignore line: [C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../libexec/gcc/]
@@ -3858,13 +3849,13 @@ events:
         ignore line: [C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/]
         ignore line: [C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_07564.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_07564.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX static library libcmTC_07564.a]
-        ignore line: ["D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -P CMakeFiles\\cmTC_07564.dir\\cmake_clean_target.cmake]
-        ignore line: ["D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_07564.dir\\link.txt --verbose=1]
-        ignore line: [arm-none-eabi-ar qc libcmTC_07564.a CMakeFiles/cmTC_07564.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_07564.a]
-        ignore line: [mingw32-make.exe[1]: Leaving directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-bkku7e']
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-v' '-o' 'CMakeFiles\\cmTC_980f8.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles\\cmTC_980f8.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX static library libcmTC_980f8.a]
+        ignore line: ["D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -P CMakeFiles\\cmTC_980f8.dir\\cmake_clean_target.cmake]
+        ignore line: ["D:\\01_D_app_download_center\\CLion 2026.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_980f8.dir\\link.txt --verbose=1]
+        ignore line: [arm-none-eabi-ar qc libcmTC_980f8.a CMakeFiles/cmTC_980f8.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\CLionToolchains\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-ranlib.exe libcmTC_980f8.a]
+        ignore line: [mingw32-make.exe[1]: Leaving directory 'D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-3d93pj']
         ignore line: []
         ignore line: []
         implicit libs: []

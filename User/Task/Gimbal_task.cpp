@@ -16,7 +16,13 @@ extern "C" void Gimbal_task(void const * argument)
 
     for (;;)
     {
-        motor.motor_S_loop();            // 角度串级 PID + CAN 发送
+        //motor.motor_S_loop();            // 角度串级 PID + CAN 发送
+        can.can_send(0X2FE,1500,1500,1500, 1500);
+        can.can_send(0X1FE,1500,1500,1500, 1500);
+
+        //HAL_GPIO_TogglePin(GPIOH, GPIO_PIN_10);
+        //HAL_Delay(500);
+
         vTaskDelayUntil(&current_tick, cycle_tick);  // 严格 500Hz
     }
 }

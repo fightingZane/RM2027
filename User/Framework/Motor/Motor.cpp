@@ -16,8 +16,8 @@ CANc can;
 PIDc pid;
 
 //默认上电后是0输出
-float   target_speed = 0.0f;
-uint8_t motor_mode   = MODE_PROTECT;
+float   target_speed = 300.0f;
+uint8_t motor_mode   = MODE_SPEED;
 
 #define SPEED_KP  30.0f
 #define SPEED_KI  1.0f
@@ -37,12 +37,11 @@ void MOTORc::motor_S_PID_Init()
 }
 
 
-//前提是已经调用了can_recevice来获取上一次数据 motor_data(其中包含电机的 当前转速speed,当前位置angle)
+//前提是已经调用了 can_recevice 来获取上一次数据 motor_data(其中包含电机的 当前转速speed,当前位置angle)
 void MOTORc::motor_S_P_loop(float target_angle)
 {
-    can.can_send(0x1FF,0,
-    (int16_t)pid.Pos_Spd_PID(&Spdparam,&Posparam,target_angle,Motor_Data_1.Angle, Motor_Data_1.Speed),
-    0,0);
+    can.can_send(0x1EF,0,0,0,
+    (int16_t)pid.Pos_Spd_PID(&Spdparam,&Posparam,target_angle,Motor_Data_1.Angle, Motor_Data_1.Speed));
 }
 
 void MOTORc::motor_S_loop()
@@ -63,5 +62,5 @@ void MOTORc::motor_S_loop()
     }
 
     // 0x1FF 控制 ID1~4 四个电机；本电机 ID=2，所以电压放第 2 通道(Mess_2)
-    can.can_send(0x1FF, 0, output, 0, 0);
+    can.can_send(0x1EF,0,output,0, 0);
 }
