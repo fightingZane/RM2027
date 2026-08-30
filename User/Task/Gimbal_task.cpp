@@ -12,17 +12,15 @@ extern "C" void Gimbal_task(void const * argument)
     (void)argument;
 
     TickType_t current_tick= xTaskGetTickCount();
+
     const TickType_t cycle_tick = pdMS_TO_TICKS(2);   // 2ms = 500Hz
 
     for (;;)
     {
-        //motor.motor_S_loop();            // 角度串级 PID + CAN 发送
-        can.can_send(0X2FE,1500,1500,1500, 1500);
-        can.can_send(0X1FE,1500,1500,1500, 1500);
+        //motor.motor_S_loop( 300 );            // 速度环 PID + CAN 发送
+        motor.motor_S_P_loop(1000);
 
-        //HAL_GPIO_TogglePin(GPIOH, GPIO_PIN_10);
-        //HAL_Delay(500);
-
+        HAL_GPIO_TogglePin(GPIOH, GPIO_PIN_10);
         vTaskDelayUntil(&current_tick, cycle_tick);  // 严格 500Hz
     }
 }

@@ -54,6 +54,7 @@ include_directories(User/Framework/CAN)
 include_directories(User/Framework/Motor)
 include_directories(User/Framework/PID)
 include_directories(User/Framework/Vofa)
+include_directories(User/Framework/Three_mode)
 
 add_definitions(-DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx)
 

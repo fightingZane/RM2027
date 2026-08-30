@@ -84,6 +84,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.obj.d"
   "CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.obj"
   "CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.obj.d"
+  "CMakeFiles/RM2027.elf.dir/User/Framework/Three_mode/three_mode_user.cpp.obj"
+  "CMakeFiles/RM2027.elf.dir/User/Framework/Three_mode/three_mode_user.cpp.obj.d"
   "CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj"
   "CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj.d"
   "CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj"

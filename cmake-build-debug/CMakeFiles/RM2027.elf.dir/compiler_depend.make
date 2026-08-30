@@ -1613,6 +1613,13 @@ CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.obj: D:/03_RoboMaster_c
 CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/PID/pid.cpp \
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/PID/pid.hpp
 
+CMakeFiles/RM2027.elf.dir/User/Framework/Three_mode/three_mode_user.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Three_mode/three_mode_user.cpp \
+  C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
+  C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/_default_types.h \
+  C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/_stdint.h \
+  C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/features.h \
+  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Three_mode/three_mode_user.h
+
 CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Vofa/vofa.cpp \
   C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_ansi.h \
   C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
@@ -1909,6 +1916,8 @@ D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learn
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h:
 
+D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Three_mode/three_mode_user.h:
+
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:
@@ -2106,6 +2115,8 @@ D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learn
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Middlewares/Third_Party/FreeRTOS/Source/tasks.c:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Motor/Motor.hpp:
+
+D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Three_mode/three_mode_user.cpp:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Vofa/vofa.cpp:
 

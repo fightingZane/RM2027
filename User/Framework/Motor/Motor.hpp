@@ -22,7 +22,7 @@ public:
     void motor_S_P_PID_Init();
     void motor_S_PID_Init();
     void motor_S_P_loop(float target_angle);
-    void motor_S_loop();
+    void motor_S_loop(float target_speed);
 };
 
 //因为 MOTORc motor 是 main() 里的局部变量，但 Gimbal_task 里也要调 motor.motor_loop()，必须让两个文件共享同一个对象（AI

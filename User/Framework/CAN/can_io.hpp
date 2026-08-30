@@ -6,7 +6,7 @@
 #define RM2027_CAN_IO_H
 
 #include <stm32f4xx_hal.h>
-#define Yaw_receive_ID 0x206   //0x204+2(id为2)
+#define Motor_receive_ID 0x206   //0x204+2(id为2)
 
 //结构体命名
 typedef struct

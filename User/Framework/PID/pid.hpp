@@ -8,8 +8,8 @@
 
 #define PID_DEFAULT_PRECISION      1.0    //控制精度，当目标速度与实际速度的差值小于此值时，认为没有误差，pid不再计算
 #define PID_DEFAULT_ERRALL_MAX    30000.0f   //控制ERR_ALL最大值（积分最大值），否则ERR_ALL最大值过大，会使PID反应慢，不稳
-#define PID_DEFAULT_OUTPUT_MAX     30000.0f   //输出限幅
-#define PID_DEFAULT_OUTPUT_STEP_MAX  30000.0f   //输出微分限幅
+#define PID_DEFAULT_OUTPUT_MAX     2000.0f   //输出限幅
+#define PID_DEFAULT_OUTPUT_STEP_MAX  300.0f   //输出微分限幅
 
 //
 //pid通用结构体
@@ -17,7 +17,7 @@
 
 typedef struct
 {
-    float Kp = 0;
+    float Kp = 0 ;
     float Ki = 0;
     float Kd = 0;
 
@@ -43,7 +43,7 @@ typedef struct
 class PIDc {
 
 private:
-    void PID_Update(PID_t *WhichPID,float NowInput,float Target);
+    void PID_Update(PID_t *WhichPID,float feedback,float Target);
     float PID_Calculate(PID_t *WhichPID);
 
 public:

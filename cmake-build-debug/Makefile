@@ -1151,6 +1151,30 @@ User/Framework/PID/pid.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/PID/pid.cpp.s
 .PHONY : User/Framework/PID/pid.cpp.s
 
+User/Framework/Three_mode/three_mode_user.obj: User/Framework/Three_mode/three_mode_user.cpp.obj
+.PHONY : User/Framework/Three_mode/three_mode_user.obj
+
+# target to build an object file
+User/Framework/Three_mode/three_mode_user.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/Three_mode/three_mode_user.cpp.obj
+.PHONY : User/Framework/Three_mode/three_mode_user.cpp.obj
+
+User/Framework/Three_mode/three_mode_user.i: User/Framework/Three_mode/three_mode_user.cpp.i
+.PHONY : User/Framework/Three_mode/three_mode_user.i
+
+# target to preprocess a source file
+User/Framework/Three_mode/three_mode_user.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/Three_mode/three_mode_user.cpp.i
+.PHONY : User/Framework/Three_mode/three_mode_user.cpp.i
+
+User/Framework/Three_mode/three_mode_user.s: User/Framework/Three_mode/three_mode_user.cpp.s
+.PHONY : User/Framework/Three_mode/three_mode_user.s
+
+# target to generate assembly for a file
+User/Framework/Three_mode/three_mode_user.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\RM2027.elf.dir\build.make CMakeFiles/RM2027.elf.dir/User/Framework/Three_mode/three_mode_user.cpp.s
+.PHONY : User/Framework/Three_mode/three_mode_user.cpp.s
+
 User/Framework/Vofa/vofa.obj: User/Framework/Vofa/vofa.cpp.obj
 .PHONY : User/Framework/Vofa/vofa.obj
 
@@ -1360,6 +1384,9 @@ help:
 	@echo ... User/Framework/PID/pid.obj
 	@echo ... User/Framework/PID/pid.i
 	@echo ... User/Framework/PID/pid.s
+	@echo ... User/Framework/Three_mode/three_mode_user.obj
+	@echo ... User/Framework/Three_mode/three_mode_user.i
+	@echo ... User/Framework/Three_mode/three_mode_user.s
 	@echo ... User/Framework/Vofa/vofa.obj
 	@echo ... User/Framework/Vofa/vofa.i
 	@echo ... User/Framework/Vofa/vofa.s
