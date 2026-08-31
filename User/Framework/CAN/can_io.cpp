@@ -3,12 +3,12 @@
 //
 
 #include "can_io.hpp"
-
+#include "Motor.hpp"
 #include "can.h"
 #include "stm32f4xx_hal_can.h"
 
 uint8_t rx_data[8];
-Motor_Data Motor_Data_1;
+
 
 void CANc::can_init()
 {
@@ -34,8 +34,6 @@ void CANc::can_init()
 
  void CANc::can_send(int16_t ID,int16_t Mess_1,int16_t Mess_2,int16_t Mess_3,int16_t Mess_4 )
  {
-
-
      uint32_t Sent_Mailbox = 0;
      CAN_TxHeaderTypeDef Tx_message;
      uint8_t can_send_message[8];
@@ -46,6 +44,7 @@ void CANc::can_init()
      Tx_message.RTR = CAN_RTR_DATA;  //数据帧or遥控帧的选择——>data 数据帧
 
      //数据的拼接，左右移动
+     //因为can_send_message类型为uint8_t只有8个位，一个字节大小，所以要拼接
      can_send_message[0] = Mess_1 >> 8 ;  //取高8位
      can_send_message[1] = Mess_1;        //高8位，直接无视
      can_send_message[2] = Mess_2 >> 8 ;

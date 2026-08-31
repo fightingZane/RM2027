@@ -9,13 +9,6 @@
 #define Motor_receive_ID 0x206   //0x204+2(id为2)
 
 //结构体命名
-typedef struct
-{
-    uint16_t Angle;
-    int16_t Speed;
-    int16_t Current;
-    int16_t Temperature;
-}Motor_Data;
 
 
 class CANc
@@ -29,4 +22,5 @@ public:
 };
 
 extern CANc can;
+
 #endif //RM2027_CAN_IO_H

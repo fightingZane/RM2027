@@ -38,5 +38,8 @@ CMakeFiles/RM2027.elf.dir/User/Framework/CAN/can_io.cpp.obj: \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_tim.h \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_tim_ex.h \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_uart.h \
+ D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\Motor/Motor.hpp \
+ D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\CAN/can_io.hpp \
+ D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\PID/pid.hpp \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Inc/can.h \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Inc/main.h

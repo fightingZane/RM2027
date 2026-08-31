@@ -67,5 +67,6 @@ CMakeFiles/RM2027.elf.dir/Core/Src/main.c.obj: \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Middlewares\Third_Party\FreeRTOS\Source\include/timers.h \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Inc/can.h \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Inc/main.h \
+ D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Inc/dma.h \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Inc/usart.h \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Inc/gpio.h
