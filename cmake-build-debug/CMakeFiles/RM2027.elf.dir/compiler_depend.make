@@ -297,7 +297,8 @@ CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj: D:/03_RoboMaster_center/Hot_Pot
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/CAN/can_io.hpp \
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Motor/motor.hpp \
-  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/PID/pid.hpp
+  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/PID/pid.hpp \
+  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Vofa/vofa.h
 
 CMakeFiles/RM2027.elf.dir/Core/Src/stm32f4xx_hal_msp.c.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Src/stm32f4xx_hal_msp.c \
   C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_newlib_version.h \
@@ -1719,7 +1720,8 @@ CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj: D:/03_RoboMaster_cen
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/CAN/can_io.hpp \
   D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Motor/Motor.hpp \
-  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/PID/pid.hpp
+  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/PID/pid.hpp \
+  D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Vofa/vofa.h
 
 CMakeFiles/RM2027.elf.dir/User/Task/Gimbal_task.cpp.obj: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Task/Gimbal_task.cpp \
   C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/_ansi.h \
@@ -2042,6 +2044,8 @@ D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learn
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/PID/pid.hpp:
 
+D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Vofa/vofa.h:
+
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Src/stm32f4xx_hal_msp.c:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/Core/Src/stm32f4xx_hal_timebase_tim.c:
@@ -2179,5 +2183,3 @@ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Task/Gimbal_task.cpp:
 
 D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Task/Print_task.cpp:
-
-D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/User/Framework/Vofa/vofa.h:

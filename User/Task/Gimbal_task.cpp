@@ -27,36 +27,16 @@ extern "C" void Gimbal_task(void const * argument)
 
     TickType_t current_tick= xTaskGetTickCount();
 
-    const TickType_t cycle_tick = pdMS_TO_TICKS(2);   // 2ms = 500Hz
+    const TickType_t cycle_tick = pdMS_TO_TICKS(2);
 
 
-    //增加 模式切换时pid清除步骤
-    uint8_t last_mode = 0xFF;  //设置一个不可能的值
     for (;;)
     {
-        //如果模式切换,要清除pid的值
-        if (motor_mode != last_mode)
-        {
-            pid.PID_Clear(&Spdparam);
-            pid.PID_Clear(&Posparam);
-            last_mode = motor_mode;
-        }
+        yaw_motor.motor_Update();
+        pitch_motor.motor_Update();
 
-        //考核第一题
-        if ( motor_mode == MODE_POSITION )
-        {
-            motor.motor_S_P_loop(target_angle);
-        }
-        else if ( motor_mode == MODE_SPEED )
-        {
-            motor.motor_S_loop(target_speed);
-        }
-        else if ( motor_mode == MODE_PROTECT )
-        {
-            pid.PID_Clear( & Spdparam );
-            pid.PID_Clear( & Posparam );
-            //啥也不干,清除一下
-        }
-        vTaskDelayUntil(&current_tick, cycle_tick);  // 严格 500Hz
+        can.can_send(0x1FE, pitch_motor.Get_Out(), yaw_motor.Get_Out(), 0, 0);
+
+        vTaskDelayUntil(&current_tick, cycle_tick);
     }
 }

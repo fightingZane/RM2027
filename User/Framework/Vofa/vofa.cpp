@@ -4,6 +4,7 @@
 #include "usart.h"
 #include "Motor.hpp"
 #include <stdlib.h>
+#include "vofa.h"
 
 #define RX_DMA_BUF_SIZE 64
 
@@ -78,16 +79,20 @@ void Vofa_Command_analyze(void)
     {
         switch (line[0])
         {
-        case 's': case 'S':
-            target_speed = (float)atof(&line[1]);
-            break;
         case 'm': case 'M':
             if (line[1] == '0') motor_mode = MODE_PROTECT;
             if (line[1] == '1') motor_mode = MODE_SPEED;
             if (line[1] == '2') motor_mode = MODE_POSITION;
             break;
-        case 'p': case 'P':
-            target_angle = (float) atof ( &line[1] );
+            
+        case 's': case 'S':
+            if (line[1] == 'y' || line[1] == 'Y') yaw_motor.target_speed   = (float)atof(&line[2]);
+            if (line[1] == 'p' || line[1] == 'P') pitch_motor.target_speed = (float)atof(&line[2]);
+            break;
+
+        case 'a': case 'A':
+            if (line[1] == 'y' || line[1] == 'Y') yaw_motor.target_angle   = (float)atof(&line[2]);
+            if (line[1] == 'p' || line[1] == 'P') pitch_motor.target_angle = (float)atof(&line[2]);
             break;
         default:
             break;

@@ -61,4 +61,5 @@ CMakeFiles/RM2027.elf.dir/User/Framework/Vofa/vofa.cpp.obj: \
  C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/sys/lock.h \
  C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/machine/stdlib.h \
  C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/alloca.h \
- C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/std_abs.h
+ C:/CLionToolchains/gcc-arm-none-eabi-10.3-2021.10/arm-none-eabi/include/c++/13.3.1/bits/std_abs.h \
+ D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\Vofa\vofa.h

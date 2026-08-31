@@ -10,21 +10,18 @@
 
 PID_t Posparam , Spdparam;
 
-MOTORc motor;
+
 CANc can;
 PIDc pid;
-Motor_Data Motor_Data_1;
+
+MOTORc pitch_motor;
+MOTORc yaw_motor;
 
 //默认上电后是0输出,默认第一种保护模式
-float target_speed = 0.0f;
-float target_angle = 0.0f;
 uint8_t motor_mode   = MODE_PROTECT;
 
-/*
-* @part   01角度模式 初始化&串级pid
-* @brief  保持在要求的特定的角度
-*/
 
+//双环初始化
 void MOTORc::motor_S_P_PID_Init()
 {
     can.can_init();
@@ -34,11 +31,56 @@ void MOTORc::motor_S_P_PID_Init()
         ,1.0f,30000.0f,2000.0f,300.0f);
 }
 
+
+//连续角度追踪,让所有的旋转都是在一个连续的角度上cont_angle就是开机到现在旋转的总角度
+void MOTORc::Update_cont_Angle()
+{
+    //此处的feedback只不过是特定电机的motor_data的指针罢了
+    float raw   = (float)feedback->Angle;
+    float delta = raw - last_raw;//delta->差值
+    if (delta > 4096.0f)  //说明是从0->8191,计算会出现8000+,所以要减去一个8192
+    {
+        delta -= 8192.0f;
+    }
+    if (delta < -4096.0f) //同上,这个就是 8191->0 所以加上一个8191
+    {
+        delta += 8192.0f;
+    }
+
+    cont_angle += delta; //把正确的角度变化加在总的角度上
+
+    last_raw = raw; //更新一下
+}
+
+
+//速度模式+限位
+void MOTORc::motor_S_loop(float target_speed)
+{
+    Update_cont_Angle();
+
+    //限位
+    float spd = target_speed;
+    if (cont_angle >= limit_max && spd > 0.0f) spd = 0.0f;
+    if (cont_angle <= limit_min && spd < 0.0f) spd = 0.0f;
+
+    out = (int16_t)pid.SingleLoop_PID
+                (&Spdparam,spd,target_speed);
+
+   // can.can_send(0x1FE,0,out,0, 0); ??????????????????
+}
+
+
+//位置模式+限位+最短路径
 void MOTORc::motor_S_P_loop(float target_angle)
 {
-    //最短路径解决:
-    //方法1是修改旋转方向 ,方法2是直接让angle向前后者向后多转一圈!!(如下:nb!!
-    float feedback_round = (float) Motor_Data_1.Angle;
+    Update_cont_Angle();
+
+    //限位
+    if (target_angle >= limit_max)  target_angle = limit_max;
+    if (target_angle <= limit_min)  target_angle = limit_min;
+
+    //最短路径
+    float feedback_round = cont_angle;
     float diff = target_angle - feedback_round ;
     if (diff > 4096.0f)
     {
@@ -49,31 +91,26 @@ void MOTORc::motor_S_P_loop(float target_angle)
         feedback_round = feedback_round - 8192.0f;   //目标值太落后了,往后挪一圈
     }
 
-    int16_t output = 0;
-    output = (int16_t)pid.Pos_Cascade_PID  //包含pid_update在此
-            (&Spdparam,&Posparam,target_angle,feedback_round,Motor_Data_1.Speed);
+    out = (int16_t)pid.Pos_Cascade_PID  //包含pid_update在此
+            (&Spdparam,&Posparam,target_angle,feedback_round,feedback->Speed);
 
-    can.can_send(0x1FE,0,output,0,0);
+    //can.can_send(0x1FE,0,output,0,0);???????????????
 }
 
-/*
-* @part   02速度模式
-* @brief  按照设定速度旋转，这里是只有一个速度环
-*/
-
-void MOTORc::motor_S_PID_Init()
+void MOTORc::motor_Update()
 {
-    can.can_init();
-    pid.PID_Init(&Spdparam, 20.0f, 0.002f, 0.0f
-        ,1.0f,30000.0f,2000.0f,300.0f);
+    if (motor_mode != last_mode) // 模式切换瞬间清积分
+    {
+        pid.PID_Clear(&Spdparam);
+        pid.PID_Clear(&Posparam);
+        last_mode = motor_mode;
+    }
+
+    if (motor_mode == MODE_POSITION)
+        motor_S_P_loop(target_angle);
+    else if (motor_mode == MODE_SPEED)
+        motor_S_loop(target_speed);
+    else  // 保护模式：零扭矩就是out=0;
+        out = 0;
 }
 
-
-void MOTORc::motor_S_loop(float target_speed)
-{
-    int16_t output = 0;
-    output = (int16_t)pid.SingleLoop_PID
-                (&Spdparam,(float)Motor_Data_1.Speed,target_speed);
-
-    can.can_send(0x1FE,0,output,0, 0);
-}

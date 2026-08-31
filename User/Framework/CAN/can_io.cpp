@@ -9,6 +9,8 @@
 
 uint8_t rx_data[8];
 
+//电机结构体
+Motor_Data gimbal_data[MOTOR_NUM];
 
 void CANc::can_init()
 {
@@ -65,15 +67,19 @@ void CANc::can_receive()
     HAL_CAN_GetRxMessage(&hcan1, CAN_RX_FIFO0, &rx_header, rx_data );
 
     ID =(int16_t) rx_header.StdId;
+
+    int idx ;
+    idx =(int) rx_header.StdId -(0x204+1); //这样1号电机就是gimbal_data[0]以此类推最多八个电机
+
     switch (ID)
     {
-        case Motor_receive_ID : {
-        Motor_Data_1.Angle     = (int16_t)((rx_data[0] << 8) | rx_data[1]);
-        Motor_Data_1.Speed     = (int16_t)((rx_data[2] << 8) | rx_data[3]);
-        Motor_Data_1.Current   = (int16_t)((rx_data[4] << 8) | rx_data[5]);
-        Motor_Data_1.Temperature = rx_data[6];
-        break;
-        }
+        case Motor_receive_ID_1:
+        case Motor_receive_ID_2:
+            gimbal_data[idx].Angle = (int16_t)((rx_data[0] << 8) | rx_data[1]);
+            gimbal_data[idx].Speed     = (int16_t)((rx_data[2] << 8) | rx_data[3]);
+            gimbal_data[idx].Current   = (int16_t)((rx_data[4] << 8) | rx_data[5]);
+            gimbal_data[idx].Temperature = rx_data[6];
+            break;
         default:
             break;
     }

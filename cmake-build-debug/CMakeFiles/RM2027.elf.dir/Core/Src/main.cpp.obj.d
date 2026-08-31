@@ -1,6 +1,6 @@
 CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj: \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Src\main.cpp \
- D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Inc/main.h \
+ D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\CAN/can_io.hpp \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal.h \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Inc/stm32f4xx_hal_conf.h \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_rcc.h \
@@ -38,6 +38,7 @@ CMakeFiles/RM2027.elf.dir/Core/Src/main.cpp.obj: \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_tim.h \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_tim_ex.h \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Drivers\STM32F4xx_HAL_Driver\Inc/stm32f4xx_hal_uart.h \
- D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\CAN/can_io.hpp \
  D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\Motor/motor.hpp \
- D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\PID/pid.hpp
+ D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\PID/pid.hpp \
+ D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\Core\Inc/main.h \
+ D:\03_RoboMaster_center\Hot_Pot_RM\RM_training_center\learning_project\CAN_learning_2_templete_hexu\User\Framework\Vofa/vofa.h
