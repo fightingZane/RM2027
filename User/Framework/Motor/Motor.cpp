@@ -75,5 +75,5 @@ void MOTORc::motor_S_loop(float target_speed)
     output = (int16_t)pid.SingleLoop_PID
                 (&Spdparam,(float)Motor_Data_1.Speed,target_speed);
 
-    can.can_send(0x1EF,0,output,0, 0);
+    can.can_send(0x1FE,0,output,0, 0);
 }

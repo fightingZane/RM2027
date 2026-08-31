@@ -65,6 +65,7 @@ void main_init()
   SystemClock_Config();
   MX_GPIO_Init();
   MX_CAN1_Init();
+  MX_DMA_Init();
   MX_USART1_UART_Init();
 
 }

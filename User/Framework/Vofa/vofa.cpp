@@ -5,26 +5,24 @@
 #include "Motor.hpp"
 #include <stdlib.h>
 
-//中断里改，主循环里读取的变量都要加volatile，防止被编译器优化！
-static volatile uint8_t  rx_line[32];
-//用于存放vofa收到的命令,注意这里不能使用uint16_t
-//并且uint8_t是储存文本字符,而不是数字本身,所以8191->四个字符四个字节 ,8个字节 完全够用
-static volatile uint8_t  rx_num = 0;    //用于存放字符个数和下一个写入字符的索引
-static volatile uint8_t rx_line_ready = 0;  //标志位，当收到换行符，该变量写为1，是主函数读取收到的命令 的指令
-static uint8_t  rx_byte;  //用于临时存放刚从串口收到的那一个字节。因为中断接收一次只接收一个字节
+#define RX_DMA_BUF_SIZE 64
+
+static uint8_t            rx_dma_buf[RX_DMA_BUF_SIZE];
+static volatile uint8_t   rx_dma_ready = 0;
+static volatile uint16_t  rx_dma_len   = 0;
 
 extern float   target_speed;
 extern float   target_angle;
 
 /*
 * @name   Vofa_RxStart
-* @brief  作用是启动串口中断接收
+* @brief  启动 DMA+空闲中断接收
 * @param  none
 * @retval none
 */
 void Vofa_RxStart()
 {
-    HAL_UART_Receive_IT (&huart1, &rx_byte, 1);
+    HAL_UARTEx_ReceiveToIdle_DMA(&huart1, rx_dma_buf, RX_DMA_BUF_SIZE);
 }
 
 /*
@@ -33,30 +31,16 @@ void Vofa_RxStart()
 * @param  huart uart1的句柄
 * @retval none
 */
-void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
+
+extern "C" void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef *huart, uint16_t Size)
 {
     //不是usart1不管
     if (huart->Instance != USART1)
     {
         return;
     }
-
-    if (rx_byte == '\n' || rx_byte == '\r')
-    {
-        rx_line[rx_num] = '\0';  //字符串最后都是有一个\0来表示字符串的的结束
-        rx_line_ready = 1;  //标志
-        rx_num = 0;
-    }
-    else if (rx_num < sizeof(rx_line) - 1)
-    {
-        rx_line[rx_num++] = rx_byte;
-        //不能写成这个：会漏rx_line[0]
-        // rx_num++;//计数
-        // rx_line[rx_num] = rx_byte;
-    }
-
-
-    HAL_UART_Receive_IT(&huart1, &rx_byte, 1);   // 继续收下一字节
+    rx_dma_len   = Size;   // 本次收到多少字节
+    rx_dma_ready = 1;      // 只置标志，不解析、不重启接收
 }
 
 
@@ -67,32 +51,48 @@ void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart)
 * @retval none
 * 00:atof: 字符串转化为浮点数
 */
-void Vofa_Command_analyze()
+void Vofa_Command_analyze(void)
 {
-    if (rx_line_ready == 0)
+    if (rx_dma_ready == 0)
     {
         return;
     }
-    //如果rx_line_ready不是0,就是1,则先将rx_line_ready置为0
-    rx_line_ready = 0;
+    rx_dma_ready = 0;
 
-    switch (rx_line[0])
+
+    char line[32];
+    uint16_t n = 0;
+    for (uint16_t i = 0; i < rx_dma_len && n < (uint16_t)sizeof(line) - 1; i++)
     {
-    case 's': case 'S':
-        target_speed =  ( float ) atof ( (char *) &rx_line[1] );  //rx_line[1]是字符串,转化为浮点数
-        break;
-
-    case 'm': case 'M':
-        if (rx_line[1] == '0') motor_mode = MODE_PROTECT;
-        if (rx_line[1] == '1') motor_mode = MODE_SPEED;
-        if (rx_line[1] == '2') motor_mode = MODE_POSITION;
-        break;
-
-    case 'p':case 'P':
-        target_angle =  ( float ) atof ( (char *) &rx_line[1] );
-        break;
-
-    default:
-        break;
+        char c = (char)rx_dma_buf[i];
+        if (c == '\r' || c == '\n')
+        {
+            if (n > 0) break;      // 行结束
+            continue;              // 跳过行首的空白
+        }
+        line[n++] = c;
     }
+    line[n] = '\0';
+
+    if (n > 0)
+    {
+        switch (line[0])
+        {
+        case 's': case 'S':
+            target_speed = (float)atof(&line[1]);
+            break;
+        case 'm': case 'M':
+            if (line[1] == '0') motor_mode = MODE_PROTECT;
+            if (line[1] == '1') motor_mode = MODE_SPEED;
+            if (line[1] == '2') motor_mode = MODE_POSITION;
+            break;
+        case 'p': case 'P':
+            target_angle = (float) atof ( &line[1] );
+            break;
+        default:
+            break;
+        }
+    }
+
+    Vofa_RxStart();   // 解析完毕才重启接收，保证缓冲不被覆盖
 }
