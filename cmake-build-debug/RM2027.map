@@ -1548,7 +1548,7 @@ Discarded input sections
  .ARM.extab.text._ZN6MOTORc14motor_S_P_loopEf
                 0x00000000        0x0 CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.obj
  .text._ZN6MOTORc16motor_S_PID_InitEv
-                0x00000000       0x4c CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.obj
+                0x00000000       0x50 CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.obj
  .ARM.extab.text._ZN6MOTORc16motor_S_PID_InitEv
                 0x00000000        0xc CMakeFiles/RM2027.elf.dir/User/Framework/Motor/Motor.cpp.obj
  .ARM.exidx.text._ZN6MOTORc16motor_S_PID_InitEv

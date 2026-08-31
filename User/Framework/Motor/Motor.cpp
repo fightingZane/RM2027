@@ -30,7 +30,7 @@ void MOTORc::motor_S_P_PID_Init()
     can.can_init();
     pid.PID_Init(&Spdparam,20.0f,0.02f,0.0f
         ,1.0f,30000.0f,2000.0f,300.0f);
-    pid.PID_Init(&Posparam,0.3f,0.001f,0.0f
+    pid.PID_Init(&Posparam,0.3f,0.005f,0.0f
         ,1.0f,30000.0f,2000.0f,300.0f);
 }
 
@@ -64,7 +64,7 @@ void MOTORc::motor_S_P_loop(float target_angle)
 void MOTORc::motor_S_PID_Init()
 {
     can.can_init();
-    pid.PID_Init(&Spdparam, 30.0f, 1.0f, 0.0f
+    pid.PID_Init(&Spdparam, 20.0f, 0.002f, 0.0f
         ,1.0f,30000.0f,2000.0f,300.0f);
 }
 
