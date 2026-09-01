@@ -7,11 +7,11 @@
 #include "main.h"
 #include "vofa.h"
 
-#define YAW_LIMIT_MIN    (1300.0f)
-#define YAW_LIMIT_MAX    (6900.0f)
+#define YAW_LIMIT_MIN    (1500.0f)
+#define YAW_LIMIT_MAX    (6500.0f)
 
-#define PITCH_LIMIT_MIN  (3000.0f)
-#define PITCH_LIMIT_MAX  (7900.0f)
+#define PITCH_LIMIT_MIN  (3200.0f)
+#define PITCH_LIMIT_MAX  (7500.0f)
 
 
 
