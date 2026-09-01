@@ -14,6 +14,6 @@
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Minimal optimization, debug info included
--- Configuring done (1.6s)
+-- Configuring done (4.8s)
 -- Generating done (0.0s)
 -- Build files have been written to: D:/03_RoboMaster_center/Hot_Pot_RM/RM_training_center/learning_project/CAN_learning_2_templete_hexu/cmake-build-debug

@@ -5,9 +5,6 @@
 #include "Motor.hpp"
 #include "pid.hpp"
 
-//定义在motor.cpp文件中
-extern float target_speed;
-extern float target_angle;
 /*
  *FREERTOS小课堂喵：
  *

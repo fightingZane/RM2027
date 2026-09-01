@@ -7,10 +7,10 @@
 #include "main.h"
 #include "vofa.h"
 
-#define YAW_LIMIT_MIN    (1200.0f)
+#define YAW_LIMIT_MIN    (1300.0f)
 #define YAW_LIMIT_MAX    (6900.0f)
 
-#define PITCH_LIMIT_MIN  (2900.0f)
+#define PITCH_LIMIT_MIN  (3000.0f)
 #define PITCH_LIMIT_MAX  (7900.0f)
 
 
@@ -22,8 +22,8 @@ int main(){
   yaw_motor.motor_S_P_PID_Init();
   pitch_motor.motor_S_P_PID_Init();
 
-  yaw_motor.bind_fb_pointor (&gimbal_data[0]);
-  pitch_motor.bind_fb_pointor (&gimbal_data[1]);
+  yaw_motor.bind_fb_pointor (&gimbal_data[1]);//下电机2 yaw
+  pitch_motor.bind_fb_pointor (&gimbal_data[0]);//上电机1 pitch
 
   yaw_motor.Set_Limit(YAW_LIMIT_MIN, YAW_LIMIT_MAX);
   pitch_motor.Set_Limit(PITCH_LIMIT_MIN, PITCH_LIMIT_MAX);

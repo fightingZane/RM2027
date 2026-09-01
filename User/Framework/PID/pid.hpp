@@ -25,7 +25,7 @@ typedef struct
     float PID_Precision = 1.0f ; //控制精度，当目标速度与实际速度的差值小于此值时，认为没有误差，pid不再计算
     //保护机制
     float PID_ErrAllMax = 30000.0f ; //控制ERR_ALL最大值（积分最大值），因为每秒500hz，误差累计的还是比较快的，所以给大一点
-    float PID_OutMax = 2000.0f ; //PID输出限幅
+    float PID_OutMax = 150.0f ; //PID输出限幅
     float PID_OutStep = 300.0f ; //PID输出步幅限制
 
 } PID_t;

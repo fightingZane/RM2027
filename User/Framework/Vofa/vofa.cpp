@@ -12,8 +12,8 @@ static uint8_t            rx_dma_buf[RX_DMA_BUF_SIZE];
 static volatile uint8_t   rx_dma_ready = 0;
 static volatile uint16_t  rx_dma_len   = 0;
 
-extern float   target_speed;
-extern float   target_angle;
+
+
 
 /*
 * @name   Vofa_RxStart
@@ -50,7 +50,7 @@ extern "C" void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef *huart, uint16_t S
 * @brief  解析收到的命令的函数
 * @param  none
 * @retval none
-* 00:atof: 字符串转化为浮点数
+* 00:  atof: 字符串转化为浮点数！！！！！！！！！！！
 */
 void Vofa_Command_analyze(void)
 {
@@ -68,8 +68,8 @@ void Vofa_Command_analyze(void)
         char c = (char)rx_dma_buf[i];
         if (c == '\r' || c == '\n')
         {
-            if (n > 0) break;      // 行结束
-            continue;              // 跳过行首的空白
+            if (n > 0) break;
+            continue;
         }
         line[n++] = c;
     }
@@ -84,10 +84,10 @@ void Vofa_Command_analyze(void)
             if (line[1] == '1') motor_mode = MODE_SPEED;
             if (line[1] == '2') motor_mode = MODE_POSITION;
             break;
-            
+
         case 's': case 'S':
-            if (line[1] == 'y' || line[1] == 'Y') yaw_motor.target_speed   = (float)atof(&line[2]);
-            if (line[1] == 'p' || line[1] == 'P') pitch_motor.target_speed = (float)atof(&line[2]);
+            if (line[1] == 'y' || line[1] == 'Y') yaw_motor.set_target_speed   ((float)atof(&line[2]));
+            if (line[1] == 'p' || line[1] == 'P') pitch_motor.set_target_speed ((float)atof(&line[2]));
             break;
 
         case 'a': case 'A':

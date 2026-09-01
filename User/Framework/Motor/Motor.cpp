@@ -7,10 +7,6 @@
 #include "pid.hpp"
 
 
-
-PID_t Posparam , Spdparam;
-
-
 CANc can;
 PIDc pid;
 
@@ -36,7 +32,17 @@ void MOTORc::motor_S_P_PID_Init()
 void MOTORc::Update_cont_Angle()
 {
     //此处的feedback只不过是特定电机的motor_data的指针罢了
-    float raw   = (float)feedback->Angle;
+    float raw   = (float) feedback->Angle;
+
+    // 第一次进来：把当前原始角度作为连续角度的起点
+    if (!angle_initialized)
+    {
+        cont_angle = raw;
+        last_raw   = raw;
+        angle_initialized = true;
+        return;
+    }
+
     float delta = raw - last_raw;//delta->差值
     if (delta > 4096.0f)  //说明是从0->8191,计算会出现8000+,所以要减去一个8192
     {
@@ -56,17 +62,24 @@ void MOTORc::Update_cont_Angle()
 //速度模式+限位
 void MOTORc::motor_S_loop(float target_speed)
 {
-    Update_cont_Angle();
+    float raw = (float) feedback->Angle;
 
-    //限位
-    float spd = target_speed;
-    if (cont_angle >= limit_max && spd > 0.0f) spd = 0.0f;
-    if (cont_angle <= limit_min && spd < 0.0f) spd = 0.0f;
+    //此处为反弹代码，限位+反弹巡航
+    if (raw >= limit_max - limit_margin && speed_dir > 0)
+    {
+        speed_dir = -1;
+        pid.PID_Clear(&Spdparam);
+    }
 
+    else if (raw <= limit_min + limit_margin && speed_dir < 0)
+    {
+        speed_dir = 1;
+        pid.PID_Clear(&Spdparam);
+    }
+
+    float spd = target_speed * (float)speed_dir;//速度加上方向
     out = (int16_t)pid.SingleLoop_PID
-                (&Spdparam,spd,target_speed);
-
-   // can.can_send(0x1FE,0,out,0, 0); ??????????????????
+                (&Spdparam,(float)feedback->Speed,spd);
 }
 
 
@@ -94,7 +107,6 @@ void MOTORc::motor_S_P_loop(float target_angle)
     out = (int16_t)pid.Pos_Cascade_PID  //包含pid_update在此
             (&Spdparam,&Posparam,target_angle,feedback_round,feedback->Speed);
 
-    //can.can_send(0x1FE,0,output,0,0);???????????????
 }
 
 void MOTORc::motor_Update()
