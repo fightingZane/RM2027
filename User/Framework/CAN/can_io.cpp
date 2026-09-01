@@ -3,6 +3,9 @@
 //
 
 #include "can_io.hpp"
+
+#include <string.h>
+
 #include "Motor.hpp"
 #include "can.h"
 #include "stm32f4xx_hal_can.h"
@@ -11,6 +14,29 @@ uint8_t rx_data[8];
 
 //电机结构体
 Motor_Data gimbal_data[MOTOR_NUM];
+Board_Msg board_msg;
+
+//第三题：
+void board_send_float(uint16_t id, float v)
+{
+    uint8_t buf[8] = {0};
+    memcpy(buf, &v, 4);              // float 4 字节小端
+    can.can_send(id, (buf[0]<<8)|buf[1], (buf[2]<<8)|buf[3], 0, 0);
+}
+
+void board_send_deg(float deg)  { board_send_float(BOARD_ID_DEG, deg); }
+
+void board_send_rad(float rad)  { board_send_float(BOARD_ID_RAD, rad); }
+
+void board_send_hello(void)
+{
+    static uint16_t seq = 0;
+    can.can_send(BOARD_ID_HELLO, 0x00AA, seq++, 0, 0);
+}
+
+
+
+
 
 void CANc::can_init()
 {
@@ -73,6 +99,7 @@ void CANc::can_receive()
 
     switch (ID)
     {
+        //题目2：
         case Motor_receive_ID_1:
         case Motor_receive_ID_2:
             gimbal_data[idx].Angle = (int16_t)((rx_data[0] << 8) | rx_data[1]);
@@ -80,8 +107,33 @@ void CANc::can_receive()
             gimbal_data[idx].Current   = (int16_t)((rx_data[4] << 8) | rx_data[5]);
             gimbal_data[idx].Temperature = rx_data[6];
             break;
-        default:
+
+        //memcpy将数据直接复制到指定的位置
+        //题目3：
+        case BOARD_ID_DEG:
+            memcpy(&board_msg.deg_in, rx_data, 4);
+            board_msg.deg_new = 1;
             break;
+        case BOARD_ID_RAD_IN:
+            memcpy(&board_msg.rad_in, rx_data, 4);
+            board_msg.rad_new = 1;
+            break;
+        case BOARD_ID_RAD:
+            memcpy(&board_msg.result_rad, rx_data, 4);
+            break;
+        case BOARD_ID_DEG_OUT:
+            memcpy(&board_msg.result_deg, rx_data, 4);
+            break;
+        case BOARD_ID_HELLO:
+            board_msg.hello_flag = 1;
+            board_msg.hello_count++;
+            break;
+        case BOARD_ID_REPLY:
+            board_msg.reply_flag = 1;
+            break;
+
+            default:
+                break;
     }
 
 

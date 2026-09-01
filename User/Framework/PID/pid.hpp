@@ -12,17 +12,17 @@ typedef struct
     float Ki = 0;
     float Kd = 0;
 
-    float PID_Err_now = 0;    //这次误差
-    float PID_Err_last = 0;   //上次误差（算ki用的）
-    float PID_Err_all = 0;    //总误差
+    float PID_Err_now = 0;//这次误差
+    float PID_Err_last = 0;//上次误差（算ki用的）
+    float PID_Err_all = 0;//总误差
 
     float PID_Out = 0;
     float PID_last_Out = 0;
     float PID_Target = 0;
-    float PID_feedback = 0;  //pid的输入反馈值
+    float PID_feedback = 0;//pid的输入反馈值
 
     //很接近时不再计算
-    float PID_Precision = 1.0f ; //控制精度，当目标速度与实际速度的差值小于此值时，认为没有误差，pid不再计算
+    float PID_Precision = 1.0f ;//控制精度，当目标速度与实际速度的差值小于此值时，认为没有误差，pid不再计算
     //保护机制
     float PID_ErrAllMax = 30000.0f ; //控制ERR_ALL最大值（积分最大值），因为每秒500hz，误差累计的还是比较快的，所以给大一点
     float PID_OutMax = 150.0f ; //PID输出限幅
